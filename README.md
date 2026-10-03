@@ -2,6 +2,8 @@
 
 MapleStory Classic World 法师 1–32+ 级开荒手册。基于用户提供的奇怪小鸭视频转写，整理 92 个法师／共用路线步骤。
 
+在线访问：https://chenwasrunning.github.io/GMSCW_Mage_Task/
+
 ## 使用
 
 直接用浏览器打开 `dist/index.html`，或在项目中运行 `python3 -m http.server 8080 --directory dist`，访问 http://localhost:8080 。无构建依赖，无需账号或游戏登录。
@@ -10,7 +12,10 @@ MapleStory Classic World 法师 1–32+ 级开荒手册。基于用户提供的�
 - 顶部始终显示最靠前未完成任务、所需消耗、获得与注意事项。
 - 右侧显示完成当前任务后的预计等级、累计材料背包；43 个本地游戏图标。
 - 材料获得累加、交付扣除，撤销自动回滚。乱序完成会提示库存缺口。
-- 进度仅存在当前浏览器 localStorage，不跨设备同步；不会连接游戏读取背包。
+- 新设备默认从空白清单开始；未设置 identifier 时在本机保存。
+- 顶部输入 1–200 个字符的 identifier，点击“创建并保存”保存当前进度，后续勾选自动同步。重名会提示选择其他字符串，不覆盖已有进度。
+- 换设备输入同一 identifier，点击“读取进度”。identifier 区分大小写，忽略首尾空格，统一 Unicode NFC。知道 identifier 的人可以读取和修改进度，请使用不易猜到的字符串，不要使用密码或个人敏感信息。
+- 断网保留本机修改，支持重试；多设备同时修改使用版本检查，冲突时明确提示读取云端或另建副本。不会连接游戏读取背包。
 - `dist/GMSCW_Mage_Task.xlsx` 提供 92 步完整流程与 777 行逐步背包快照。Excel 完成栏用下拉 ☑ 灰显，实时背包与动画位于网页。
 
 ## 数据口径
@@ -40,3 +45,13 @@ node scripts/browser-test.cjs
 - [MapleStory.io](https://maplestory.io/)：`/api/GMS/83/item/{id}/icon`，43 个图标均核对英文名和 PNG 格式。
 
 MapleStory 图像素材版权属于 NEXON。本项目为个人学习用任务记录工具，与 NEXON 无隶属关系。
+
+## 部署与同步
+
+GitHub Pages 使用 `.github/workflows/pages.yml` 将 `dist/` 发布为静态网页。仓库 Settings → Pages 的 Source 为 GitHub Actions。
+
+跨设备存储由原项目的 Sites Worker + D1 提供，API 在 `server/worker.mjs`。数据库只保存 identifier 的 SHA-256、完成任务 ID、修订号与更新时间，不保存明文 identifier，也不提供记录列表。CORS 允许本项目的 GitHub Pages 和 Sites 域名。identifier 是唯一的访问凭据，不是实名账号或密码登录。
+
+后端构建：`npm ci && npm run build`。数据库 schema 位于 `db/schema.ts`，使用 `npm run db:generate` 生成增量迁移。构建输出 `dist/client` 和 `dist/server` 被 Git 忽略，仅供 Sites 发布；GitHub Pages 不包含后端构建目录。
+
+验证：`npm test`（Node 22.13+，使用内置 SQLite），`node scripts/test-cloud-browser.mjs`（需 Playwright 和 Chrome）。新增测试覆盖创建、重复、Unicode/空格处理、读取、撤销、乐观并发、断网刷新/重试和手机布局。

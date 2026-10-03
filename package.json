@@ -1,0 +1,13 @@
+{
+  "name": "gmscw-mage-task",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/build-site.mjs",
+    "db:generate": "drizzle-kit generate",
+    "test": "node scripts/test-ledger.cjs && node --test scripts/test-sync.mjs"
+  },
+  "devDependencies": {
+    "drizzle-kit": "^0.31.4",
+    "drizzle-orm": "^0.44.5"
+  }
+}
