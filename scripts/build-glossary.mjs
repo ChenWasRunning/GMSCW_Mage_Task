@@ -1,5 +1,8 @@
 import {readFile,writeFile} from 'node:fs/promises';
 const glossary=JSON.parse(await readFile('data/glossary.json','utf8'));
+const taskTitles=JSON.parse(await readFile('data/task-titles.json','utf8'));
+const tasks=JSON.parse(await readFile('dist/tasks.json','utf8'));
+for(const task of tasks){if(!taskTitles[task.id]?.en||taskTitles[task.id].zh!==task.title)throw new Error('Missing task title: '+task.id);}
 const atlas=JSON.parse(await readFile('data/world-maps.json','utf8'));
 const ids=new Set(),aliases=new Map();
 for(const term of glossary.terms){
@@ -10,5 +13,5 @@ for(const term of glossary.terms){
   if(aliases.has(name))throw new Error(`Ambiguous alias ${name}`);aliases.set(name,term.id);
  }
 }
-await writeFile('dist/glossary-data.js','window.MAGE_GLOSSARY='+JSON.stringify({...glossary,atlas})+';\n');
+await writeFile('dist/glossary-data.js','window.MAGE_GLOSSARY='+JSON.stringify({...glossary,atlas,taskTitles})+';\n');
 console.log(`Built ${ids.size} terms, ${aliases.size} names and ${Object.keys(atlas.nodes).length} map landmarks.`);

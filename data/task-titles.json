@@ -1,0 +1,1237 @@
+{
+  "q001": {
+    "id": "quest-q001",
+    "kind": "quest",
+    "zh": "借来莎莉的镜子",
+    "en": "Borrowing Sera's Mirror",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/1000/",
+    "references": [
+      {
+        "name": "Borrowing Sera's Mirror",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/1000/"
+      }
+    ]
+  },
+  "q002": {
+    "id": "quest-q002",
+    "kind": "quest",
+    "zh": "给希娜弄来镜子",
+    "en": "Bringing a Mirror to Heena",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/1001/",
+    "references": [
+      {
+        "name": "Bringing a Mirror to Heena",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/1001/"
+      }
+    ]
+  },
+  "q003": {
+    "id": "quest-q003",
+    "kind": "quest",
+    "zh": "罗杰和苹果",
+    "en": "Roger's Apple",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/1002/",
+    "references": [
+      {
+        "name": "Roger's Apple",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/1002/"
+      }
+    ]
+  },
+  "q004": {
+    "id": "quest-q004",
+    "kind": "quest",
+    "zh": "山想吃的是什么",
+    "en": "What Sen wants to eat",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/1003/",
+    "references": [
+      {
+        "name": "What Sen wants to eat",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/1003/"
+      }
+    ]
+  },
+  "q005": {
+    "id": "quest-q005",
+    "kind": "quest",
+    "zh": "回到妮娜的住所",
+    "en": "Returning to Nina",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/1004/",
+    "references": [
+      {
+        "name": "Returning to Nina",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/1004/"
+      }
+    ]
+  },
+  "q006": {
+    "id": "quest-q006",
+    "kind": "quest",
+    "zh": "透德的打猎方法",
+    "en": "Todd's How-to-Hunt",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/1005/",
+    "references": [
+      {
+        "name": "Todd's How-to-Hunt",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/1005/"
+      }
+    ]
+  },
+  "q007": {
+    "id": "quest-q007",
+    "kind": "quest",
+    "zh": "萨姆的建议",
+    "en": "Sam's Suggestion",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/1006/",
+    "references": [
+      {
+        "name": "Sam's Suggestion",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/1006/"
+      }
+    ]
+  },
+  "q008": {
+    "id": "quest-q008",
+    "kind": "quest",
+    "zh": "传递信件／麦加的锻炼",
+    "en": "Letter for Lucas / Mai's Training",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/1007/",
+    "references": [
+      {
+        "name": "Letter for Lucas",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/1007/"
+      },
+      {
+        "name": "Mai's Training",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/1009/"
+      }
+    ]
+  },
+  "q009": {
+    "id": "quest-q009",
+    "kind": "quest",
+    "zh": "比格斯的收集品",
+    "en": "Biggs's Collection of Items",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/1011/",
+    "references": [
+      {
+        "name": "Biggs's Collection of Items",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/1011/"
+      }
+    ]
+  },
+  "q010": {
+    "id": "quest-q010",
+    "kind": "quest",
+    "zh": "完成麦加的锻炼",
+    "en": "Complete Mai's Training",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/1009/",
+    "references": [
+      {
+        "name": "Mai's Training",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/1009/"
+      }
+    ]
+  },
+  "q011": {
+    "id": "quest-q011",
+    "kind": "quest",
+    "zh": "麦加的最后锻炼",
+    "en": "Mai's Final Training",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/1010/",
+    "references": [
+      {
+        "name": "Mai's Final Training",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/1010/"
+      }
+    ]
+  },
+  "q012": {
+    "id": "quest-q012",
+    "kind": "quest",
+    "zh": "瑞恩的枫叶问答",
+    "en": "Rain's Maple Quiz (1–7)",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/1013/",
+    "references": [
+      {
+        "name": "Rain's Maple Quiz 1",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/1013/"
+      },
+      {
+        "name": "Rain's Maple Quiz 2",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/1014/"
+      },
+      {
+        "name": "Rain's Maple Quiz 3",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/1015/"
+      },
+      {
+        "name": "Rain's Maple Quiz 4",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/1016/"
+      },
+      {
+        "name": "Rain's Maple Quiz 5",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/1017/"
+      },
+      {
+        "name": "Rain's Maple Quiz 6",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/1018/"
+      },
+      {
+        "name": "Rain's Maple Quiz 7",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/1019/"
+      }
+    ]
+  },
+  "q013": {
+    "id": "quest-q013",
+    "kind": "quest",
+    "zh": "皮奥的垃圾回收／长老的回信",
+    "en": "Pio's Collecting Recycled Goods / Lucas's Reply",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/1012/",
+    "references": [
+      {
+        "name": "Pio's Collecting Recycled Goods",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/1012/"
+      },
+      {
+        "name": "Lucas's Reply",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/1008/"
+      }
+    ]
+  },
+  "q014": {
+    "id": "quest-q014",
+    "kind": "quest",
+    "zh": "收集旧螺丝钉与旧木板",
+    "en": "Collect Rusty Screws and Old Wooden Boards",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "",
+    "references": []
+  },
+  "q015": {
+    "id": "quest-q015",
+    "kind": "quest",
+    "zh": "离岛前补到 8 级",
+    "en": "Reach Level 8 Before Leaving Maple Island",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "",
+    "references": []
+  },
+  "q016": {
+    "id": "quest-q016",
+    "kind": "quest",
+    "zh": "交最后锻炼与回信",
+    "en": "Turn In Mai's Final Training and Lucas's Reply",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/1010/",
+    "references": [
+      {
+        "name": "Mai's Final Training",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/1010/"
+      },
+      {
+        "name": "Lucas's Reply",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/1008/"
+      }
+    ]
+  },
+  "q017": {
+    "id": "quest-q017",
+    "kind": "quest",
+    "zh": "交收集品，离开彩虹岛",
+    "en": "Turn In Biggs's Collection and Leave Maple Island",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/1011/",
+    "references": [
+      {
+        "name": "Biggs's Collection of Items",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/1011/"
+      }
+    ]
+  },
+  "q018": {
+    "id": "quest-q018",
+    "kind": "quest",
+    "zh": "抵达明珠港／检查等级",
+    "en": "Arrive at Lith Harbor and Check Your Level",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "",
+    "references": []
+  },
+  "q019": {
+    "id": "quest-q019",
+    "kind": "quest",
+    "zh": "按西到东接三条任务",
+    "en": "Accept Three Quests from West to East",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/10001/",
+    "references": [
+      {
+        "name": "Phil's Call",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/10001/"
+      },
+      {
+        "name": "Teo's Weird Hobby",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/10010/"
+      },
+      {
+        "name": "Olaf's First Training",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/10000/"
+      }
+    ]
+  },
+  "q020": {
+    "id": "quest-q020",
+    "kind": "quest",
+    "zh": "第一轮海岸狩猎",
+    "en": "First Round of Coastal Hunting",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "",
+    "references": []
+  },
+  "q021": {
+    "id": "quest-q021",
+    "kind": "quest",
+    "zh": "交第一轮，接第二轮",
+    "en": "Turn In Round One and Accept Round Two",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/10009/",
+    "references": [
+      {
+        "name": "Olaf's Second Training",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/10009/"
+      },
+      {
+        "name": "Teo's Even Weirder Hobby",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/10011/"
+      }
+    ]
+  },
+  "q022": {
+    "id": "quest-q022",
+    "kind": "quest",
+    "zh": "第二轮海岸狩猎与预存材料",
+    "en": "Second Round of Coastal Hunting and Stockpiling",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "",
+    "references": []
+  },
+  "q023": {
+    "id": "quest-q023",
+    "kind": "quest",
+    "zh": "交第二轮，领取柠檬",
+    "en": "Turn In Round Two and Collect Lemons",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "",
+    "references": []
+  },
+  "q024": {
+    "id": "quest-q024",
+    "kind": "quest",
+    "zh": "比尔的召唤／前往魔法密林",
+    "en": "Phil's Call / Travel to Ellinia",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/10001/",
+    "references": [
+      {
+        "name": "Phil's Call",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/10001/"
+      }
+    ]
+  },
+  "q025": {
+    "id": "quest-q025",
+    "kind": "quest",
+    "zh": "成为魔法师",
+    "en": "Become a Magician",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "",
+    "references": []
+  },
+  "q026": {
+    "id": "quest-q026",
+    "kind": "quest",
+    "zh": "帮忙写作业",
+    "en": "I Need Help on My Homework!",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/10210/",
+    "references": [
+      {
+        "name": "I Need Help on My Homework!",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/10210/"
+      }
+    ]
+  },
+  "q027": {
+    "id": "quest-q027",
+    "kind": "quest",
+    "zh": "克里斯拉玛需要学徒",
+    "en": "Chrishrama in Need of an Apprentice",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/80023/",
+    "references": [
+      {
+        "name": "Chrishrama in Need of an Apprentice",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/80023/"
+      }
+    ]
+  },
+  "q028": {
+    "id": "quest-q028",
+    "kind": "quest",
+    "zh": "黑木妖练级与材料储备",
+    "en": "Train on Dark Stumps and Stockpile Materials",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "",
+    "references": []
+  },
+  "q029": {
+    "id": "quest-q029",
+    "kind": "quest",
+    "zh": "交写作业",
+    "en": "Turn In I Need Help on My Homework!",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/10210/",
+    "references": [
+      {
+        "name": "I Need Help on My Homework!",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/10210/"
+      }
+    ]
+  },
+  "q030": {
+    "id": "quest-q030",
+    "kind": "quest",
+    "zh": "交学徒／制作石榴石",
+    "en": "Complete the Apprenticeship and Craft a Garnet",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/80023/",
+    "references": [
+      {
+        "name": "Chrishrama in Need of an Apprentice",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/80023/"
+      }
+    ]
+  },
+  "q031": {
+    "id": "quest-q031",
+    "kind": "quest",
+    "zh": "三眼章鱼练级与触角储备",
+    "en": "Train on Octopuses and Stockpile Octopus Legs",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "",
+    "references": []
+  },
+  "q032": {
+    "id": "quest-q032",
+    "kind": "quest",
+    "zh": "蘑菇的美味吃法",
+    "en": "How to Enjoy Mushrooms",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/10211/",
+    "references": [
+      {
+        "name": "How to Enjoy Mushrooms",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/10211/"
+      }
+    ]
+  },
+  "q033": {
+    "id": "quest-q033",
+    "kind": "quest",
+    "zh": "第一轮绿蘑菇",
+    "en": "First Round of Green Mushrooms",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "",
+    "references": []
+  },
+  "q034": {
+    "id": "quest-q034",
+    "kind": "quest",
+    "zh": "交第一轮，接更美味的吃法",
+    "en": "Turn In Round One and Accept How to Enjoy Mushrooms Even More",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/10211/",
+    "references": [
+      {
+        "name": "How to Enjoy Mushrooms",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/10211/"
+      },
+      {
+        "name": "How to Enjoy Mushrooms Even More",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/10212/"
+      }
+    ]
+  },
+  "q035": {
+    "id": "quest-q035",
+    "kind": "quest",
+    "zh": "第二轮绿蘑菇与后续储备",
+    "en": "Second Round of Green Mushrooms and Stockpiling",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "",
+    "references": []
+  },
+  "q036": {
+    "id": "quest-q036",
+    "kind": "quest",
+    "zh": "交更美味的吃法",
+    "en": "Turn In How to Enjoy Mushrooms Even More",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/10212/",
+    "references": [
+      {
+        "name": "How to Enjoy Mushrooms Even More",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/10212/"
+      }
+    ]
+  },
+  "q037": {
+    "id": "quest-q037",
+    "kind": "quest",
+    "zh": "飘飘猪材料补齐",
+    "en": "Collect Ribbon Pig Materials",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "",
+    "references": []
+  },
+  "q038": {
+    "id": "quest-q038",
+    "kind": "quest",
+    "zh": "明明女士的第一个担心",
+    "en": "Mrs. Ming Ming's First Worry",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/10100/",
+    "references": [
+      {
+        "name": "Mrs. Ming Ming's First Worry",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/10100/"
+      }
+    ]
+  },
+  "q039": {
+    "id": "quest-q039",
+    "kind": "quest",
+    "zh": "第二个担心／胡小姐的拜托",
+    "en": "Mrs. Ming Ming's Second Worry / Estelle's Request",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/10101/",
+    "references": [
+      {
+        "name": "Mrs. Ming Ming's Second Worry",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/10101/"
+      },
+      {
+        "name": "Estelle's Request",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/10102/"
+      }
+    ]
+  },
+  "q040": {
+    "id": "quest-q040",
+    "kind": "quest",
+    "zh": "胡小姐的特制酱油",
+    "en": "Estelle's Special Sauce",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/10103/",
+    "references": [
+      {
+        "name": "Estelle's Special Sauce",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/10103/"
+      }
+    ]
+  },
+  "q041": {
+    "id": "quest-q041",
+    "kind": "quest",
+    "zh": "16 → 19 练级",
+    "en": "Train from Level 16 to 19",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "",
+    "references": []
+  },
+  "q042": {
+    "id": "quest-q042",
+    "kind": "quest",
+    "zh": "蓝蘑菇练级与盖子储备",
+    "en": "Train on Blue Mushrooms and Stockpile Caps",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "",
+    "references": []
+  },
+  "q043": {
+    "id": "quest-q043",
+    "kind": "quest",
+    "zh": "交特制酱油",
+    "en": "Deliver Estelle's Special Sauce",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/10103/",
+    "references": [
+      {
+        "name": "Estelle's Special Sauce",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/10103/"
+      }
+    ]
+  },
+  "q044": {
+    "id": "quest-q044",
+    "kind": "quest",
+    "zh": "皮亚和蓝蘑菇",
+    "en": "Pia and the Blue Mushroom",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/10104/",
+    "references": [
+      {
+        "name": "Pia and the Blue Mushroom",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/10104/"
+      }
+    ]
+  },
+  "q045": {
+    "id": "quest-q045",
+    "kind": "quest",
+    "zh": "射手村的玛亚",
+    "en": "Maya of Henesys",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/10106/",
+    "references": [
+      {
+        "name": "Maya of Henesys",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/10106/"
+      }
+    ]
+  },
+  "q046": {
+    "id": "quest-q046",
+    "kind": "quest",
+    "zh": "购买矿泉水／找特奥",
+    "en": "Buy Pure Water and Speak to Teo",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/10107/",
+    "references": [
+      {
+        "name": "Finding Sophia",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/10107/"
+      }
+    ]
+  },
+  "q047": {
+    "id": "quest-q047",
+    "kind": "quest",
+    "zh": "闪耀石头的材料",
+    "en": "Making a Sparkling Rock",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/10108/",
+    "references": [
+      {
+        "name": "Making a Sparkling Rock",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/10108/"
+      }
+    ]
+  },
+  "q048": {
+    "id": "quest-q048",
+    "kind": "quest",
+    "zh": "变异蘑菇的血一",
+    "en": "Arcon's Blood?",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/10109/",
+    "references": [
+      {
+        "name": "Arcon's Blood?",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/10109/"
+      }
+    ]
+  },
+  "q049": {
+    "id": "quest-q049",
+    "kind": "quest",
+    "zh": "内拉前置①：防具店老板的拜托",
+    "en": "Nella Prerequisite 1: Don Hwang's Request",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/10303/",
+    "references": [
+      {
+        "name": "Don Hwang's Request",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/10303/"
+      }
+    ]
+  },
+  "q050": {
+    "id": "quest-q050",
+    "kind": "quest",
+    "zh": "打花蘑菇与飘飘猪",
+    "en": "Hunt Orange Mushrooms and Ribbon Pigs",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "",
+    "references": []
+  },
+  "q051": {
+    "id": "quest-q051",
+    "kind": "quest",
+    "zh": "交前置①，接秀咪的拜托",
+    "en": "Turn In Prerequisite 1 and Accept Shumi's Request",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/10303/",
+    "references": [
+      {
+        "name": "Don Hwang's Request",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/10303/"
+      },
+      {
+        "name": "Shumi's Request",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/10304/"
+      }
+    ]
+  },
+  "q052": {
+    "id": "quest-q052",
+    "kind": "quest",
+    "zh": "内拉前置②：黑木妖",
+    "en": "Nella Prerequisite 2: Dark Stumps",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "",
+    "references": []
+  },
+  "q053": {
+    "id": "quest-q053",
+    "kind": "quest",
+    "zh": "交前置②，接安德里亚的拜托",
+    "en": "Turn In Prerequisite 2 and Accept Andre's Request",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/10304/",
+    "references": [
+      {
+        "name": "Shumi's Request",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/10304/"
+      },
+      {
+        "name": "Andre's Request",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/10305/"
+      }
+    ]
+  },
+  "q054": {
+    "id": "quest-q054",
+    "kind": "quest",
+    "zh": "内拉前置③：三眼章鱼",
+    "en": "Nella Prerequisite 3: Octopuses",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "",
+    "references": []
+  },
+  "q055": {
+    "id": "quest-q055",
+    "kind": "quest",
+    "zh": "交前置③，领取工地手套",
+    "en": "Turn In Prerequisite 3 and Collect Work Gloves",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/10305/",
+    "references": [
+      {
+        "name": "Andre's Request",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/10305/"
+      }
+    ]
+  },
+  "q056": {
+    "id": "quest-q056",
+    "kind": "quest",
+    "zh": "21 → 22 练级",
+    "en": "Train from Level 21 to 22",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "",
+    "references": []
+  },
+  "q057": {
+    "id": "quest-q057",
+    "kind": "quest",
+    "zh": "药店老板的拜托",
+    "en": "Dr. Faymus's Request",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/10306/",
+    "references": [
+      {
+        "name": "Dr. Faymus's Request",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/10306/"
+      }
+    ]
+  },
+  "q058": {
+    "id": "quest-q058",
+    "kind": "quest",
+    "zh": "沼泽练级与收集",
+    "en": "Train and Gather Materials in the Swamp",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "",
+    "references": []
+  },
+  "q059": {
+    "id": "quest-q059",
+    "kind": "quest",
+    "zh": "交药店老板的拜托",
+    "en": "Turn In Dr. Faymus's Request",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/10306/",
+    "references": [
+      {
+        "name": "Dr. Faymus's Request",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/10306/"
+      }
+    ]
+  },
+  "q060": {
+    "id": "quest-q060",
+    "kind": "quest",
+    "zh": "克里斯的拜托／曼斯塔的拜托",
+    "en": "Chris's Request / Cutthroat Manny's Request",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/10307/",
+    "references": [
+      {
+        "name": "Chris's Request",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/10307/"
+      },
+      {
+        "name": "Cutthroat Manny's Request",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/10308/"
+      }
+    ]
+  },
+  "q061": {
+    "id": "quest-q061",
+    "kind": "quest",
+    "zh": "陌生女人的拜托",
+    "en": "Stranger's Request",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/10309/",
+    "references": [
+      {
+        "name": "Stranger's Request",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/10309/"
+      }
+    ]
+  },
+  "q062": {
+    "id": "quest-q062",
+    "kind": "quest",
+    "zh": "蝙蝠与镜子碎片",
+    "en": "Hunt Stirges and Collect Broken Mirror Glass",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "",
+    "references": []
+  },
+  "q063": {
+    "id": "quest-q063",
+    "kind": "quest",
+    "zh": "陌生女人的真相",
+    "en": "Stranger's Identity",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/10310/",
+    "references": [
+      {
+        "name": "Stranger's Identity",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/10310/"
+      }
+    ]
+  },
+  "q064": {
+    "id": "quest-q064",
+    "kind": "quest",
+    "zh": "蚂蚁洞出发前补药",
+    "en": "Restock Potions Before Entering the Ant Tunnel",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "",
+    "references": []
+  },
+  "q065": {
+    "id": "quest-q065",
+    "kind": "quest",
+    "zh": "僵尸蘑菇／道符与长段练级",
+    "en": "Hunt Zombie Mushrooms, Collect Charms and Train",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "",
+    "references": []
+  },
+  "q066": {
+    "id": "quest-q066",
+    "kind": "quest",
+    "zh": "火独眼兽与蚂蚁广场练级",
+    "en": "Hunt Evil Eyes and Train at Ant Tunnel Park",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "",
+    "references": []
+  },
+  "q067": {
+    "id": "quest-q067",
+    "kind": "quest",
+    "zh": "交曼斯塔的拜托",
+    "en": "Turn In Cutthroat Manny's Request",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/10308/",
+    "references": [
+      {
+        "name": "Cutthroat Manny's Request",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/10308/"
+      }
+    ]
+  },
+  "q068": {
+    "id": "quest-q068",
+    "kind": "quest",
+    "zh": "交陌生女人的真相",
+    "en": "Turn In Stranger's Identity",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/10310/",
+    "references": [
+      {
+        "name": "Stranger's Identity",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/10310/"
+      }
+    ]
+  },
+  "q069": {
+    "id": "quest-q069",
+    "kind": "quest",
+    "zh": "28 → 30 练级",
+    "en": "Train from Level 28 to 30",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "",
+    "references": []
+  },
+  "q070": {
+    "id": "quest-q070",
+    "kind": "quest",
+    "zh": "交变异蘑菇的血一",
+    "en": "Turn In Arcon's Blood?",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/10109/",
+    "references": [
+      {
+        "name": "Arcon's Blood?",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/10109/"
+      },
+      {
+        "name": "Getting Arcon's Blood",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/10110/"
+      }
+    ]
+  },
+  "q071": {
+    "id": "quest-q071",
+    "kind": "quest",
+    "zh": "交血与材料／制作闪耀石头",
+    "en": "Deliver Arcon's Blood and Materials / Make a Sparkling Rock",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/10108/",
+    "references": [
+      {
+        "name": "Making a Sparkling Rock",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/10108/"
+      },
+      {
+        "name": "Making Sparkling Rock",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/10111/"
+      }
+    ]
+  },
+  "q072": {
+    "id": "quest-q072",
+    "kind": "quest",
+    "zh": "送奇怪的药",
+    "en": "Delivering the Weird Medicine",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/10112/",
+    "references": [
+      {
+        "name": "Delivering the Weird Medicine",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/10112/"
+      }
+    ]
+  },
+  "q073": {
+    "id": "quest-q073",
+    "kind": "quest",
+    "zh": "把药送给玛亚",
+    "en": "Deliver the Medicine to Maya",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/10112/",
+    "references": [
+      {
+        "name": "Delivering the Weird Medicine",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/10112/"
+      }
+    ]
+  },
+  "q074": {
+    "id": "quest-q074",
+    "kind": "quest",
+    "zh": "玛亚的第一次收集",
+    "en": "Maya's First Collection",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/10115/",
+    "references": [
+      {
+        "name": "Maya's First Collection",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/10115/"
+      }
+    ]
+  },
+  "q075": {
+    "id": "quest-q075",
+    "kind": "quest",
+    "zh": "魔法师的下一段旅程／寻找教官",
+    "en": "The Magician's Next Journey / Finding the Instructor",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/20100/",
+    "references": [
+      {
+        "name": "The Magician's Next Journey",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/20100/"
+      },
+      {
+        "name": "Finding the Instructor",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/20101/"
+      }
+    ]
+  },
+  "q076": {
+    "id": "quest-q076",
+    "kind": "quest",
+    "zh": "交信／接资格测试",
+    "en": "Deliver the Letter and Accept the Test of Qualification",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/20101/",
+    "references": [
+      {
+        "name": "Finding the Instructor",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/20101/"
+      },
+      {
+        "name": "Test of Qualification",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/20102/"
+      }
+    ]
+  },
+  "q077": {
+    "id": "quest-q077",
+    "kind": "quest",
+    "zh": "树洞迷宫二转考验",
+    "en": "Second Job Advancement Test in the Magician's Tree Dungeon",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/20102/",
+    "references": [
+      {
+        "name": "Test of Qualification",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/20102/"
+      }
+    ]
+  },
+  "q078": {
+    "id": "quest-q078",
+    "kind": "quest",
+    "zh": "领取资格证明",
+    "en": "Collect the Proof of Qualification",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/20103/",
+    "references": [
+      {
+        "name": "Proof of Qualification",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/20103/"
+      }
+    ]
+  },
+  "q079": {
+    "id": "quest-q079",
+    "kind": "quest",
+    "zh": "完成法师二转",
+    "en": "Complete the Magician's Second Job Advancement",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "",
+    "references": []
+  },
+  "q080": {
+    "id": "quest-q080",
+    "kind": "quest",
+    "zh": "二转后练到 32",
+    "en": "Reach Level 32 After the Second Job Advancement",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "",
+    "references": []
+  },
+  "q081": {
+    "id": "quest-q081",
+    "kind": "quest",
+    "zh": "秘密之书",
+    "en": "A Clue to the Secret Book",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/10500/",
+    "references": [
+      {
+        "name": "A Clue to the Secret Book",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/10500/"
+      }
+    ]
+  },
+  "q082": {
+    "id": "quest-q082",
+    "kind": "quest",
+    "zh": "肚子饿的洛尼",
+    "en": "Hungry Ronnie",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/10501/",
+    "references": [
+      {
+        "name": "Hungry Ronnie",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/10501/"
+      }
+    ]
+  },
+  "q083": {
+    "id": "quest-q083",
+    "kind": "quest",
+    "zh": "猴子与香蕉",
+    "en": "Hunt Lupins and Collect Bananas",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "",
+    "references": []
+  },
+  "q084": {
+    "id": "quest-q084",
+    "kind": "quest",
+    "zh": "还是很饿的洛尼",
+    "en": "Still Hungry Ronnie",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/10502/",
+    "references": [
+      {
+        "name": "Still Hungry Ronnie",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/10502/"
+      }
+    ]
+  },
+  "q085": {
+    "id": "quest-q085",
+    "kind": "quest",
+    "zh": "收集风独眼兽之尾",
+    "en": "Collect Curse Eye Tails",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "",
+    "references": []
+  },
+  "q086": {
+    "id": "quest-q086",
+    "kind": "quest",
+    "zh": "找丽娜／特制烤鳗鱼的秘密",
+    "en": "Speak to Rina / Secret to Unagi Special",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/10503/",
+    "references": [
+      {
+        "name": "Secret to Unagi Special",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/10503/"
+      },
+      {
+        "name": "Rina's Unagi Special",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/10504/"
+      }
+    ]
+  },
+  "q087": {
+    "id": "quest-q087",
+    "kind": "quest",
+    "zh": "鳗鱼特餐／口渴的洛尼",
+    "en": "Rina's Unagi Special / Thirsty Ronnie",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/10504/",
+    "references": [
+      {
+        "name": "Rina's Unagi Special",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/10504/"
+      },
+      {
+        "name": "Thirsty Ronnie",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/10505/"
+      }
+    ]
+  },
+  "q088": {
+    "id": "quest-q088",
+    "kind": "quest",
+    "zh": "牛奶",
+    "en": "Cold Milk",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/10506/",
+    "references": [
+      {
+        "name": "Cold Milk",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/10506/"
+      }
+    ]
+  },
+  "q089": {
+    "id": "quest-q089",
+    "kind": "quest",
+    "zh": "准备一颗钻石",
+    "en": "Obtain a Diamond",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "",
+    "references": []
+  },
+  "q090": {
+    "id": "quest-q090",
+    "kind": "quest",
+    "zh": "心满意足的洛尼",
+    "en": "Satisfied Ronnie",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/10507/",
+    "references": [
+      {
+        "name": "Satisfied Ronnie",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/10507/"
+      }
+    ]
+  },
+  "q091": {
+    "id": "quest-q091",
+    "kind": "quest",
+    "zh": "秘密之书回收",
+    "en": "Returned Secret Book",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/10508/",
+    "references": [
+      {
+        "name": "Returned Secret Book",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/10508/"
+      }
+    ]
+  },
+  "q092": {
+    "id": "quest-q092",
+    "kind": "quest",
+    "zh": "交秘密之书，领取桑拿服",
+    "en": "Turn In the Secret Book and Collect a Sauna Robe",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://kafuffu20.com/classic-world/zh-cn/quests/10508/",
+    "references": [
+      {
+        "name": "Returned Secret Book",
+        "url": "https://kafuffu20.com/classic-world/zh-cn/quests/10508/"
+      }
+    ]
+  }
+}
