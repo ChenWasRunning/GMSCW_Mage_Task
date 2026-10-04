@@ -1,0 +1,432 @@
+{
+  "regions": {
+    "maple": {
+      "name": "Maple Island",
+      "image": "assets/maps/maple-island.png",
+      "width": 634,
+      "height": 446,
+      "source": "https://mapleclassic.wiki/wiki/Maple_Island",
+      "imageSource": "https://mapleclassic.wiki/images/6/60/Maple_Island_world_map.png"
+    },
+    "victoria": {
+      "name": "Victoria Island",
+      "image": "assets/maps/victoria-island.png",
+      "width": 636,
+      "height": 466,
+      "source": "https://mapleclassic.wiki/wiki/Victoria_Island",
+      "imageSource": "https://mapleclassic.wiki/images/6/64/Victoria_Island_world_map.png"
+    }
+  },
+  "nodes": {
+    "Mushroom Town - West Entrance": {
+      "region": "maple",
+      "x": 21.609,
+      "y": 33.408,
+      "source": "https://mapleclassic.wiki/wiki/Mushroom_Town_-_West_Entrance"
+    },
+    "Mushroom Town (Nina)": {
+      "region": "maple",
+      "x": 30.442,
+      "y": 31.614,
+      "source": "https://mapleclassic.wiki/wiki/Mushroom_Town_(Nina)"
+    },
+    "East Entrance to Mushroom Town": {
+      "region": "maple",
+      "x": 31.861,
+      "y": 39.91,
+      "source": "https://mapleclassic.wiki/wiki/East_Entrance_to_Mushroom_Town"
+    },
+    "Snail Hunting Ground I": {
+      "region": "maple",
+      "x": 35.331,
+      "y": 48.43,
+      "source": "https://mapleclassic.wiki/wiki/Snail_Hunting_Ground_I"
+    },
+    "Snail Hunting Ground II": {
+      "region": "maple",
+      "x": 42.429,
+      "y": 50.673,
+      "source": "https://mapleclassic.wiki/wiki/Snail_Hunting_Ground_II"
+    },
+    "Snail Hunting Ground III": {
+      "region": "maple",
+      "x": 48.738,
+      "y": 51.794,
+      "source": "https://mapleclassic.wiki/wiki/Snail_Hunting_Ground_III"
+    },
+    "A Split Road": {
+      "region": "maple",
+      "x": 55.205,
+      "y": 56.726,
+      "source": "https://mapleclassic.wiki/wiki/A_Split_Road"
+    },
+    "The Field West of Amherst": {
+      "region": "maple",
+      "x": 60.726,
+      "y": 52.466,
+      "source": "https://mapleclassic.wiki/wiki/The_Field_West_of_Amherst"
+    },
+    "Amherst": {
+      "region": "maple",
+      "x": 71.451,
+      "y": 49.776,
+      "source": "https://mapleclassic.wiki/wiki/Amherst"
+    },
+    "The Field East of Amherst": {
+      "region": "maple",
+      "x": 74.921,
+      "y": 59.193,
+      "source": "https://mapleclassic.wiki/wiki/The_Field_East_of_Amherst"
+    },
+    "Southperry": {
+      "region": "maple",
+      "x": 59.937,
+      "y": 66.143,
+      "source": "https://mapleclassic.wiki/wiki/Southperry"
+    },
+    "Lith Harbor": {
+      "region": "victoria",
+      "x": 15.881,
+      "y": 80.258,
+      "source": "https://mapleclassic.wiki/wiki/Lith_Harbor"
+    },
+    "Right Around Lith Harbor": {
+      "region": "victoria",
+      "x": 16.509,
+      "y": 71.03,
+      "source": "https://mapleclassic.wiki/wiki/Right_Around_Lith_Harbor"
+    },
+    "Thicket Around the Beach I": {
+      "region": "victoria",
+      "x": 19.654,
+      "y": 68.24,
+      "source": "https://mapleclassic.wiki/wiki/Thicket_Around_the_Beach_I"
+    },
+    "Thicket Around the Beach II": {
+      "region": "victoria",
+      "x": 23.27,
+      "y": 68.67,
+      "source": "https://mapleclassic.wiki/wiki/Thicket_Around_the_Beach_II"
+    },
+    "Thicket Around the Beach III": {
+      "region": "victoria",
+      "x": 27.044,
+      "y": 66.738,
+      "source": "https://mapleclassic.wiki/wiki/Thicket_Around_the_Beach_III"
+    },
+    "3-Way Road-Split": {
+      "region": "victoria",
+      "x": 28.931,
+      "y": 62.446,
+      "source": "https://mapleclassic.wiki/wiki/3-Way_Road-Split"
+    },
+    "Damp Tree-Forest": {
+      "region": "victoria",
+      "x": 42.61,
+      "y": 55.365,
+      "source": "https://mapleclassic.wiki/wiki/Damp_Tree-Forest"
+    },
+    "Forest West of Henesys": {
+      "region": "victoria",
+      "x": 30.503,
+      "y": 68.67,
+      "source": "https://mapleclassic.wiki/wiki/Forest_West_of_Henesys"
+    },
+    "A Hill West of Henesys": {
+      "region": "victoria",
+      "x": 32.547,
+      "y": 75.322,
+      "source": "https://mapleclassic.wiki/wiki/A_Hill_West_of_Henesys"
+    },
+    "Henesys Hunting Ground I": {
+      "region": "victoria",
+      "x": 37.264,
+      "y": 79.828,
+      "source": "https://mapleclassic.wiki/wiki/Henesys_Hunting_Ground_I"
+    },
+    "Henesys": {
+      "region": "victoria",
+      "x": 45.755,
+      "y": 80.472,
+      "source": "https://mapleclassic.wiki/wiki/Henesys"
+    },
+    "The Road to the Dungeon": {
+      "region": "victoria",
+      "x": 44.811,
+      "y": 72.103,
+      "source": "https://mapleclassic.wiki/wiki/The_Road_to_the_Dungeon"
+    },
+    "Henesys Dungeon Entrance": {
+      "region": "victoria",
+      "x": 43.396,
+      "y": 67.382,
+      "source": "https://mapleclassic.wiki/wiki/Henesys_Dungeon_Entrance"
+    },
+    "The Hill East of Henesys": {
+      "region": "victoria",
+      "x": 53.774,
+      "y": 79.399,
+      "source": "https://mapleclassic.wiki/wiki/The_Hill_East_of_Henesys"
+    },
+    "The Rain-Forest East of Henesys": {
+      "region": "victoria",
+      "x": 55.346,
+      "y": 75.322,
+      "source": "https://mapleclassic.wiki/wiki/The_Rain-Forest_East_of_Henesys"
+    },
+    "The Forest East of Henesys": {
+      "region": "victoria",
+      "x": 56.289,
+      "y": 69.742,
+      "source": "https://mapleclassic.wiki/wiki/The_Forest_East_of_Henesys"
+    },
+    "The Forest South of Ellinia": {
+      "region": "victoria",
+      "x": 58.491,
+      "y": 66.524,
+      "source": "https://mapleclassic.wiki/wiki/The_Forest_South_of_Ellinia"
+    },
+    "The Forest of Wisdom": {
+      "region": "victoria",
+      "x": 61.95,
+      "y": 64.378,
+      "source": "https://mapleclassic.wiki/wiki/The_Forest_of_Wisdom"
+    },
+    "The Field South of Ellinia": {
+      "region": "victoria",
+      "x": 65.094,
+      "y": 62.017,
+      "source": "https://mapleclassic.wiki/wiki/The_Field_South_of_Ellinia"
+    },
+    "Ellinia": {
+      "region": "victoria",
+      "x": 69.497,
+      "y": 54.506,
+      "source": "https://mapleclassic.wiki/wiki/Ellinia"
+    },
+    "The Field Up North of Ellinia": {
+      "region": "victoria",
+      "x": 61.478,
+      "y": 55.365,
+      "source": "https://mapleclassic.wiki/wiki/The_Field_Up_North_of_Ellinia"
+    },
+    "The Tree That Grew I": {
+      "region": "victoria",
+      "x": 58.491,
+      "y": 53.863,
+      "source": "https://mapleclassic.wiki/wiki/The_Tree_That_Grew_I"
+    },
+    "The Forest North of Ellinia": {
+      "region": "victoria",
+      "x": 56.761,
+      "y": 48.498,
+      "source": "https://mapleclassic.wiki/wiki/The_Forest_North_of_Ellinia"
+    },
+    "Kerning City Middle Forest I": {
+      "region": "victoria",
+      "x": 25.0,
+      "y": 60.086,
+      "source": "https://mapleclassic.wiki/wiki/Kerning_City_Middle_Forest_I"
+    },
+    "L Forest III": {
+      "region": "victoria",
+      "x": 20.44,
+      "y": 61.373,
+      "source": "https://mapleclassic.wiki/wiki/L_Forest_III"
+    },
+    "L Forest II": {
+      "region": "victoria",
+      "x": 17.453,
+      "y": 57.511,
+      "source": "https://mapleclassic.wiki/wiki/L_Forest_II"
+    },
+    "L Forest I": {
+      "region": "victoria",
+      "x": 18.239,
+      "y": 51.502,
+      "source": "https://mapleclassic.wiki/wiki/L_Forest_I"
+    },
+    "Kerning City Construction Site": {
+      "region": "victoria",
+      "x": 18.239,
+      "y": 46.352,
+      "source": "https://mapleclassic.wiki/wiki/Kerning_City_Construction_Site"
+    },
+    "Kerning City": {
+      "region": "victoria",
+      "x": 15.094,
+      "y": 39.485,
+      "source": "https://mapleclassic.wiki/wiki/Kerning_City"
+    },
+    "Sunset Sky": {
+      "region": "victoria",
+      "x": 20.755,
+      "y": 32.618,
+      "source": "https://mapleclassic.wiki/wiki/Sunset_Sky"
+    },
+    "Construction Site North of Kerning City": {
+      "region": "victoria",
+      "x": 24.843,
+      "y": 32.833,
+      "source": "https://mapleclassic.wiki/wiki/Construction_Site_North_of_Kerning_City"
+    },
+    "The Swamp of Despair I": {
+      "region": "victoria",
+      "x": 22.327,
+      "y": 39.914,
+      "source": "https://mapleclassic.wiki/wiki/The_Swamp_of_Despair_I"
+    },
+    "The Swamp of Despair II": {
+      "region": "victoria",
+      "x": 26.73,
+      "y": 41.202,
+      "source": "https://mapleclassic.wiki/wiki/The_Swamp_of_Despair_II"
+    },
+    "The Swamp of Despair III": {
+      "region": "victoria",
+      "x": 29.403,
+      "y": 46.781,
+      "source": "https://mapleclassic.wiki/wiki/The_Swamp_of_Despair_III"
+    },
+    "Dangerous Croko I": {
+      "region": "victoria",
+      "x": 30.66,
+      "y": 51.931,
+      "source": "https://mapleclassic.wiki/wiki/Dangerous_Croko_I"
+    },
+    "Dangerous Croko II": {
+      "region": "victoria",
+      "x": 33.805,
+      "y": 54.936,
+      "source": "https://mapleclassic.wiki/wiki/Dangerous_Croko_II"
+    },
+    "Perion": {
+      "region": "victoria",
+      "x": 38.365,
+      "y": 18.455,
+      "source": "https://mapleclassic.wiki/wiki/Perion"
+    },
+    "West Street Corner of Perion": {
+      "region": "victoria",
+      "x": 31.918,
+      "y": 24.464,
+      "source": "https://mapleclassic.wiki/wiki/West_Street_Corner_of_Perion"
+    },
+    "West Rocky Mountain I": {
+      "region": "victoria",
+      "x": 31.447,
+      "y": 29.185,
+      "source": "https://mapleclassic.wiki/wiki/West_Rocky_Mountain_I"
+    },
+    "West Domain of Perion": {
+      "region": "victoria",
+      "x": 29.088,
+      "y": 32.618,
+      "source": "https://mapleclassic.wiki/wiki/West_Domain_of_Perion"
+    },
+    "Perion Street Corner": {
+      "region": "victoria",
+      "x": 44.654,
+      "y": 23.391,
+      "source": "https://mapleclassic.wiki/wiki/Perion_Street_Corner"
+    },
+    "East Rocky Mountain I": {
+      "region": "victoria",
+      "x": 47.484,
+      "y": 25.322,
+      "source": "https://mapleclassic.wiki/wiki/East_Rocky_Mountain_I"
+    },
+    "Rocky Road I": {
+      "region": "victoria",
+      "x": 50.943,
+      "y": 27.039,
+      "source": "https://mapleclassic.wiki/wiki/Rocky_Road_I"
+    },
+    "Rocky Road II": {
+      "region": "victoria",
+      "x": 53.459,
+      "y": 31.545,
+      "source": "https://mapleclassic.wiki/wiki/Rocky_Road_II"
+    },
+    "Rocky Road III": {
+      "region": "victoria",
+      "x": 56.604,
+      "y": 36.481,
+      "source": "https://mapleclassic.wiki/wiki/Rocky_Road_III"
+    },
+    "East Domain of Perion": {
+      "region": "victoria",
+      "x": 56.918,
+      "y": 43.133,
+      "source": "https://mapleclassic.wiki/wiki/East_Domain_of_Perion"
+    },
+    "Deep Valley I": {
+      "region": "victoria",
+      "x": 37.579,
+      "y": 29.399,
+      "source": "https://mapleclassic.wiki/wiki/Deep_Valley_I"
+    },
+    "Deep Valley II": {
+      "region": "victoria",
+      "x": 35.692,
+      "y": 33.476,
+      "source": "https://mapleclassic.wiki/wiki/Deep_Valley_II"
+    },
+    "Deep Valley III": {
+      "region": "victoria",
+      "x": 34.119,
+      "y": 40.129,
+      "source": "https://mapleclassic.wiki/wiki/Deep_Valley_III"
+    },
+    "Perion Dungeon Entrance": {
+      "region": "victoria",
+      "x": 37.107,
+      "y": 44.421,
+      "source": "https://mapleclassic.wiki/wiki/Perion_Dungeon_Entrance"
+    },
+    "Forgotten Hollow": {
+      "region": "victoria",
+      "x": 54.403,
+      "y": 54.292,
+      "source": "https://mapleclassic.wiki/wiki/Forgotten_Hollow"
+    },
+    "Florina Beach": {
+      "region": "victoria",
+      "x": 82.704,
+      "y": 79.614,
+      "source": "https://mapleclassic.wiki/wiki/Florina_Beach"
+    },
+    "A Look-Out Shed Around the Beach": {
+      "region": "victoria",
+      "x": 86.635,
+      "y": 78.326,
+      "source": "https://mapleclassic.wiki/wiki/A_Look-Out_Shed_Around_the_Beach"
+    },
+    "Lorang Lorang": {
+      "region": "victoria",
+      "x": 89.308,
+      "y": 74.893,
+      "source": "https://mapleclassic.wiki/wiki/Lorang_Lorang"
+    },
+    "Lorang and Clang": {
+      "region": "victoria",
+      "x": 88.679,
+      "y": 69.313,
+      "source": "https://mapleclassic.wiki/wiki/Lorang_and_Clang"
+    },
+    "Hot Sand": {
+      "region": "victoria",
+      "x": 84.591,
+      "y": 68.455,
+      "source": "https://mapleclassic.wiki/wiki/Hot_Sand"
+    },
+    "Sleepywood": {
+      "region": "victoria",
+      "x": 43,
+      "y": 54,
+      "source": "https://mapleclassic.wiki/wiki/Victoria_Island",
+      "approximate": true,
+      "note": "大地图未列独立节点；按图上 Sleepywood 区域标注大致位置。"
+    }
+  }
+}

@@ -140,10 +140,10 @@
     "category": "其他"
   },
   "热血头带": {
-    "id": 1002014,
-    "path": "assets/1002014.png",
-    "english": "Red Headband",
-    "source": "https://maplestory.io/api/GMS/83/item/1002014/icon",
+    "id": 1002100,
+    "path": "assets/ribboned-pig-headband.png",
+    "english": "Ribboned Pig Headband",
+    "source": "https://kafuffu20.com/classic-world/data/icons/equips/1002100.png",
     "category": "装备"
   },
   "矿泉水": {

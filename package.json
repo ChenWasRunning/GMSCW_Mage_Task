@@ -2,7 +2,7 @@
   "name": "gmscw-mage-task",
   "private": true,
   "scripts": {
-    "build": "node scripts/build-site.mjs",
+    "build": "node scripts/build-glossary.mjs && node scripts/build-site.mjs",
     "db:generate": "drizzle-kit generate",
     "test": "node scripts/test-ledger.cjs && node --test scripts/test-sync.mjs"
   },

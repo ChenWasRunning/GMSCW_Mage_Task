@@ -55,3 +55,9 @@ GitHub Pages 使用 `.github/workflows/pages.yml` 将 `dist/` 发布为静态网
 后端构建：`npm ci && npm run build`。数据库 schema 位于 `db/schema.ts`，使用 `npm run db:generate` 生成增量迁移。构建输出 `dist/client` 和 `dist/server` 被 Git 忽略，仅供 Sites 发布；GitHub Pages 不包含后端构建目录。
 
 验证：`npm test`（Node 22.13+，使用内置 SQLite），`node scripts/test-cloud-browser.mjs`（需 Playwright 和 Chrome）。新增测试覆盖创建、重复、Unicode/空格处理、读取、撤销、乐观并发、断网刷新/重试和手机布局。
+
+## 英文名称与地图提示
+
+中文游戏名称显示下划线：鼠标悬停或键盘聚焦显示英文，手机点按查看。地图名称附经典世界大地图高亮；每个任务的“地图”和每阶段的“阶段地图”可查看相关地点。室内／隐藏地图以入口或所属区域定位；近似位置明确标注。
+
+资料、逐条来源、别名与坐标精度说明见 [docs/name-map-sources.md](docs/name-map-sources.md)。共 206 个词条、251 种名称／别名，覆盖全部 92 步路线。

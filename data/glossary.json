@@ -1,0 +1,2030 @@
+{
+  "checkedOn": "2026-10-03",
+  "terms": [
+    {
+      "zh": "希娜",
+      "en": "Heena",
+      "kind": "npc",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/1/",
+      "id": "npc-1"
+    },
+    {
+      "zh": "莎莉",
+      "en": "Sera",
+      "kind": "npc",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/2/",
+      "aliases": [
+        "莎丽"
+      ],
+      "id": "npc-2"
+    },
+    {
+      "zh": "罗杰",
+      "en": "Roger",
+      "kind": "npc",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/3/",
+      "id": "npc-3"
+    },
+    {
+      "zh": "妮娜",
+      "en": "Nina",
+      "kind": "npc",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/4/",
+      "id": "npc-4"
+    },
+    {
+      "zh": "山",
+      "en": "Sen",
+      "kind": "npc",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/5/",
+      "aliases": [
+        "珊"
+      ],
+      "id": "npc-5"
+    },
+    {
+      "zh": "比特",
+      "en": "Peter",
+      "kind": "npc",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/6/",
+      "aliases": [
+        "彼特"
+      ],
+      "id": "npc-6"
+    },
+    {
+      "zh": "透德",
+      "en": "Todd",
+      "kind": "npc",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/7/",
+      "id": "npc-7"
+    },
+    {
+      "zh": "萨姆",
+      "en": "Sam",
+      "kind": "npc",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/9/",
+      "id": "npc-8"
+    },
+    {
+      "zh": "玛利亚",
+      "en": "Maria",
+      "kind": "npc",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/10/",
+      "aliases": [
+        "玛丽亚"
+      ],
+      "id": "npc-9"
+    },
+    {
+      "zh": "麦加",
+      "en": "Mai",
+      "kind": "npc",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/11/",
+      "id": "npc-10"
+    },
+    {
+      "zh": "比格斯",
+      "en": "Biggs",
+      "kind": "npc",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/12/",
+      "id": "npc-11"
+    },
+    {
+      "zh": "桑克斯",
+      "en": "Shanks",
+      "kind": "npc",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/15/",
+      "id": "npc-12"
+    },
+    {
+      "zh": "卢卡斯",
+      "en": "Lucas",
+      "kind": "npc",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/17/",
+      "id": "npc-13"
+    },
+    {
+      "zh": "皮奥",
+      "en": "Pio",
+      "kind": "npc",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/18/",
+      "id": "npc-14"
+    },
+    {
+      "zh": "瑞恩",
+      "en": "Rain",
+      "kind": "npc",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/19/",
+      "id": "npc-15"
+    },
+    {
+      "zh": "比尔",
+      "en": "Phil",
+      "kind": "npc",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/101/",
+      "id": "npc-16"
+    },
+    {
+      "zh": "特奥",
+      "en": "Teo",
+      "kind": "npc",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/102/",
+      "id": "npc-17"
+    },
+    {
+      "zh": "简",
+      "en": "Jane",
+      "kind": "npc",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/103/",
+      "id": "npc-18"
+    },
+    {
+      "zh": "坤",
+      "en": "Olaf",
+      "kind": "npc",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/107/",
+      "id": "npc-19"
+    },
+    {
+      "zh": "丽娜",
+      "en": "Rina",
+      "kind": "npc",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/201/",
+      "id": "npc-20"
+    },
+    {
+      "zh": "明明女士",
+      "en": "Mrs. Ming Ming",
+      "kind": "npc",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/203/",
+      "id": "npc-21"
+    },
+    {
+      "zh": "玛亚",
+      "en": "Maya",
+      "kind": "npc",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/207/",
+      "id": "npc-22"
+    },
+    {
+      "zh": "皮亚",
+      "en": "Pia",
+      "kind": "npc",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/218/",
+      "id": "npc-23"
+    },
+    {
+      "zh": "鲁克",
+      "en": "Luke",
+      "kind": "npc",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/226/",
+      "id": "npc-24"
+    },
+    {
+      "zh": "胡小姐",
+      "en": "Estelle",
+      "kind": "npc",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/300/",
+      "id": "npc-25"
+    },
+    {
+      "zh": "妖精罗雯",
+      "en": "Rowen the Fairy",
+      "kind": "npc",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/305/",
+      "id": "npc-26"
+    },
+    {
+      "zh": "塞恩",
+      "en": "Shane",
+      "kind": "npc",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/306/",
+      "aliases": [
+        "赛恩"
+      ],
+      "id": "npc-27"
+    },
+    {
+      "zh": "妖精维英",
+      "en": "Wing the Fairy",
+      "kind": "npc",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/309/",
+      "id": "npc-28"
+    },
+    {
+      "zh": "汉斯",
+      "en": "Grendel the Really Old",
+      "kind": "npc",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/313/",
+      "id": "npc-29"
+    },
+    {
+      "zh": "转职教官",
+      "en": "Magician Job Instructor",
+      "kind": "npc",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/319/",
+      "aliases": [
+        "魔法师转职教官"
+      ],
+      "id": "npc-30"
+    },
+    {
+      "zh": "洛尼",
+      "en": "Ronnie",
+      "kind": "npc",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/320/",
+      "id": "npc-31"
+    },
+    {
+      "zh": "秀咪",
+      "en": "Shumi",
+      "kind": "npc",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/403/",
+      "aliases": [
+        "休咪"
+      ],
+      "id": "npc-32"
+    },
+    {
+      "zh": "内拉",
+      "en": "Nella",
+      "kind": "npc",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/406/",
+      "id": "npc-33"
+    },
+    {
+      "zh": "曼斯塔",
+      "en": "Cutthroat Manny",
+      "kind": "npc",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/408/",
+      "id": "npc-34"
+    },
+    {
+      "zh": "不认识的女人",
+      "en": "Jane Doe",
+      "kind": "npc",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/412/",
+      "aliases": [
+        "陌生女人"
+      ],
+      "id": "npc-35"
+    },
+    {
+      "zh": "安德里亚",
+      "en": "Andre",
+      "kind": "npc",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/414/",
+      "id": "npc-36"
+    },
+    {
+      "zh": "克里斯",
+      "en": "Chris",
+      "kind": "npc",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/415/",
+      "id": "npc-37"
+    },
+    {
+      "zh": "麦吉",
+      "en": "Manji",
+      "kind": "npc",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/502/",
+      "id": "npc-38"
+    },
+    {
+      "zh": "索菲亚",
+      "en": "Sophia",
+      "kind": "npc",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/510/",
+      "aliases": [
+        "索非亚"
+      ],
+      "id": "npc-39"
+    },
+    {
+      "zh": "克里斯拉玛",
+      "en": "Chrishrama",
+      "kind": "npc",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/602/",
+      "aliases": [
+        "克利斯拉玛"
+      ],
+      "id": "npc-40"
+    },
+    {
+      "zh": "泰索夫",
+      "en": "Mr. Wetbottom",
+      "kind": "npc",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/608/",
+      "aliases": [
+        "泰素夫"
+      ],
+      "id": "npc-41"
+    },
+    {
+      "zh": "高级出租车",
+      "en": "VIP Cab",
+      "kind": "npc",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/104/",
+      "aliases": [
+        "星级出租车"
+      ],
+      "id": "npc-42"
+    },
+    {
+      "zh": "出租车",
+      "en": "Regular Cab",
+      "kind": "npc",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/200/",
+      "id": "npc-43"
+    },
+    {
+      "zh": "特殊小石球",
+      "en": "Tutorial Jr. Sentinel",
+      "kind": "monster",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/1/",
+      "aliases": [
+        "小石球"
+      ],
+      "id": "monster-1"
+    },
+    {
+      "zh": "蜗牛",
+      "en": "Snail",
+      "kind": "monster",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/2/",
+      "id": "monster-2"
+    },
+    {
+      "zh": "蓝蜗牛",
+      "en": "Blue Snail",
+      "kind": "monster",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/3/",
+      "id": "monster-3"
+    },
+    {
+      "zh": "蘑菇仔",
+      "en": "Shroom",
+      "kind": "monster",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/4/",
+      "id": "monster-4"
+    },
+    {
+      "zh": "红蜗牛",
+      "en": "Red Snail",
+      "kind": "monster",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/5/",
+      "id": "monster-5"
+    },
+    {
+      "zh": "木妖",
+      "en": "Stump",
+      "kind": "monster",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/6/",
+      "id": "monster-6"
+    },
+    {
+      "zh": "绿水灵",
+      "en": "Slime",
+      "kind": "monster",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/7/",
+      "id": "monster-7"
+    },
+    {
+      "zh": "猪猪",
+      "en": "Pig",
+      "kind": "monster",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/8/",
+      "id": "monster-8"
+    },
+    {
+      "zh": "花蘑菇",
+      "en": "Orange Mushroom",
+      "kind": "monster",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/9/",
+      "id": "monster-9"
+    },
+    {
+      "zh": "飘飘猪",
+      "en": "Ribbon Pig",
+      "kind": "monster",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/10/",
+      "aliases": [
+        "漂漂猪"
+      ],
+      "id": "monster-10"
+    },
+    {
+      "zh": "黑木妖",
+      "en": "Dark Stump",
+      "kind": "monster",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/11/",
+      "id": "monster-11"
+    },
+    {
+      "zh": "三眼章鱼",
+      "en": "Octopus",
+      "kind": "monster",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/12/",
+      "aliases": [
+        "章鱼"
+      ],
+      "id": "monster-12"
+    },
+    {
+      "zh": "绿蘑菇",
+      "en": "Green Mushroom",
+      "kind": "monster",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/13/",
+      "id": "monster-13"
+    },
+    {
+      "zh": "蓝水灵",
+      "en": "Bubbling",
+      "kind": "monster",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/14/",
+      "id": "monster-14"
+    },
+    {
+      "zh": "斧木妖",
+      "en": "Axe Stump",
+      "kind": "monster",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/15/",
+      "aliases": [
+        "浮木妖"
+      ],
+      "note": "攻略中的“浮木妖”按等级和路线对应斧木妖；属于转写校对，名称以游戏内为准。",
+      "id": "monster-15"
+    },
+    {
+      "zh": "蓝蘑菇",
+      "en": "Blue Mushroom",
+      "kind": "monster",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/16/",
+      "id": "monster-16"
+    },
+    {
+      "zh": "蝙蝠",
+      "en": "Stirge",
+      "kind": "monster",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/17/",
+      "id": "monster-17"
+    },
+    {
+      "zh": "小青蛇",
+      "en": "Jr. Necki",
+      "kind": "monster",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/18/",
+      "aliases": [
+        "青蛇"
+      ],
+      "id": "monster-18"
+    },
+    {
+      "zh": "刺蘑菇",
+      "en": "Horny Mushroom",
+      "kind": "monster",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/19/",
+      "id": "monster-19"
+    },
+    {
+      "zh": "黑斧木妖",
+      "en": "Dark Axe Stump",
+      "kind": "monster",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/20/",
+      "id": "monster-20"
+    },
+    {
+      "zh": "僵尸蘑菇",
+      "en": "Zombie Mushroom",
+      "kind": "monster",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/21/",
+      "id": "monster-21"
+    },
+    {
+      "zh": "野猪",
+      "en": "Wild Boar",
+      "kind": "monster",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/22/",
+      "id": "monster-22"
+    },
+    {
+      "zh": "火独眼兽",
+      "en": "Evil Eye",
+      "kind": "monster",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/23/",
+      "id": "monster-23"
+    },
+    {
+      "zh": "铁甲猪",
+      "en": "Iron Hog",
+      "kind": "monster",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/24/",
+      "id": "monster-24"
+    },
+    {
+      "zh": "鳄鱼",
+      "en": "Ligator",
+      "kind": "monster",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/29/",
+      "id": "monster-25"
+    },
+    {
+      "zh": "火野猪",
+      "en": "Fire Boar",
+      "kind": "monster",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/30/",
+      "id": "monster-26"
+    },
+    {
+      "zh": "风独眼兽",
+      "en": "Curse Eye",
+      "kind": "monster",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/31/",
+      "id": "monster-27"
+    },
+    {
+      "zh": "小幽灵",
+      "en": "Jr. Wraith",
+      "kind": "monster",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/32/",
+      "id": "monster-28"
+    },
+    {
+      "zh": "幼魔精灵",
+      "en": "Jr. Boogie",
+      "kind": "monster",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/33/",
+      "id": "monster-29"
+    },
+    {
+      "zh": "猴子",
+      "en": "Lupin",
+      "kind": "monster",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/35/",
+      "id": "monster-30"
+    },
+    {
+      "zh": "黑鳄鱼",
+      "en": "Croco",
+      "kind": "monster",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/46/",
+      "id": "monster-31"
+    },
+    {
+      "zh": "莎莉的镜子",
+      "en": "Sera's Mirror",
+      "kind": "item",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/items/4031000/",
+      "aliases": [
+        "镜子"
+      ],
+      "id": "item-1"
+    },
+    {
+      "zh": "玛利亚的信",
+      "en": "Maria's Letter",
+      "kind": "item",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/items/4031001/",
+      "id": "item-2"
+    },
+    {
+      "zh": "卢卡斯的信",
+      "en": "Lucas's Letter",
+      "kind": "item",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/items/4031002/",
+      "id": "item-3"
+    },
+    {
+      "zh": "蓝色蜗牛壳",
+      "en": "Blue Snail Shell",
+      "kind": "item",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/items/4000002/",
+      "aliases": [
+        "蓝壳"
+      ],
+      "id": "item-4"
+    },
+    {
+      "zh": "花蘑菇盖",
+      "en": "Orange Mushroom Cap",
+      "kind": "item",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/items/4000009/",
+      "id": "item-5"
+    },
+    {
+      "zh": "绿水灵珠",
+      "en": "Slime Bubble",
+      "kind": "item",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/items/4000007/",
+      "aliases": [
+        "珠"
+      ],
+      "id": "item-6"
+    },
+    {
+      "zh": "猪头",
+      "en": "Pig's Head",
+      "kind": "item",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/items/4000008/",
+      "id": "item-7"
+    },
+    {
+      "zh": "粗羽毛",
+      "en": "Stiff Feather",
+      "kind": "item",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/items/4003002/",
+      "id": "item-8"
+    },
+    {
+      "zh": "动物皮",
+      "en": "Leather",
+      "kind": "item",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/items/4000049/",
+      "id": "item-9"
+    },
+    {
+      "zh": "柠檬",
+      "en": "Lemon",
+      "kind": "item",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/items/2010005/",
+      "id": "item-10"
+    },
+    {
+      "zh": "松叶",
+      "en": "Leaf",
+      "kind": "item",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/items/4000011/",
+      "id": "item-11"
+    },
+    {
+      "zh": "绿叶球",
+      "en": "Squishy Liquid",
+      "kind": "item",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/items/4000006/",
+      "id": "item-12"
+    },
+    {
+      "zh": "石榴石母矿",
+      "en": "Garnet Ore",
+      "kind": "item",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/items/4020000/",
+      "aliases": [
+        "母矿"
+      ],
+      "id": "item-13"
+    },
+    {
+      "zh": "魔法密林回城卷",
+      "en": "Return Scroll to Ellinia",
+      "kind": "item",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/items/2030002/",
+      "id": "item-14"
+    },
+    {
+      "zh": "石榴石",
+      "en": "Garnet",
+      "kind": "item",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/items/4020100/",
+      "id": "item-15"
+    },
+    {
+      "zh": "三眼章鱼触角",
+      "en": "Octopus Leg",
+      "kind": "item",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/items/4000012/",
+      "aliases": [
+        "章鱼触角",
+        "触角"
+      ],
+      "id": "item-16"
+    },
+    {
+      "zh": "绿蘑菇盖",
+      "en": "Green Mushroom Cap",
+      "kind": "item",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/items/4000013/",
+      "id": "item-17"
+    },
+    {
+      "zh": "蝴蝶结",
+      "en": "Pig's Ribbon",
+      "kind": "item",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/items/4000010/",
+      "id": "item-18"
+    },
+    {
+      "zh": "特制酱油",
+      "en": "Estelle's Special Sauce",
+      "kind": "item",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/items/4031005/",
+      "aliases": [
+        "酱油"
+      ],
+      "id": "item-19"
+    },
+    {
+      "zh": "蓝蘑菇盖",
+      "en": "Blue Mushroom Cap",
+      "kind": "item",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/items/4000016/",
+      "id": "item-20"
+    },
+    {
+      "zh": "热血头带",
+      "en": "Ribboned Pig Headband",
+      "kind": "item",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/equips/1002100/",
+      "id": "item-21"
+    },
+    {
+      "zh": "矿泉水",
+      "en": "Pure Water",
+      "kind": "item",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/items/2022000/",
+      "id": "item-22"
+    },
+    {
+      "zh": "工地手套",
+      "en": "Work Gloves",
+      "kind": "item",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/equips/1082000/",
+      "id": "item-23"
+    },
+    {
+      "zh": "蛇皮",
+      "en": "Jr. Necki Skin",
+      "kind": "item",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/items/4000018/",
+      "id": "item-24"
+    },
+    {
+      "zh": "刺蘑菇盖",
+      "en": "Horny Mushroom Cap",
+      "kind": "item",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/items/4000019/",
+      "id": "item-25"
+    },
+    {
+      "zh": "镜子碎片",
+      "en": "Broken Mirror Glass",
+      "kind": "item",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/items/4031007/",
+      "id": "item-26"
+    },
+    {
+      "zh": "道符",
+      "en": "Charm of the Undead",
+      "kind": "item",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/items/4000020/",
+      "id": "item-27"
+    },
+    {
+      "zh": "火独眼兽之尾",
+      "en": "Evil Eye Tail",
+      "kind": "item",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/items/4000022/",
+      "aliases": [
+        "火独眼兽尾巴"
+      ],
+      "id": "item-28"
+    },
+    {
+      "zh": "破披风",
+      "en": "Old Raggedy Cape",
+      "kind": "item",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/equips/1102000/",
+      "id": "item-29"
+    },
+    {
+      "zh": "变异蘑菇的血",
+      "en": "Arcon's Blood",
+      "kind": "item",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/items/4031010/",
+      "id": "item-30"
+    },
+    {
+      "zh": "闪耀的石头",
+      "en": "Sparkling Rock",
+      "kind": "item",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/items/4031011/",
+      "aliases": [
+        "闪耀石头"
+      ],
+      "id": "item-31"
+    },
+    {
+      "zh": "奇怪的药",
+      "en": "Weird Medicine",
+      "kind": "item",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/items/4031009/",
+      "id": "item-32"
+    },
+    {
+      "zh": "褐色斗笠",
+      "en": "Brown Bamboo Hat",
+      "kind": "item",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/equips/1002081/",
+      "id": "item-33"
+    },
+    {
+      "zh": "汉斯的信件",
+      "en": "Grendel the Really Old's Letter",
+      "kind": "item",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/items/4031014/",
+      "id": "item-34"
+    },
+    {
+      "zh": "黑珠",
+      "en": "Dark Marble",
+      "kind": "item",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/items/4031023/",
+      "id": "item-35"
+    },
+    {
+      "zh": "英雄证书",
+      "en": "The Proof of a Hero",
+      "kind": "item",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/items/4031024/",
+      "id": "item-36"
+    },
+    {
+      "zh": "香蕉",
+      "en": "Lupin's Banana",
+      "kind": "item",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/items/4000031/",
+      "id": "item-37"
+    },
+    {
+      "zh": "风独眼兽之尾",
+      "en": "Curse Eye Tail",
+      "kind": "item",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/items/4000027/",
+      "id": "item-38"
+    },
+    {
+      "zh": "特制烤鳗鱼",
+      "en": "Rina's Unagi Special",
+      "kind": "item",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/items/4031030/",
+      "id": "item-39"
+    },
+    {
+      "zh": "钻石",
+      "en": "Diamond",
+      "kind": "item",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/items/4020107/",
+      "id": "item-40"
+    },
+    {
+      "zh": "新鲜的牛奶",
+      "en": "Fresh Milk",
+      "kind": "item",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/items/4031031/",
+      "aliases": [
+        "牛奶"
+      ],
+      "id": "item-41"
+    },
+    {
+      "zh": "神秘书",
+      "en": "Secret Book",
+      "kind": "item",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/items/4031032/",
+      "aliases": [
+        "秘密之书"
+      ],
+      "id": "item-42"
+    },
+    {
+      "zh": "桑拿服",
+      "en": "Blue Sauna Robe / Red Sauna Robe",
+      "kind": "item",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/equips/1050010/",
+      "note": "男性蓝色款／女性红色款。",
+      "id": "item-43"
+    },
+    {
+      "zh": "旧螺丝钉",
+      "en": "Rusty Screw",
+      "kind": "item",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/items/4031003/",
+      "id": "item-44"
+    },
+    {
+      "zh": "旧木板",
+      "en": "Old Wooden Board",
+      "kind": "item",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/items/4031004/",
+      "id": "item-45"
+    },
+    {
+      "zh": "苹果",
+      "en": "Roger's Apple",
+      "kind": "item",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/items/2010000/",
+      "id": "item-46"
+    },
+    {
+      "zh": "小石球的石片",
+      "en": "Jr. Sentinel Shellpiece",
+      "kind": "item",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/items/4000067/",
+      "id": "item-47"
+    },
+    {
+      "zh": "红药",
+      "en": "Red Potion",
+      "kind": "item",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/items/2000000/",
+      "id": "item-48"
+    },
+    {
+      "zh": "蓝药",
+      "en": "Blue Potion",
+      "kind": "item",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/items/2000003/",
+      "id": "item-49"
+    },
+    {
+      "zh": "法师职业鞋（款式待确认）",
+      "en": "Magician shoes — exact item unconfirmed",
+      "kind": "item",
+      "source": "",
+      "aliases": [
+        "法师职业鞋",
+        "法师鞋"
+      ],
+      "note": "攻略只给出等级与职业，未给鞋款；这里是类别说明，不是已确认的道具专名。",
+      "id": "item-50"
+    },
+    {
+      "zh": "蘑菇镇西入口",
+      "en": "Mushroom Town - West Entrance",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/1/",
+      "mapId": 1,
+      "location": {
+        "node": "Mushroom Town - West Entrance",
+        "mode": "exact"
+      },
+      "id": "map-1"
+    },
+    {
+      "zh": "小蘑菇（第一张）",
+      "en": "Mushroom Town",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10/",
+      "mapId": 10,
+      "location": {
+        "node": "Mushroom Town (Nina)",
+        "mode": "entrance"
+      },
+      "note": "小蘑菇两张教学地图共用大地图节点；不是独立地图内坐标。",
+      "id": "map-2"
+    },
+    {
+      "zh": "小蘑菇（第二张）",
+      "en": "Mushroom Town",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/20/",
+      "aliases": [
+        "小蘑菇"
+      ],
+      "mapId": 20,
+      "location": {
+        "node": "Mushroom Town (Nina)",
+        "mode": "entrance"
+      },
+      "note": "小蘑菇两张教学地图共用大地图节点；不是独立地图内坐标。",
+      "id": "map-3"
+    },
+    {
+      "zh": "蘑菇村村民家",
+      "en": "Mushroom Town Townstreet",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/21/",
+      "mapId": 21,
+      "location": {
+        "node": "Mushroom Town (Nina)",
+        "mode": "entrance"
+      },
+      "id": "map-4"
+    },
+    {
+      "zh": "蘑菇镇东入口",
+      "en": "East Entrance to Mushroom Town",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/30/",
+      "mapId": 30,
+      "location": {
+        "node": "East Entrance to Mushroom Town",
+        "mode": "exact"
+      },
+      "id": "map-5"
+    },
+    {
+      "zh": "蜗牛狩猎场一",
+      "en": "Snail Hunting Ground I",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/40/",
+      "mapId": 40,
+      "location": {
+        "node": "Snail Hunting Ground I",
+        "mode": "exact"
+      },
+      "id": "map-6"
+    },
+    {
+      "zh": "蜗牛狩猎场二",
+      "en": "Snail Hunting Ground II",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/41/",
+      "mapId": 41,
+      "location": {
+        "node": "Snail Hunting Ground II",
+        "mode": "exact"
+      },
+      "id": "map-7"
+    },
+    {
+      "zh": "蜗牛狩猎场三",
+      "en": "Snail Hunting Ground III",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/42/",
+      "mapId": 42,
+      "location": {
+        "node": "Snail Hunting Ground III",
+        "mode": "exact"
+      },
+      "id": "map-8"
+    },
+    {
+      "zh": "岔路",
+      "en": "A Split Road",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/50/",
+      "mapId": 50,
+      "location": {
+        "node": "A Split Road",
+        "mode": "exact"
+      },
+      "id": "map-9"
+    },
+    {
+      "zh": "南港",
+      "en": "Southperry",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/60/",
+      "mapId": 60,
+      "location": {
+        "node": "Southperry",
+        "mode": "exact"
+      },
+      "id": "map-10"
+    },
+    {
+      "zh": "彩虹村西边草原",
+      "en": "The Field West of Amherst",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/1000/",
+      "aliases": [
+        "西边草原"
+      ],
+      "mapId": 1000,
+      "location": {
+        "node": "The Field West of Amherst",
+        "mode": "exact"
+      },
+      "id": "map-11"
+    },
+    {
+      "zh": "彩虹村",
+      "en": "Amherst",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/1010/",
+      "mapId": 1010,
+      "location": {
+        "node": "Amherst",
+        "mode": "exact"
+      },
+      "id": "map-12"
+    },
+    {
+      "zh": "彩虹村武器店",
+      "en": "Amherst Weapon Store",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/1011/",
+      "mapId": 1011,
+      "location": {
+        "node": "Amherst",
+        "mode": "entrance"
+      },
+      "id": "map-13"
+    },
+    {
+      "zh": "彩虹村村民家",
+      "en": "Amherst Townstreet",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/1012/",
+      "mapId": 1012,
+      "location": {
+        "node": "Amherst",
+        "mode": "entrance"
+      },
+      "id": "map-14"
+    },
+    {
+      "zh": "彩虹村杂货店",
+      "en": "Amherst Department Store",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/1013/",
+      "mapId": 1013,
+      "location": {
+        "node": "Amherst",
+        "mode": "entrance"
+      },
+      "id": "map-15"
+    },
+    {
+      "zh": "明珠港",
+      "en": "Lith Harbor",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10000000/",
+      "mapId": 10000000,
+      "location": {
+        "node": "Lith Harbor",
+        "mode": "exact"
+      },
+      "id": "map-16"
+    },
+    {
+      "zh": "明珠港郊外",
+      "en": "Right Around Lith Harbor",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10000010/",
+      "aliases": [
+        "郊外"
+      ],
+      "mapId": 10000010,
+      "location": {
+        "node": "Right Around Lith Harbor",
+        "mode": "exact"
+      },
+      "id": "map-17"
+    },
+    {
+      "zh": "海岸草丛一",
+      "en": "Thicket Around the Beach I",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10000011/",
+      "mapId": 10000011,
+      "location": {
+        "node": "Thicket Around the Beach I",
+        "mode": "exact"
+      },
+      "id": "map-18"
+    },
+    {
+      "zh": "海岸草丛二",
+      "en": "Thicket Around the Beach II",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10000012/",
+      "mapId": 10000012,
+      "location": {
+        "node": "Thicket Around the Beach II",
+        "mode": "exact"
+      },
+      "id": "map-19"
+    },
+    {
+      "zh": "射手村",
+      "en": "Henesys",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10001000/",
+      "mapId": 10001000,
+      "location": {
+        "node": "Henesys",
+        "mode": "exact"
+      },
+      "id": "map-20"
+    },
+    {
+      "zh": "射手村街道",
+      "en": "Henesys Townstreet",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10001001/",
+      "mapId": 10001001,
+      "location": {
+        "node": "Henesys",
+        "mode": "entrance"
+      },
+      "id": "map-21"
+    },
+    {
+      "zh": "铁甲猪公园二",
+      "en": "Pig Park II",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10001004/",
+      "mapId": 10001004,
+      "location": {
+        "node": "Henesys",
+        "mode": "entrance"
+      },
+      "id": "map-22"
+    },
+    {
+      "zh": "射手村公园",
+      "en": "Henesys Park",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10001050/",
+      "mapId": 10001050,
+      "location": {
+        "node": "Henesys",
+        "mode": "entrance"
+      },
+      "id": "map-23"
+    },
+    {
+      "zh": "射手村东部小山",
+      "en": "The Hill East of Henesys",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10001060/",
+      "aliases": [
+        "东部小山"
+      ],
+      "mapId": 10001060,
+      "location": {
+        "node": "The Hill East of Henesys",
+        "mode": "exact"
+      },
+      "id": "map-24"
+    },
+    {
+      "zh": "射手村东部草丛",
+      "en": "The Rain-Forest East of Henesys",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10001070/",
+      "aliases": [
+        "东部草丛"
+      ],
+      "mapId": 10001070,
+      "location": {
+        "node": "The Rain-Forest East of Henesys",
+        "mode": "exact"
+      },
+      "id": "map-25"
+    },
+    {
+      "zh": "射手村东部树林",
+      "en": "The Forest East of Henesys",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10001080/",
+      "aliases": [
+        "东部树林"
+      ],
+      "mapId": 10001080,
+      "location": {
+        "node": "The Forest East of Henesys",
+        "mode": "exact"
+      },
+      "id": "map-26"
+    },
+    {
+      "zh": "青蘑菇树林",
+      "en": "The Blue Mushroom Forest",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10001081/",
+      "mapId": 10001081,
+      "location": {
+        "node": "The Forest East of Henesys",
+        "mode": "entrance"
+      },
+      "id": "map-27"
+    },
+    {
+      "zh": "迷宫通道",
+      "en": "The Road to the Dungeon",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10001090/",
+      "mapId": 10001090,
+      "location": {
+        "node": "The Road to the Dungeon",
+        "mode": "exact"
+      },
+      "id": "map-28"
+    },
+    {
+      "zh": "魔法密林",
+      "en": "Ellinia",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10002000/",
+      "aliases": [
+        "密林"
+      ],
+      "mapId": 10002000,
+      "location": {
+        "node": "Ellinia",
+        "mode": "exact"
+      },
+      "id": "map-29"
+    },
+    {
+      "zh": "魔法图书馆",
+      "en": "Magic Library",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10002003/",
+      "mapId": 10002003,
+      "location": {
+        "node": "Ellinia",
+        "mode": "entrance"
+      },
+      "id": "map-30"
+    },
+    {
+      "zh": "魔法密林南郊",
+      "en": "The Field South of Ellinia",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10002010/",
+      "aliases": [
+        "南郊"
+      ],
+      "mapId": 10002010,
+      "location": {
+        "node": "The Field South of Ellinia",
+        "mode": "exact"
+      },
+      "id": "map-31"
+    },
+    {
+      "zh": "智慧森林",
+      "en": "The Forest of Wisdom",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10002020/",
+      "mapId": 10002020,
+      "location": {
+        "node": "The Forest of Wisdom",
+        "mode": "exact"
+      },
+      "id": "map-32"
+    },
+    {
+      "zh": "魔法森林南部",
+      "en": "The Forest South of Ellinia",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10002030/",
+      "mapId": 10002030,
+      "location": {
+        "node": "The Forest South of Ellinia",
+        "mode": "exact"
+      },
+      "id": "map-33"
+    },
+    {
+      "zh": "魔法密林北郊",
+      "en": "The Field Up North of Ellinia",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10002050/",
+      "aliases": [
+        "北郊"
+      ],
+      "mapId": 10002050,
+      "location": {
+        "node": "The Field Up North of Ellinia",
+        "mode": "exact"
+      },
+      "id": "map-34"
+    },
+    {
+      "zh": "大木林一",
+      "en": "The Tree That Grew I",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10002060/",
+      "mapId": 10002060,
+      "location": {
+        "node": "The Tree That Grew I",
+        "mode": "exact"
+      },
+      "id": "map-35"
+    },
+    {
+      "zh": "魔法密林北部",
+      "en": "The Forest North of Ellinia",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10002070/",
+      "aliases": [
+        "密林北部"
+      ],
+      "mapId": 10002070,
+      "location": {
+        "node": "The Forest North of Ellinia",
+        "mode": "exact"
+      },
+      "id": "map-36"
+    },
+    {
+      "zh": "北部森林通道",
+      "en": "The Tree Tunnel At the Forest Up North",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10002071/",
+      "mapId": 10002071,
+      "location": {
+        "node": "The Forest North of Ellinia",
+        "mode": "entrance"
+      },
+      "id": "map-37"
+    },
+    {
+      "zh": "北部森林训练场九",
+      "en": "Tree Dungeon, Forest Up North IX",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10002083/",
+      "mapId": 10002083,
+      "location": {
+        "node": "The Forest North of Ellinia",
+        "mode": "entrance"
+      },
+      "id": "map-38"
+    },
+    {
+      "zh": "废弃都市",
+      "en": "Kerning City",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10003000/",
+      "mapId": 10003000,
+      "location": {
+        "node": "Kerning City",
+        "mode": "exact"
+      },
+      "id": "map-39"
+    },
+    {
+      "zh": "尼奥拉医院",
+      "en": "Niora Hospital",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10003004/",
+      "mapId": 10003004,
+      "location": {
+        "node": "Kerning City",
+        "mode": "entrance"
+      },
+      "id": "map-40"
+    },
+    {
+      "zh": "废都南方工地",
+      "en": "Kerning City Construction Site",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10003010/",
+      "mapId": 10003010,
+      "location": {
+        "node": "Kerning City Construction Site",
+        "mode": "exact"
+      },
+      "id": "map-41"
+    },
+    {
+      "zh": "坠落注意",
+      "en": "Caution Falling Down",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10003011/",
+      "mapId": 10003011,
+      "location": {
+        "node": "Kerning City Construction Site",
+        "mode": "entrance"
+      },
+      "id": "map-42"
+    },
+    {
+      "zh": "泥岩森林一",
+      "en": "L Forest I",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10003020/",
+      "aliases": [
+        "逆恩森林一"
+      ],
+      "mapId": 10003020,
+      "location": {
+        "node": "L Forest I",
+        "mode": "exact"
+      },
+      "note": "攻略中的“泥岩／逆恩森林一”对应 L Forest I。",
+      "id": "map-43"
+    },
+    {
+      "zh": "地铁售票处",
+      "en": "Subway Ticketing Booth",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10003060/",
+      "mapId": 10003060,
+      "location": {
+        "node": "Kerning City",
+        "mode": "entrance"
+      },
+      "id": "map-44"
+    },
+    {
+      "zh": "地铁一号线第一地区",
+      "en": "Line 1 <Area 1>",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10003061/",
+      "aliases": [
+        "一号线第一地区"
+      ],
+      "mapId": 10003061,
+      "location": {
+        "node": "Kerning City",
+        "mode": "entrance"
+      },
+      "id": "map-45"
+    },
+    {
+      "zh": "地铁环城区",
+      "en": "Transfer Area",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10003062/",
+      "aliases": [
+        "环城区"
+      ],
+      "mapId": 10003062,
+      "location": {
+        "node": "Kerning City",
+        "mode": "entrance"
+      },
+      "note": "攻略称“环城区”，按售票处 → 一号线第一地区的路线对应 Transfer Area（换乘区）。",
+      "id": "map-46"
+    },
+    {
+      "zh": "地铁二号线第一地区",
+      "en": "Line 2 <Area 1>",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10003066/",
+      "mapId": 10003066,
+      "location": {
+        "node": "Kerning City",
+        "mode": "entrance"
+      },
+      "id": "map-47"
+    },
+    {
+      "zh": "废都北入口",
+      "en": "Sunset Sky",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10003070/",
+      "mapId": 10003070,
+      "location": {
+        "node": "Sunset Sky",
+        "mode": "exact"
+      },
+      "id": "map-48"
+    },
+    {
+      "zh": "废都北方工地",
+      "en": "Construction Site North of Kerning City",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10003080/",
+      "mapId": 10003080,
+      "location": {
+        "node": "Construction Site North of Kerning City",
+        "mode": "exact"
+      },
+      "id": "map-49"
+    },
+    {
+      "zh": "沼泽地一",
+      "en": "The Swamp of Despair I",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10003090/",
+      "mapId": 10003090,
+      "location": {
+        "node": "The Swamp of Despair I",
+        "mode": "exact"
+      },
+      "id": "map-50"
+    },
+    {
+      "zh": "沼泽地二",
+      "en": "The Swamp of Despair II",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10003091/",
+      "mapId": 10003091,
+      "location": {
+        "node": "The Swamp of Despair II",
+        "mode": "exact"
+      },
+      "id": "map-51"
+    },
+    {
+      "zh": "鳄鱼潭二",
+      "en": "Dangerous Croko II",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10003094/",
+      "mapId": 10003094,
+      "location": {
+        "node": "Dangerous Croko II",
+        "mode": "exact"
+      },
+      "id": "map-52"
+    },
+    {
+      "zh": "猴子沼泽地一",
+      "en": "Monkey Swamp I",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10003095/",
+      "mapId": 10003095,
+      "location": {
+        "node": "Dangerous Croko II",
+        "mode": "entrance"
+      },
+      "id": "map-53"
+    },
+    {
+      "zh": "勇士部落",
+      "en": "Perion",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10004000/",
+      "mapId": 10004000,
+      "location": {
+        "node": "Perion",
+        "mode": "exact"
+      },
+      "id": "map-54"
+    },
+    {
+      "zh": "勇士部落杂货店",
+      "en": "Perion Department Store",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10004002/",
+      "mapId": 10004002,
+      "location": {
+        "node": "Perion",
+        "mode": "entrance"
+      },
+      "id": "map-55"
+    },
+    {
+      "zh": "勇士部落东入口",
+      "en": "Perion Street Corner",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10004040/",
+      "mapId": 10004040,
+      "location": {
+        "node": "Perion Street Corner",
+        "mode": "exact"
+      },
+      "id": "map-56"
+    },
+    {
+      "zh": "野猪的领土",
+      "en": "Land of Wild Boar",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10004041/",
+      "aliases": [
+        "野猪领土"
+      ],
+      "mapId": 10004041,
+      "location": {
+        "node": "Perion Street Corner",
+        "mode": "entrance"
+      },
+      "id": "map-57"
+    },
+    {
+      "zh": "幽深峡谷一",
+      "en": "Deep Valley I",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10004100/",
+      "mapId": 10004100,
+      "location": {
+        "node": "Deep Valley I",
+        "mode": "exact"
+      },
+      "id": "map-58"
+    },
+    {
+      "zh": "幽深峡谷二",
+      "en": "Deep Valley II",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10004110/",
+      "mapId": 10004110,
+      "location": {
+        "node": "Deep Valley II",
+        "mode": "exact"
+      },
+      "id": "map-59"
+    },
+    {
+      "zh": "火焰之地一",
+      "en": "The Burnt Land I",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10004111/",
+      "mapId": 10004111,
+      "location": {
+        "node": "Deep Valley II",
+        "mode": "entrance"
+      },
+      "id": "map-60"
+    },
+    {
+      "zh": "火焰之地二",
+      "en": "The Burnt Land II",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10004112/",
+      "mapId": 10004112,
+      "location": {
+        "node": "Deep Valley II",
+        "mode": "entrance"
+      },
+      "id": "map-61"
+    },
+    {
+      "zh": "林中之城",
+      "en": "Sleepywood",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10005000/",
+      "mapId": 10005000,
+      "location": {
+        "node": "Sleepywood",
+        "mode": "exact"
+      },
+      "id": "map-62"
+    },
+    {
+      "zh": "林中之城旅馆",
+      "en": "Sleepywood Hotel",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10005001/",
+      "aliases": [
+        "旅馆"
+      ],
+      "mapId": 10005001,
+      "location": {
+        "node": "Sleepywood",
+        "mode": "area"
+      },
+      "id": "map-63"
+    },
+    {
+      "zh": "高级桑拿房",
+      "en": "VIP Sauna",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10005003/",
+      "mapId": 10005003,
+      "location": {
+        "node": "Sleepywood",
+        "mode": "area"
+      },
+      "id": "map-64"
+    },
+    {
+      "zh": "黑森林通道",
+      "en": "Swampy Land in a Deep Forest",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10005010/",
+      "mapId": 10005010,
+      "location": {
+        "node": "Damp Tree-Forest",
+        "mode": "entrance"
+      },
+      "id": "map-65"
+    },
+    {
+      "zh": "黑森林",
+      "en": "Deep Forest",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10005020/",
+      "mapId": 10005020,
+      "location": {
+        "node": "Damp Tree-Forest",
+        "mode": "entrance"
+      },
+      "id": "map-66"
+    },
+    {
+      "zh": "黑森林西入口",
+      "en": "Damp Tree-Forest",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10005030/",
+      "mapId": 10005030,
+      "location": {
+        "node": "Damp Tree-Forest",
+        "mode": "exact"
+      },
+      "id": "map-67"
+    },
+    {
+      "zh": "黑森林沼泽",
+      "en": "Damp Forest",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10005031/",
+      "mapId": 10005031,
+      "location": {
+        "node": "Damp Tree-Forest",
+        "mode": "entrance"
+      },
+      "id": "map-68"
+    },
+    {
+      "zh": "蚂蚁洞一",
+      "en": "Ant Tunnel I",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10005060/",
+      "mapId": 10005060,
+      "location": {
+        "node": "Sleepywood",
+        "mode": "area"
+      },
+      "id": "map-69"
+    },
+    {
+      "zh": "蚂蚁洞二",
+      "en": "Ant Tunnel II",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10005061/",
+      "mapId": 10005061,
+      "location": {
+        "node": "Sleepywood",
+        "mode": "area"
+      },
+      "id": "map-70"
+    },
+    {
+      "zh": "蚂蚁洞三",
+      "en": "Ant Tunnel III",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10005062/",
+      "mapId": 10005062,
+      "location": {
+        "node": "Sleepywood",
+        "mode": "area"
+      },
+      "id": "map-71"
+    },
+    {
+      "zh": "蚂蚁洞四",
+      "en": "Ant Tunnel IV",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10005063/",
+      "mapId": 10005063,
+      "location": {
+        "node": "Sleepywood",
+        "mode": "area"
+      },
+      "id": "map-72"
+    },
+    {
+      "zh": "黑暗通道",
+      "en": "Dark Cave",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10005064/",
+      "mapId": 10005064,
+      "location": {
+        "node": "Sleepywood",
+        "mode": "area"
+      },
+      "id": "map-73"
+    },
+    {
+      "zh": "蝙蝠洞",
+      "en": "Dangerous Steam",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10005065/",
+      "mapId": 10005065,
+      "location": {
+        "node": "Sleepywood",
+        "mode": "area"
+      },
+      "id": "map-74"
+    },
+    {
+      "zh": "幽深蚂蚁洞一",
+      "en": "Deep Ant Tunnel I",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10005066/",
+      "mapId": 10005066,
+      "location": {
+        "node": "Sleepywood",
+        "mode": "area"
+      },
+      "id": "map-75"
+    },
+    {
+      "zh": "幽深蚂蚁洞二",
+      "en": "Deep Ant Tunnel II",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10005067/",
+      "mapId": 10005067,
+      "location": {
+        "node": "Sleepywood",
+        "mode": "area"
+      },
+      "id": "map-76"
+    },
+    {
+      "zh": "蚂蚁广场",
+      "en": "Ant Tunnel Park",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10005070/",
+      "mapId": 10005070,
+      "location": {
+        "node": "Sleepywood",
+        "mode": "area"
+      },
+      "id": "map-77"
+    },
+    {
+      "zh": "魔法师树洞迷宫",
+      "en": "Magician's Tree Dungeon",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/80001100/",
+      "mapId": 80001100,
+      "location": {
+        "node": "The Forest North of Ellinia",
+        "mode": "entrance"
+      },
+      "id": "map-78"
+    },
+    {
+      "zh": "自由市场",
+      "en": "Free Market Entrance",
+      "kind": "map",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/80002000/",
+      "mapId": 80002000,
+      "note": "自由市场可从不同城镇进入，没有唯一的大地图坐标。",
+      "id": "map-79"
+    },
+    {
+      "zh": "彩虹岛",
+      "en": "Maple Island",
+      "kind": "map",
+      "source": "https://mapleclassic.wiki/wiki/Maple_Island",
+      "region": "maple",
+      "id": "map-80"
+    },
+    {
+      "zh": "金银岛",
+      "en": "Victoria Island",
+      "kind": "map",
+      "source": "https://mapleclassic.wiki/wiki/Victoria_Island",
+      "region": "victoria",
+      "id": "map-81"
+    },
+    {
+      "id": "item-cursed-doll",
+      "zh": "诅咒娃娃",
+      "en": "Cursed Doll",
+      "kind": "item",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/items/4000033/"
+    }
+  ],
+  "display": {
+    "q006": {
+      "goal": "打 Lv.1 特殊小石球 3 只，收集小石球的石片 3 个后交比特。",
+      "note": "原文未说明小石球的石片是否回收，不计入长期库存；开服抢不到怪可跳过。"
+    },
+    "q008": {
+      "place": "蜗牛狩猎场一 → 蜗牛狩猎场二 → 蜗牛狩猎场三 → 岔路 · 玛利亚／麦加"
+    },
+    "q014": {
+      "note": "村内：彩虹村武器店 2、彩虹村村民家 2、彩虹村杂货店 1；彩虹村西边草原另有 5 箱，约 2 分钟刷新。领取并交付的材料净库存为 0。"
+    },
+    "q018": {
+      "goal": "若未到 8 级：明珠港 → 明珠港郊外 → 海岸草丛一 → 海岸草丛二，打花蘑菇／猪猪补到 8 级。"
+    },
+    "q028": {
+      "goal": "从 10 练至 12 级，约 190 只 Lv.11 黑木妖，含学徒计数 30。收齐松叶 55、绿叶球 40、绿水灵珠 13、石榴石母矿 1。"
+    },
+    "q034": {
+      "goal": "交绿蘑菇盖 15；再接绿蘑菇 30 只／绿蘑菇盖 15／柠檬 1。"
+    },
+    "q035": {
+      "goal": "击杀绿蘑菇 30，继续约 380 只练到 15 级快升级。额外留绿蘑菇盖 40（皮亚 20／玛亚 20）。"
+    },
+    "q064": {
+      "goal": "补足红药／蓝药；确认麦吉与陌生女人两条僵尸蘑菇任务均已接。"
+    },
+    "q065": {
+      "place": "林中之城 → 蚂蚁洞一 → 蚂蚁洞二 → 蚂蚁洞三",
+      "note": "想离城近可打蚂蚁洞一／蚂蚁洞二；多带药，按经验条而非估计怪数停止。"
+    },
+    "q066": {
+      "place": "蚂蚁洞三 → 蚂蚁洞四 → 黑暗通道 → 蝙蝠洞 → 幽深蚂蚁洞一 → 幽深蚂蚁洞二 → 蚂蚁广场",
+      "goal": "击杀 Lv.27 火独眼兽 50、收火独眼兽之尾 30；继续练至 28，合计约 1250 只。",
+      "note": "路过 Lv.35 幼魔精灵勿停留；广场移动商店不卖红药／蓝药。"
+    },
+    "q071": {
+      "goal": "交变异蘑菇的血、绿叶球 30、松叶 30、三眼章鱼触角 30；接制作闪耀的石头，领取闪耀的石头。"
+    },
+    "q074": {
+      "goal": "交花蘑菇盖／绿蘑菇盖／蓝蘑菇盖／刺蘑菇盖各 20。"
+    },
+    "q080": {
+      "note": "火焰之地二：勇士部落下方 → 幽深峡谷一 → 幽深峡谷二 → 火焰之地一 → 火焰之地二。"
+    },
+    "q085": {
+      "goal": "打 Lv.33 风独眼兽，收风独眼兽之尾 50；该图只有风独眼兽，约 20 只刷新。"
+    },
+    "q086": {
+      "goal": "交对话任务；接后交风独眼兽之尾 50、猪头 10，再接鳗鱼特餐，领取特制烤鳗鱼。"
+    }
+  }
+}
