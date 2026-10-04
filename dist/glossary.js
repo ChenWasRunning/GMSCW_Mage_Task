@@ -31,15 +31,15 @@ function routeButton(container,tasks,label='地图'){
  const button=make('button','map-trigger',label);button.type='button';button.dataset.maps=maps.map(t=>t.id).join(',');button.setAttribute('aria-label',label+'：'+maps.map(t=>t.zh).join('、'));button.setAttribute('aria-haspopup','dialog');button.setAttribute('aria-controls','name-popover');button.setAttribute('aria-expanded','false');container.append(button);
 }
 const popup=make('aside','name-popover');popup.id='name-popover';popup.hidden=true;popup.setAttribute('role','dialog');popup.setAttribute('aria-label','名称与地图详情');popup.setAttribute('data-no-glossary','');document.body.append(popup);
-let active=null,pinned=false,closeTimer;
-function close(){clearTimeout(closeTimer);active?.setAttribute('aria-expanded','false');active=null;pinned=false;popup.hidden=true;}
+let active=null;
+function close(){active?.setAttribute('aria-expanded','false');active=null;popup.hidden=true;}
 function isMap(trigger){return !!trigger&&(!!trigger.dataset.maps||terms.get(trigger.dataset.term)?.kind==='map');}
 function position(){
  if(!active||popup.hidden)return;
  const r=active.getBoundingClientRect(),margin=12,gap=12;
  popup.style.width='';popup.style.maxHeight=`${innerHeight-2*margin}px`;
  let width=popup.offsetWidth,left,top;
- if(isMap(active)){
+ {
   const right=innerWidth-r.right-margin-gap,leftSpace=r.left-margin-gap;
   if(Math.max(right,leftSpace)>=260){
    const useRight=right>=width||(leftSpace<width&&right>=leftSpace);
@@ -54,13 +54,10 @@ function position(){
    left=Math.min(Math.max(margin,r.left),innerWidth-width-margin);
    top=useBelow?r.bottom+gap:r.top-gap-popup.offsetHeight;
   }
- }else{
-  left=Math.min(Math.max(margin,r.left),innerWidth-width-margin);
-  top=r.bottom+gap;if(top+popup.offsetHeight>innerHeight-margin)top=r.top-popup.offsetHeight-gap;
  }
  popup.style.left=`${Math.max(margin,left)}px`;popup.style.top=`${Math.max(margin,top)}px`;
 }
-function activate(trigger){if(isMap(trigger)&&active===trigger&&!popup.hidden)close();else open(trigger,true);}
+function activate(trigger){if(active===trigger&&!popup.hidden)close();else open(trigger);}
 
 function addLink(parent,url,label){if(!url)return;const link=make('a','',label);link.href=url;link.target='_blank';link.rel='noopener noreferrer';parent.append(link);}
 function mapView(list,region){
@@ -78,11 +75,11 @@ function mapView(list,region){
  }else block.append(make('p','map-caption','实心点为大地图节点；空心圆为入口或近似区域。多张地图可能共用一个点。'));
  const credit=make('p','map-credit');addLink(credit,sheet.source,'Classic World 大地图 · '+sheet.name);credit.append(document.createTextNode(' · © NEXON'));block.append(credit);return block;
 }
-function open(trigger,pin=false){
- clearTimeout(closeTimer);if(active!==trigger){active?.setAttribute('aria-expanded','false');pinned=false;}active=trigger;pinned=pin||pinned;popup.replaceChildren();
+function open(trigger){
+ if(active!==trigger)active?.setAttribute('aria-expanded','false');active=trigger;popup.replaceChildren();
  const closeButton=make('button','popover-close','×');closeButton.type='button';closeButton.setAttribute('aria-label','关闭名称提示');closeButton.addEventListener('click',()=>{const previous=active;close();previous?.focus({preventScroll:true});close();});popup.append(closeButton);
  let list;
- if(trigger.dataset.term){const term=terms.get(trigger.dataset.term);if(!term)return;popup.append(make('span','term-kind',{map:'地图',npc:'NPC',monster:'怪物',item:'道具',quest:'任务'}[term.kind]),make('h3','term-chinese',term.zh),make('p','term-english',term.en));if(term.kind==='monster'&&term.image){const figure=make('figure','monster-portrait');const image=make('img');image.src=term.image;image.alt=term.zh+'（'+term.en+'）游戏形象';image.width=term.imageWidth;image.height=term.imageHeight;image.addEventListener('load',position);image.addEventListener('error',()=>{figure.replaceChildren(make('p','term-note','图片暂时无法加载'));position();});figure.append(image);popup.append(figure);}if(term.note)popup.append(make('p','term-note',term.note));const source=make('p','term-source');addLink(source,term.source,'查看名称来源');popup.append(source);if(term.references?.length>1){const refs=make('div','quest-references');for(const ref of term.references){const row=make('p');addLink(row,ref.url,ref.name);refs.append(row);}popup.append(refs);}list=term.kind==='map'?[term]:[];
+ if(trigger.dataset.term){const term=terms.get(trigger.dataset.term);if(!term)return;popup.append(make('span','term-kind',{map:'地图',npc:'NPC',monster:'怪物',item:'道具',quest:'任务'}[term.kind]),make('h3','term-chinese',term.zh),make('p','term-english',term.en));if(term.image){const figure=make('figure','term-portrait '+term.kind+'-portrait');const image=make('img');image.src=term.image;image.alt=term.zh+'（'+term.en+'）游戏形象';if(term.imageWidth)image.width=term.imageWidth;if(term.imageHeight)image.height=term.imageHeight;image.addEventListener('load',position);image.addEventListener('error',()=>{figure.replaceChildren(make('p','term-note','图片暂时无法加载'));position();});figure.append(image);popup.append(figure);}if(term.note)popup.append(make('p','term-note',term.note));const source=make('p','term-source');addLink(source,term.source,'查看名称来源');popup.append(source);if(term.references?.length>1){const refs=make('div','quest-references');for(const ref of term.references){const row=make('p');addLink(row,ref.url,ref.name);refs.append(row);}popup.append(refs);}list=term.kind==='map'?[term]:[];
  }else{list=trigger.dataset.maps.split(',').map(id=>terms.get(id)).filter(Boolean);popup.append(make('span','term-kind','执行地点'),make('h3','term-chinese',trigger.textContent==='阶段地图'?'这一阶段去哪里':'这一步去哪里'),make('p','term-note','也可逐个点击中文地名，查看对应英文与单点位置。'));}
  const regions=[...new Set(list.map(t=>t.region||data.atlas.nodes[t.location?.node]?.region).filter(Boolean))];
  for(const region of regions)popup.append(mapView(list,region));
@@ -91,13 +88,8 @@ function open(trigger,pin=false){
  trigger.setAttribute('aria-expanded','true');popup.classList.toggle('has-map',regions.length>0);popup.hidden=false;position();
 }
 const target=e=>e.target.closest?.('.game-term,.map-trigger');
-document.addEventListener('pointerover',e=>{if(e.pointerType==='touch')return;const t=target(e);if(t&&!isMap(t)&&!(pinned&&isMap(active))&&!t.contains(e.relatedTarget))open(t);});
-document.addEventListener('pointerout',e=>{const t=target(e);if(t&&t===active&&!pinned&&!popup.contains(e.relatedTarget)&&!t.contains(e.relatedTarget))closeTimer=setTimeout(close,220);});
-document.addEventListener('focusin',e=>{const t=target(e);if(t){if(!isMap(t)&&!(pinned&&isMap(active)))open(t);}else if(!popup.contains(e.target))close();});
-document.addEventListener('focusout',e=>{if(!pinned&&!popup.contains(e.relatedTarget)&&!active?.contains(e.relatedTarget))closeTimer=setTimeout(close,220);});
 document.addEventListener('click',e=>{const t=target(e);if(t){e.preventDefault();activate(t);}else if(!popup.contains(e.target))close();});
 document.addEventListener('keydown',e=>{if(e.key==='Escape'){const previous=active;close();if(popup.contains(document.activeElement)){previous?.focus({preventScroll:true});close();}}else if((e.key==='Enter'||e.key===' ')&&target(e)&&e.target.tagName!=='BUTTON'){e.preventDefault();activate(target(e));}});
-popup.addEventListener('pointerenter',()=>clearTimeout(closeTimer));popup.addEventListener('pointerleave',e=>{if(!pinned&&!active?.contains(e.relatedTarget))closeTimer=setTimeout(close,220);});
 addEventListener('resize',position);document.addEventListener('scroll',e=>{if(!popup.contains(e.target)){if(active&&!active.isConnected)close();else position();}},true);
 root.MageGlossary={decorate,taskTitle,routeButton,mapTerms,terms,data,close};
 })(window);
