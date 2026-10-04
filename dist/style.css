@@ -13,3 +13,5 @@
 .item-portrait img{min-width:48px;min-height:48px;max-width:96px;max-height:96px}
 
 .phase-label{display:flex;align-items:center;gap:12px;cursor:pointer;min-width:0}.phase-check{width:17px;height:17px;margin:0;flex:0 0 17px;accent-color:#5c7f52;cursor:pointer}.phase-check:disabled{cursor:wait}
+
+.phase-toggle{display:flex;align-items:center;gap:8px;border:0;background:transparent;padding:4px 0;color:inherit;font:inherit;letter-spacing:inherit;text-align:left}.phase-toggle::before{content:"▾";display:inline-block;transition:transform .3s}.phase-toggle[aria-expanded="false"]::before{transform:rotate(-90deg)}.phase-toggle:hover{color:var(--green)}.phase-tasks{display:grid;grid-template-rows:1fr;transition:grid-template-rows .32s ease}.phase-tasks.collapsed{grid-template-rows:0fr}.phase-tasks-clip{min-height:0;overflow:hidden}
