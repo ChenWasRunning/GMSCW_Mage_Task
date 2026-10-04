@@ -6,7 +6,11 @@
       "en": "Heena",
       "kind": "npc",
       "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/1/",
-      "id": "npc-1"
+      "id": "npc-1",
+      "image": "assets/npcs/1.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/1.png",
+      "imageWidth": 56,
+      "imageHeight": 55
     },
     {
       "zh": "莎莉",
@@ -16,21 +20,33 @@
       "aliases": [
         "莎丽"
       ],
-      "id": "npc-2"
+      "id": "npc-2",
+      "image": "assets/npcs/2.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/2.png",
+      "imageWidth": 51,
+      "imageHeight": 67
     },
     {
       "zh": "罗杰",
       "en": "Roger",
       "kind": "npc",
       "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/3/",
-      "id": "npc-3"
+      "id": "npc-3",
+      "image": "assets/npcs/3.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/3.png",
+      "imageWidth": 56,
+      "imageHeight": 70
     },
     {
       "zh": "妮娜",
       "en": "Nina",
       "kind": "npc",
       "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/4/",
-      "id": "npc-4"
+      "id": "npc-4",
+      "image": "assets/npcs/4.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/4.png",
+      "imageWidth": 65,
+      "imageHeight": 74
     },
     {
       "zh": "山",
@@ -40,7 +56,11 @@
       "aliases": [
         "珊"
       ],
-      "id": "npc-5"
+      "id": "npc-5",
+      "image": "assets/npcs/5.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/5.png",
+      "imageWidth": 40,
+      "imageHeight": 58
     },
     {
       "zh": "比特",
@@ -50,21 +70,33 @@
       "aliases": [
         "彼特"
       ],
-      "id": "npc-6"
+      "id": "npc-6",
+      "image": "assets/npcs/6.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/6.png",
+      "imageWidth": 52,
+      "imageHeight": 70
     },
     {
       "zh": "透德",
       "en": "Todd",
       "kind": "npc",
       "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/7/",
-      "id": "npc-7"
+      "id": "npc-7",
+      "image": "assets/npcs/7.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/7.png",
+      "imageWidth": 52,
+      "imageHeight": 70
     },
     {
       "zh": "萨姆",
       "en": "Sam",
       "kind": "npc",
       "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/9/",
-      "id": "npc-8"
+      "id": "npc-8",
+      "image": "assets/npcs/9.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/9.png",
+      "imageWidth": 52,
+      "imageHeight": 70
     },
     {
       "zh": "玛利亚",
@@ -74,126 +106,198 @@
       "aliases": [
         "玛丽亚"
       ],
-      "id": "npc-9"
+      "id": "npc-9",
+      "image": "assets/npcs/10.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/10.png",
+      "imageWidth": 51,
+      "imageHeight": 67
     },
     {
       "zh": "麦加",
       "en": "Mai",
       "kind": "npc",
       "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/11/",
-      "id": "npc-10"
+      "id": "npc-10",
+      "image": "assets/npcs/11.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/11.png",
+      "imageWidth": 54,
+      "imageHeight": 80
     },
     {
       "zh": "比格斯",
       "en": "Biggs",
       "kind": "npc",
       "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/12/",
-      "id": "npc-11"
+      "id": "npc-11",
+      "image": "assets/npcs/12.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/12.png",
+      "imageWidth": 46,
+      "imageHeight": 67
     },
     {
       "zh": "桑克斯",
       "en": "Shanks",
       "kind": "npc",
       "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/15/",
-      "id": "npc-12"
+      "id": "npc-12",
+      "image": "assets/npcs/15.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/15.png",
+      "imageWidth": 67,
+      "imageHeight": 77
     },
     {
       "zh": "卢卡斯",
       "en": "Lucas",
       "kind": "npc",
       "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/17/",
-      "id": "npc-13"
+      "id": "npc-13",
+      "image": "assets/npcs/17.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/17.png",
+      "imageWidth": 51,
+      "imageHeight": 73
     },
     {
       "zh": "皮奥",
       "en": "Pio",
       "kind": "npc",
       "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/18/",
-      "id": "npc-14"
+      "id": "npc-14",
+      "image": "assets/npcs/18.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/18.png",
+      "imageWidth": 52,
+      "imageHeight": 68
     },
     {
       "zh": "瑞恩",
       "en": "Rain",
       "kind": "npc",
       "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/19/",
-      "id": "npc-15"
+      "id": "npc-15",
+      "image": "assets/npcs/19.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/19.png",
+      "imageWidth": 56,
+      "imageHeight": 55
     },
     {
       "zh": "比尔",
       "en": "Phil",
       "kind": "npc",
       "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/101/",
-      "id": "npc-16"
+      "id": "npc-16",
+      "image": "assets/npcs/101.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/101.png",
+      "imageWidth": 56,
+      "imageHeight": 70
     },
     {
       "zh": "特奥",
       "en": "Teo",
       "kind": "npc",
       "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/102/",
-      "id": "npc-17"
+      "id": "npc-17",
+      "image": "assets/npcs/102.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/102.png",
+      "imageWidth": 50,
+      "imageHeight": 78
     },
     {
       "zh": "简",
       "en": "Jane",
       "kind": "npc",
       "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/103/",
-      "id": "npc-18"
+      "id": "npc-18",
+      "image": "assets/npcs/103.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/103.png",
+      "imageWidth": 65,
+      "imageHeight": 74
     },
     {
       "zh": "坤",
       "en": "Olaf",
       "kind": "npc",
       "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/107/",
-      "id": "npc-19"
+      "id": "npc-19",
+      "image": "assets/npcs/107.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/107.png",
+      "imageWidth": 66,
+      "imageHeight": 85
     },
     {
       "zh": "丽娜",
       "en": "Rina",
       "kind": "npc",
       "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/201/",
-      "id": "npc-20"
+      "id": "npc-20",
+      "image": "assets/npcs/201.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/201.png",
+      "imageWidth": 51,
+      "imageHeight": 67
     },
     {
       "zh": "明明女士",
       "en": "Mrs. Ming Ming",
       "kind": "npc",
       "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/203/",
-      "id": "npc-21"
+      "id": "npc-21",
+      "image": "assets/npcs/203.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/203.png",
+      "imageWidth": 47,
+      "imageHeight": 69
     },
     {
       "zh": "玛亚",
       "en": "Maya",
       "kind": "npc",
       "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/207/",
-      "id": "npc-22"
+      "id": "npc-22",
+      "image": "assets/npcs/207.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/207.png",
+      "imageWidth": 46,
+      "imageHeight": 77
     },
     {
       "zh": "皮亚",
       "en": "Pia",
       "kind": "npc",
       "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/218/",
-      "id": "npc-23"
+      "id": "npc-23",
+      "image": "assets/npcs/218.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/218.png",
+      "imageWidth": 53,
+      "imageHeight": 58
     },
     {
       "zh": "鲁克",
       "en": "Luke",
       "kind": "npc",
       "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/226/",
-      "id": "npc-24"
+      "id": "npc-24",
+      "image": "assets/npcs/226.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/226.png",
+      "imageWidth": 63,
+      "imageHeight": 88
     },
     {
       "zh": "胡小姐",
       "en": "Estelle",
       "kind": "npc",
       "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/300/",
-      "id": "npc-25"
+      "id": "npc-25",
+      "image": "assets/npcs/300.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/300.png",
+      "imageWidth": 38,
+      "imageHeight": 52
     },
     {
       "zh": "妖精罗雯",
       "en": "Rowen the Fairy",
       "kind": "npc",
       "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/305/",
-      "id": "npc-26"
+      "id": "npc-26",
+      "image": "assets/npcs/305.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/305.png",
+      "imageWidth": 58,
+      "imageHeight": 62
     },
     {
       "zh": "塞恩",
@@ -203,21 +307,33 @@
       "aliases": [
         "赛恩"
       ],
-      "id": "npc-27"
+      "id": "npc-27",
+      "image": "assets/npcs/306.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/306.png",
+      "imageWidth": 56,
+      "imageHeight": 70
     },
     {
       "zh": "妖精维英",
       "en": "Wing the Fairy",
       "kind": "npc",
       "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/309/",
-      "id": "npc-28"
+      "id": "npc-28",
+      "image": "assets/npcs/309.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/309.png",
+      "imageWidth": 57,
+      "imageHeight": 74
     },
     {
       "zh": "汉斯",
       "en": "Grendel the Really Old",
       "kind": "npc",
       "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/313/",
-      "id": "npc-29"
+      "id": "npc-29",
+      "image": "assets/npcs/313.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/313.png",
+      "imageWidth": 77,
+      "imageHeight": 150
     },
     {
       "zh": "转职教官",
@@ -227,14 +343,22 @@
       "aliases": [
         "魔法师转职教官"
       ],
-      "id": "npc-30"
+      "id": "npc-30",
+      "image": "assets/npcs/319.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/319.png",
+      "imageWidth": 67,
+      "imageHeight": 87
     },
     {
       "zh": "洛尼",
       "en": "Ronnie",
       "kind": "npc",
       "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/320/",
-      "id": "npc-31"
+      "id": "npc-31",
+      "image": "assets/npcs/320.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/320.png",
+      "imageWidth": 40,
+      "imageHeight": 58
     },
     {
       "zh": "秀咪",
@@ -244,21 +368,33 @@
       "aliases": [
         "休咪"
       ],
-      "id": "npc-32"
+      "id": "npc-32",
+      "image": "assets/npcs/403.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/403.png",
+      "imageWidth": 63,
+      "imageHeight": 57
     },
     {
       "zh": "内拉",
       "en": "Nella",
       "kind": "npc",
       "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/406/",
-      "id": "npc-33"
+      "id": "npc-33",
+      "image": "assets/npcs/406.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/406.png",
+      "imageWidth": 44,
+      "imageHeight": 66
     },
     {
       "zh": "曼斯塔",
       "en": "Cutthroat Manny",
       "kind": "npc",
       "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/408/",
-      "id": "npc-34"
+      "id": "npc-34",
+      "image": "assets/npcs/408.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/408.png",
+      "imageWidth": 59,
+      "imageHeight": 91
     },
     {
       "zh": "不认识的女人",
@@ -268,28 +404,44 @@
       "aliases": [
         "陌生女人"
       ],
-      "id": "npc-35"
+      "id": "npc-35",
+      "image": "assets/npcs/412.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/412.png",
+      "imageWidth": 62,
+      "imageHeight": 81
     },
     {
       "zh": "安德里亚",
       "en": "Andre",
       "kind": "npc",
       "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/414/",
-      "id": "npc-36"
+      "id": "npc-36",
+      "image": "assets/npcs/414.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/414.png",
+      "imageWidth": 65,
+      "imageHeight": 76
     },
     {
       "zh": "克里斯",
       "en": "Chris",
       "kind": "npc",
       "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/415/",
-      "id": "npc-37"
+      "id": "npc-37",
+      "image": "assets/npcs/415.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/415.png",
+      "imageWidth": 52,
+      "imageHeight": 68
     },
     {
       "zh": "麦吉",
       "en": "Manji",
       "kind": "npc",
       "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/502/",
-      "id": "npc-38"
+      "id": "npc-38",
+      "image": "assets/npcs/502.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/502.png",
+      "imageWidth": 78,
+      "imageHeight": 79
     },
     {
       "zh": "索菲亚",
@@ -299,7 +451,11 @@
       "aliases": [
         "索非亚"
       ],
-      "id": "npc-39"
+      "id": "npc-39",
+      "image": "assets/npcs/510.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/510.png",
+      "imageWidth": 45,
+      "imageHeight": 75
     },
     {
       "zh": "克里斯拉玛",
@@ -309,7 +465,11 @@
       "aliases": [
         "克利斯拉玛"
       ],
-      "id": "npc-40"
+      "id": "npc-40",
+      "image": "assets/npcs/602.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/602.png",
+      "imageWidth": 71,
+      "imageHeight": 71
     },
     {
       "zh": "泰索夫",
@@ -319,7 +479,11 @@
       "aliases": [
         "泰素夫"
       ],
-      "id": "npc-41"
+      "id": "npc-41",
+      "image": "assets/npcs/608.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/608.png",
+      "imageWidth": 54,
+      "imageHeight": 72
     },
     {
       "zh": "高级出租车",
@@ -329,14 +493,22 @@
       "aliases": [
         "星级出租车"
       ],
-      "id": "npc-42"
+      "id": "npc-42",
+      "image": "assets/npcs/104.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/104.png",
+      "imageWidth": 167,
+      "imageHeight": 93
     },
     {
       "zh": "出租车",
       "en": "Regular Cab",
       "kind": "npc",
       "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/200/",
-      "id": "npc-43"
+      "id": "npc-43",
+      "image": "assets/npcs/200.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/200.png",
+      "imageWidth": 122,
+      "imageHeight": 90
     },
     {
       "zh": "特殊小石球",
