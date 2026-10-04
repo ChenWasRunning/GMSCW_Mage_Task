@@ -11,3 +11,5 @@
 .game-term[data-kind="monster"]{text-decoration-style:dashed}.term-portrait{margin:12px 0;padding:14px;min-height:100px;display:flex;align-items:center;justify-content:center;background:#edf1e4;border:1px solid #dce2d3;border-radius:8px}.term-portrait img{object-fit:contain;max-width:100%;max-height:160px;width:auto;height:auto;image-rendering:pixelated}
 
 .item-portrait img{min-width:48px;min-height:48px;max-width:96px;max-height:96px}
+
+.phase-label{display:flex;align-items:center;gap:12px;cursor:pointer;min-width:0}.phase-check{width:17px;height:17px;margin:0;flex:0 0 17px;accent-color:#5c7f52;cursor:pointer}.phase-check:disabled{cursor:wait}

@@ -19,7 +19,7 @@ root.setupMageSync=function({getCompleted,replaceCompleted}) {
   return data;
  }
  function identifier(){const value=$('identifier').value.normalize('NFC').trim();if(!value||value.length>200){status('请输入 1–200 个字符的 identifier。',true);return null;}return value;}
- function lock(value){busy=value;document.querySelectorAll('.task-check input,#complete-current').forEach(e=>e.disabled=value);controls();if(!value)replaceCompleted(getCompleted());}
+ function lock(value){busy=value;document.querySelectorAll('.task-check input,.phase-check,#complete-current').forEach(e=>e.disabled=value);controls();if(!value)replaceCompleted(getCompleted());}
  async function flush(){
   if(!active?.dirty||busy||saving||conflict)return;
   saving=true;controls();status('正在保存云端进度…');
