@@ -346,63 +346,99 @@
       "aliases": [
         "小石球"
       ],
-      "id": "monster-1"
+      "id": "monster-1",
+      "image": "assets/monsters/1.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/1.png",
+      "imageWidth": 40,
+      "imageHeight": 68
     },
     {
       "zh": "蜗牛",
       "en": "Snail",
       "kind": "monster",
       "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/2/",
-      "id": "monster-2"
+      "id": "monster-2",
+      "image": "assets/monsters/2.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/2.png",
+      "imageWidth": 37,
+      "imageHeight": 26
     },
     {
       "zh": "蓝蜗牛",
       "en": "Blue Snail",
       "kind": "monster",
       "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/3/",
-      "id": "monster-3"
+      "id": "monster-3",
+      "image": "assets/monsters/3.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/3.png",
+      "imageWidth": 35,
+      "imageHeight": 34
     },
     {
       "zh": "蘑菇仔",
       "en": "Shroom",
       "kind": "monster",
       "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/4/",
-      "id": "monster-4"
+      "id": "monster-4",
+      "image": "assets/monsters/4.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/4.png",
+      "imageWidth": 36,
+      "imageHeight": 36
     },
     {
       "zh": "红蜗牛",
       "en": "Red Snail",
       "kind": "monster",
       "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/5/",
-      "id": "monster-5"
+      "id": "monster-5",
+      "image": "assets/monsters/5.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/5.png",
+      "imageWidth": 35,
+      "imageHeight": 34
     },
     {
       "zh": "木妖",
       "en": "Stump",
       "kind": "monster",
       "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/6/",
-      "id": "monster-6"
+      "id": "monster-6",
+      "image": "assets/monsters/6.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/6.png",
+      "imageWidth": 62,
+      "imageHeight": 51
     },
     {
       "zh": "绿水灵",
       "en": "Slime",
       "kind": "monster",
       "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/7/",
-      "id": "monster-7"
+      "id": "monster-7",
+      "image": "assets/monsters/7.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/7.png",
+      "imageWidth": 64,
+      "imageHeight": 49
     },
     {
       "zh": "猪猪",
       "en": "Pig",
       "kind": "monster",
       "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/8/",
-      "id": "monster-8"
+      "id": "monster-8",
+      "image": "assets/monsters/8.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/8.png",
+      "imageWidth": 68,
+      "imageHeight": 40
     },
     {
       "zh": "花蘑菇",
       "en": "Orange Mushroom",
       "kind": "monster",
       "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/9/",
-      "id": "monster-9"
+      "id": "monster-9",
+      "image": "assets/monsters/9.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/9.png",
+      "imageWidth": 63,
+      "imageHeight": 58
     },
     {
       "zh": "飘飘猪",
@@ -412,14 +448,22 @@
       "aliases": [
         "漂漂猪"
       ],
-      "id": "monster-10"
+      "id": "monster-10",
+      "image": "assets/monsters/10.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/10.png",
+      "imageWidth": 68,
+      "imageHeight": 49
     },
     {
       "zh": "黑木妖",
       "en": "Dark Stump",
       "kind": "monster",
       "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/11/",
-      "id": "monster-11"
+      "id": "monster-11",
+      "image": "assets/monsters/11.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/11.png",
+      "imageWidth": 62,
+      "imageHeight": 51
     },
     {
       "zh": "三眼章鱼",
@@ -429,21 +473,33 @@
       "aliases": [
         "章鱼"
       ],
-      "id": "monster-12"
+      "id": "monster-12",
+      "image": "assets/monsters/12.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/12.png",
+      "imageWidth": 62,
+      "imageHeight": 69
     },
     {
       "zh": "绿蘑菇",
       "en": "Green Mushroom",
       "kind": "monster",
       "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/13/",
-      "id": "monster-13"
+      "id": "monster-13",
+      "image": "assets/monsters/13.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/13.png",
+      "imageWidth": 56,
+      "imageHeight": 52
     },
     {
       "zh": "蓝水灵",
       "en": "Bubbling",
       "kind": "monster",
       "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/14/",
-      "id": "monster-14"
+      "id": "monster-14",
+      "image": "assets/monsters/14.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/14.png",
+      "imageWidth": 69,
+      "imageHeight": 49
     },
     {
       "zh": "斧木妖",
@@ -454,21 +510,33 @@
         "浮木妖"
       ],
       "note": "攻略中的“浮木妖”按等级和路线对应斧木妖；属于转写校对，名称以游戏内为准。",
-      "id": "monster-15"
+      "id": "monster-15",
+      "image": "assets/monsters/15.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/15.png",
+      "imageWidth": 62,
+      "imageHeight": 74
     },
     {
       "zh": "蓝蘑菇",
       "en": "Blue Mushroom",
       "kind": "monster",
       "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/16/",
-      "id": "monster-16"
+      "id": "monster-16",
+      "image": "assets/monsters/16.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/16.png",
+      "imageWidth": 63,
+      "imageHeight": 58
     },
     {
       "zh": "蝙蝠",
       "en": "Stirge",
       "kind": "monster",
       "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/17/",
-      "id": "monster-17"
+      "id": "monster-17",
+      "image": "assets/monsters/17.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/17.png",
+      "imageWidth": 46,
+      "imageHeight": 30
     },
     {
       "zh": "小青蛇",
@@ -478,98 +546,154 @@
       "aliases": [
         "青蛇"
       ],
-      "id": "monster-18"
+      "id": "monster-18",
+      "image": "assets/monsters/18.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/18.png",
+      "imageWidth": 28,
+      "imageHeight": 28
     },
     {
       "zh": "刺蘑菇",
       "en": "Horny Mushroom",
       "kind": "monster",
       "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/19/",
-      "id": "monster-19"
+      "id": "monster-19",
+      "image": "assets/monsters/19.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/19.png",
+      "imageWidth": 56,
+      "imageHeight": 52
     },
     {
       "zh": "黑斧木妖",
       "en": "Dark Axe Stump",
       "kind": "monster",
       "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/20/",
-      "id": "monster-20"
+      "id": "monster-20",
+      "image": "assets/monsters/20.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/20.png",
+      "imageWidth": 62,
+      "imageHeight": 74
     },
     {
       "zh": "僵尸蘑菇",
       "en": "Zombie Mushroom",
       "kind": "monster",
       "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/21/",
-      "id": "monster-21"
+      "id": "monster-21",
+      "image": "assets/monsters/21.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/21.png",
+      "imageWidth": 63,
+      "imageHeight": 58
     },
     {
       "zh": "野猪",
       "en": "Wild Boar",
       "kind": "monster",
       "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/22/",
-      "id": "monster-22"
+      "id": "monster-22",
+      "image": "assets/monsters/22.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/22.png",
+      "imageWidth": 71,
+      "imageHeight": 47
     },
     {
       "zh": "火独眼兽",
       "en": "Evil Eye",
       "kind": "monster",
       "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/23/",
-      "id": "monster-23"
+      "id": "monster-23",
+      "image": "assets/monsters/23.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/23.png",
+      "imageWidth": 97,
+      "imageHeight": 50
     },
     {
       "zh": "铁甲猪",
       "en": "Iron Hog",
       "kind": "monster",
       "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/24/",
-      "id": "monster-24"
+      "id": "monster-24",
+      "image": "assets/monsters/24.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/24.png",
+      "imageWidth": 68,
+      "imageHeight": 46
     },
     {
       "zh": "鳄鱼",
       "en": "Ligator",
       "kind": "monster",
       "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/29/",
-      "id": "monster-25"
+      "id": "monster-25",
+      "image": "assets/monsters/25.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/25.png",
+      "imageWidth": 49,
+      "imageHeight": 60
     },
     {
       "zh": "火野猪",
       "en": "Fire Boar",
       "kind": "monster",
       "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/30/",
-      "id": "monster-26"
+      "id": "monster-26",
+      "image": "assets/monsters/26.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/26.png",
+      "imageWidth": 49,
+      "imageHeight": 60
     },
     {
       "zh": "风独眼兽",
       "en": "Curse Eye",
       "kind": "monster",
       "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/31/",
-      "id": "monster-27"
+      "id": "monster-27",
+      "image": "assets/monsters/27.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/27.png",
+      "imageWidth": 49,
+      "imageHeight": 60
     },
     {
       "zh": "小幽灵",
       "en": "Jr. Wraith",
       "kind": "monster",
       "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/32/",
-      "id": "monster-28"
+      "id": "monster-28",
+      "image": "assets/monsters/28.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/28.png",
+      "imageWidth": 49,
+      "imageHeight": 60
     },
     {
       "zh": "幼魔精灵",
       "en": "Jr. Boogie",
       "kind": "monster",
       "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/33/",
-      "id": "monster-29"
+      "id": "monster-29",
+      "image": "assets/monsters/29.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/29.png",
+      "imageWidth": 86,
+      "imageHeight": 29
     },
     {
       "zh": "猴子",
       "en": "Lupin",
       "kind": "monster",
       "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/35/",
-      "id": "monster-30"
+      "id": "monster-30",
+      "image": "assets/monsters/30.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/30.png",
+      "imageWidth": 74,
+      "imageHeight": 62
     },
     {
       "zh": "黑鳄鱼",
       "en": "Croco",
       "kind": "monster",
       "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/46/",
-      "id": "monster-31"
+      "id": "monster-31",
+      "image": "assets/monsters/31.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/31.png",
+      "imageWidth": 97,
+      "imageHeight": 50
     },
     {
       "zh": "莎莉的镜子",
