@@ -19,7 +19,7 @@ function decorate(container){
   if(!node.parentElement.closest('.game-term,.map-trigger,button,a,input,textarea,script,style,[data-no-glossary],#name-popover'))nodes.push(node);
  }
  for(const node of nodes){const found=matches(node.nodeValue);if(!found.length)continue;const fragment=document.createDocumentFragment();let index=0;
-  for(const match of found){fragment.append(document.createTextNode(node.nodeValue.slice(index,match.index)));const term=names.get(match[0]);const span=make('span','game-term',match[0]);span.dataset.term=term.id;span.tabIndex=0;span.setAttribute('role','button');span.setAttribute('aria-label',`${match[0]}：${term.en}`);span.setAttribute('aria-haspopup','dialog');span.setAttribute('aria-controls','name-popover');span.setAttribute('aria-expanded','false');fragment.append(span);index=match.index+match[0].length;}
+  for(const match of found){fragment.append(document.createTextNode(node.nodeValue.slice(index,match.index)));const term=names.get(match[0]);const span=make('span','game-term',match[0]);span.dataset.term=term.id;span.dataset.kind=term.kind;span.tabIndex=0;span.setAttribute('role','button');span.setAttribute('aria-label',`${match[0]}：${term.en}`);span.setAttribute('aria-haspopup','dialog');span.setAttribute('aria-controls','name-popover');span.setAttribute('aria-expanded','false');fragment.append(span);index=match.index+match[0].length;}
   fragment.append(document.createTextNode(node.nodeValue.slice(index)));node.replaceWith(fragment);
  }
 }
@@ -32,7 +32,35 @@ function routeButton(container,tasks,label='地图'){
 const popup=make('aside','name-popover');popup.id='name-popover';popup.hidden=true;popup.setAttribute('role','dialog');popup.setAttribute('aria-label','名称与地图详情');popup.setAttribute('data-no-glossary','');document.body.append(popup);
 let active=null,pinned=false,closeTimer;
 function close(){clearTimeout(closeTimer);active?.setAttribute('aria-expanded','false');active=null;pinned=false;popup.hidden=true;}
-function position(){if(!active||popup.hidden)return;const r=active.getBoundingClientRect();const width=popup.offsetWidth,height=popup.offsetHeight,margin=12;const left=Math.min(Math.max(margin,r.left),innerWidth-width-margin);let top=r.bottom+9;if(top+height>innerHeight-margin)top=r.top-height-9;if(top<margin)top=margin;popup.style.left=`${Math.max(margin,left)}px`;popup.style.top=`${top}px`;}
+function isMap(trigger){return !!trigger&&(!!trigger.dataset.maps||terms.get(trigger.dataset.term)?.kind==='map');}
+function position(){
+ if(!active||popup.hidden)return;
+ const r=active.getBoundingClientRect(),margin=12,gap=12;
+ popup.style.width='';popup.style.maxHeight=`${innerHeight-2*margin}px`;
+ let width=popup.offsetWidth,left,top;
+ if(isMap(active)){
+  const right=innerWidth-r.right-margin-gap,leftSpace=r.left-margin-gap;
+  if(Math.max(right,leftSpace)>=260){
+   const useRight=right>=width||(leftSpace<width&&right>=leftSpace);
+   width=Math.min(width,useRight?right:leftSpace);popup.style.width=`${width}px`;
+   left=useRight?r.right+gap:r.left-gap-width;
+   top=Math.max(margin,Math.min(r.top,innerHeight-popup.offsetHeight-margin));
+  }else{
+   // On narrow screens, use the larger vertical space without covering the name.
+   const below=innerHeight-r.bottom-margin-gap,above=r.top-margin-gap;
+   const useBelow=below>=above;
+   popup.style.maxHeight=`${Math.max(48,useBelow?below:above)}px`;
+   left=Math.min(Math.max(margin,r.left),innerWidth-width-margin);
+   top=useBelow?r.bottom+gap:r.top-gap-popup.offsetHeight;
+  }
+ }else{
+  left=Math.min(Math.max(margin,r.left),innerWidth-width-margin);
+  top=r.bottom+gap;if(top+popup.offsetHeight>innerHeight-margin)top=r.top-popup.offsetHeight-gap;
+ }
+ popup.style.left=`${Math.max(margin,left)}px`;popup.style.top=`${Math.max(margin,top)}px`;
+}
+function activate(trigger){if(isMap(trigger)&&active===trigger&&!popup.hidden)close();else open(trigger,true);}
+
 function addLink(parent,url,label){if(!url)return;const link=make('a','',label);link.href=url;link.target='_blank';link.rel='noopener noreferrer';parent.append(link);}
 function mapView(list,region){
  const sheet=data.atlas.regions[region];const figure=make('figure','map-preview');const image=make('img');image.src=sheet.image;image.alt=sheet.name+' 大地图';image.width=sheet.width;image.height=sheet.height;figure.append(image);
@@ -54,7 +82,7 @@ function open(trigger,pin=false){
  const closeButton=make('button','popover-close','×');closeButton.type='button';closeButton.setAttribute('aria-label','关闭名称提示');closeButton.addEventListener('click',()=>{const previous=active;close();previous?.focus({preventScroll:true});close();});popup.append(closeButton);
  let list;
  if(trigger.dataset.term){const term=terms.get(trigger.dataset.term);if(!term)return;popup.append(make('span','term-kind',{map:'地图',npc:'NPC',monster:'怪物',item:'道具'}[term.kind]),make('h3','term-chinese',term.zh),make('p','term-english',term.en));if(term.note)popup.append(make('p','term-note',term.note));const source=make('p','term-source');addLink(source,term.source,'查看名称来源');popup.append(source);list=term.kind==='map'?[term]:[];
- }else{list=trigger.dataset.maps.split(',').map(id=>terms.get(id)).filter(Boolean);popup.append(make('span','term-kind','执行地点'),make('h3','term-chinese',trigger.textContent==='阶段地图'?'这一阶段去哪里':'这一步去哪里'),make('p','term-note','也可逐个悬停中文地名，查看对应英文与单点位置。'));}
+ }else{list=trigger.dataset.maps.split(',').map(id=>terms.get(id)).filter(Boolean);popup.append(make('span','term-kind','执行地点'),make('h3','term-chinese',trigger.textContent==='阶段地图'?'这一阶段去哪里':'这一步去哪里'),make('p','term-note','也可逐个点击中文地名，查看对应英文与单点位置。'));}
  const regions=[...new Set(list.map(t=>t.region||data.atlas.nodes[t.location?.node]?.region).filter(Boolean))];
  for(const region of regions)popup.append(mapView(list,region));
  if(list.length>1){const details=make('div','route-locations');for(const t of list){const row=make('p');row.append(make('strong','',t.zh),document.createTextNode(' · '+t.en));details.append(row);}popup.append(details);}
@@ -62,12 +90,12 @@ function open(trigger,pin=false){
  trigger.setAttribute('aria-expanded','true');popup.classList.toggle('has-map',regions.length>0);popup.hidden=false;position();
 }
 const target=e=>e.target.closest?.('.game-term,.map-trigger');
-document.addEventListener('pointerover',e=>{if(e.pointerType==='touch')return;const t=target(e);if(t&&!t.contains(e.relatedTarget))open(t);});
+document.addEventListener('pointerover',e=>{if(e.pointerType==='touch')return;const t=target(e);if(t&&!isMap(t)&&!(pinned&&isMap(active))&&!t.contains(e.relatedTarget))open(t);});
 document.addEventListener('pointerout',e=>{const t=target(e);if(t&&t===active&&!pinned&&!popup.contains(e.relatedTarget)&&!t.contains(e.relatedTarget))closeTimer=setTimeout(close,220);});
-document.addEventListener('focusin',e=>{const t=target(e);if(t)open(t);else if(!popup.contains(e.target))close();});
+document.addEventListener('focusin',e=>{const t=target(e);if(t){if(!isMap(t)&&!(pinned&&isMap(active)))open(t);}else if(!popup.contains(e.target))close();});
 document.addEventListener('focusout',e=>{if(!pinned&&!popup.contains(e.relatedTarget)&&!active?.contains(e.relatedTarget))closeTimer=setTimeout(close,220);});
-document.addEventListener('click',e=>{const t=target(e);if(t){e.preventDefault();open(t,true);}else if(!popup.contains(e.target))close();});
-document.addEventListener('keydown',e=>{if(e.key==='Escape'){const previous=active;close();if(popup.contains(document.activeElement)){previous?.focus({preventScroll:true});close();}}else if((e.key==='Enter'||e.key===' ')&&target(e)&&e.target.tagName!=='BUTTON'){e.preventDefault();open(target(e),true);}});
+document.addEventListener('click',e=>{const t=target(e);if(t){e.preventDefault();activate(t);}else if(!popup.contains(e.target))close();});
+document.addEventListener('keydown',e=>{if(e.key==='Escape'){const previous=active;close();if(popup.contains(document.activeElement)){previous?.focus({preventScroll:true});close();}}else if((e.key==='Enter'||e.key===' ')&&target(e)&&e.target.tagName!=='BUTTON'){e.preventDefault();activate(target(e));}});
 popup.addEventListener('pointerenter',()=>clearTimeout(closeTimer));popup.addEventListener('pointerleave',e=>{if(!pinned&&!active?.contains(e.relatedTarget))closeTimer=setTimeout(close,220);});
 addEventListener('resize',position);document.addEventListener('scroll',e=>{if(!popup.contains(e.target)){if(active&&!active.isConnected)close();else position();}},true);
 root.MageGlossary={decorate,routeButton,mapTerms,terms,data,close};
