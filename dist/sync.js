@@ -8,7 +8,7 @@ root.setupMageSync=function({getCompleted,replaceCompleted}) {
  let active=null,busy=false,saving=false,conflict=false,timer;
  function status(text,error=false){$('sync-status').textContent=text;$('sync-status').classList.toggle('sync-error',error);}
  function persist(){try{if(active)localStorage.setItem(KEY,JSON.stringify(active));else localStorage.removeItem(KEY);}catch{status('当前浏览器无法保存进度钥匙，请记住 identifier。',true);}}
- function controls(){for(const id of ['identifier','create-progress','load-progress','new-local-progress'])$(id).disabled=busy||saving;$('retry-sync').hidden=!active?.dirty||busy||saving||conflict;}
+ function controls(){$('delete-progress').hidden=!active;$('delete-progress').disabled=!active||busy||saving;for(const id of ['identifier','create-progress','load-progress','new-local-progress'])$(id).disabled=busy||saving;$('retry-sync').hidden=!active?.dirty||busy||saving||conflict;}
  function badge(){$('active-identifier').textContent=active?`当前进度：${active.identifier}`:'本机新旅程';}
  async function request(action,body){
   let response;
@@ -49,6 +49,17 @@ root.setupMageSync=function({getCompleted,replaceCompleted}) {
    status(messages[error.message]||'连接失败，当前进度未改变，请稍后重试。',true);
   }finally{lock(false);}
  }
+ $('delete-progress').addEventListener('click',async()=>{
+  if(!active||busy||saving)return;
+  const id=active.identifier;
+  if(!confirm(`确定删除 identifier「${id}」吗？\n云端保存的四职业进度将全部删除，无法撤销。当前本机清单保留，可另建 identifier 保存。`))return;
+  clearTimeout(timer);lock(true);status('正在删除 identifier…');
+  try{
+   await request('delete',{identifier:id,revision:active.revision});
+   active=null;conflict=false;persist();$('identifier').value='';badge();status('identifier 已删除，云端四职业进度已移除。当前清单保留在本机，可创建新的 identifier。');
+  }catch(error){status(error.message==='revision_conflict'?'其他设备已更新此 identifier，未删除。请先读取最新进度，再决定是否删除。':error.message==='not_found'?'此 identifier 已不存在。可开启本机新旅程或创建新的 identifier。':'删除失败，identifier 和当前进度未改变，请稍后重试。',true);}
+  finally{lock(false);}
+ });
  $('create-progress').addEventListener('click',()=>select('create'));
  $('load-progress').addEventListener('click',()=>select('load'));
  $('identifier').addEventListener('keydown',event=>{if(event.key==='Enter'){event.preventDefault();status('请选择“创建并保存”或“读取进度”。');$('create-progress').focus();}});

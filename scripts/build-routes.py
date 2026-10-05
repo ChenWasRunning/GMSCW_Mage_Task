@@ -103,8 +103,8 @@ for kind,label,prefix,town,hall,master,instructor,exam,monsters,choices in [
   if kind!='archer' and n==86:t=clone(43);t['phase']='06 秘密之书 · 32+';t['level']='32+';rows.append(t)
  for i,t in enumerate(rows):t['id']=prefix+f'{i+1:03}'
  first=next(t['id'] for t in rows if t['title']=='成为'+label or t['title'].endswith('成为'+label));secondid=next(t['id'] for t in rows if t['title']=='完成'+label+'二转')
- routes[kind]=dict(label=label,tasks=rows,firstJob=first,secondJob=secondid)
-routes['mage']=dict(label='魔法师',tasks=mage,firstJob='q025',secondJob='q079')
+ routes[kind]=dict(label='射手' if kind=='archer' else label,tasks=rows,firstJob=first,secondJob=secondid)
+routes['mage']=dict(label='法师',tasks=mage,firstJob='q025',secondJob='q079')
 # Reject route mistakes before publishing: no material can be spent before collection.
 for kind,r in routes.items():
  bag={}

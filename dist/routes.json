@@ -1,6 +1,6 @@
 {
   "archer": {
-    "label": "弓箭手",
+    "label": "射手",
     "tasks": [
       {
         "id": "a001",
@@ -3795,7 +3795,7 @@
     "secondJob": "t072"
   },
   "mage": {
-    "label": "魔法师",
+    "label": "法师",
     "tasks": [
       {
         "id": "q001",

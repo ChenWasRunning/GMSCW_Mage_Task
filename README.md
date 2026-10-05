@@ -2,7 +2,7 @@
 
 MapleStory Classic World 四职业开荒手册。基于奇怪小鸭全职业原文，提供魔法师92步、弓箭手94步、战士86步、飞侠89步；各路线含共用开局、职业初期任务、21级后共用任务和二转。
 
-在线访问：https://chenwasrunning.github.io/GMSCW_Mage_Task/
+在线访问：https://chenwasrunning.github.io/GMSCW_rookie_guidance/
 
 ## 使用
 
@@ -73,3 +73,5 @@ GitHub Pages 使用 `.github/workflows/pages.yml` 将 `dist/` 发布为静态网
 `python3 scripts/build-routes.py` 生成另外三条路线及后端允许的任务 ID；`npm run build` 生成名称数据和部署目录。Excel 可运行 `python3 scripts/build-excel.py archer`（另有 warrior、thief）。新任务标题的说明性英文见 `data/route-title-translations.json`；不是游戏官方任务名的条目均有说明。
 
 验证包含逐步材料账本、旧法师状态兼容、四职业切换／批量完成／刷新、跨设备保存和冲突处理。
+
+当前公开网址：https://chenwasrunning.github.io/GMSCW_rookie_guidance/ 。职业顺序：战士、法师、飞侠、射手。删除当前 identifier 需确认并校验云端版本；删除全部职业云端记录，保留本机清单。旧 identifier 与本机保存键沿用，仓库更名不迁移或清空数据库。

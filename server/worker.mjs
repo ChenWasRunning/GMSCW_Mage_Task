@@ -19,7 +19,7 @@ export default {
   if(origin && !allowedOrigins.has(origin)) return json({error:'origin_not_allowed'},403);
   if(request.method==='OPTIONS') return new Response(null,{status:204,headers:{...headers,'Access-Control-Allow-Methods':'POST, OPTIONS','Access-Control-Allow-Headers':'Content-Type','Access-Control-Max-Age':'86400'}});
   if(request.method!=='POST') return json({error:'method_not_allowed'},405);
-  if(!['/api/progress/create','/api/progress/load','/api/progress/save'].includes(url.pathname)) return json({error:'not_found'},404);
+  if(!['/api/progress/create','/api/progress/load','/api/progress/save','/api/progress/delete'].includes(url.pathname)) return json({error:'not_found'},404);
   if(!request.headers.get('Content-Type')?.startsWith('application/json')) return json({error:'invalid_content_type'},415);
   try {
    const raw=await request.text();
@@ -27,12 +27,19 @@ export default {
    let body;try{body=JSON.parse(raw);}catch{return json({error:'invalid_json'},400);}
    if(!body || typeof body!=='object') return json({error:'invalid_request'},400);
    let hash,completed;
-   try {hash=await hashIdentifier(body.identifier);if(!url.pathname.endsWith('/load')) completed=validateState(body.completed);}catch(e){return json({error:e.message},400);}
+   try {hash=await hashIdentifier(body.identifier);if(url.pathname.endsWith('/create')||url.pathname.endsWith('/save')) completed=validateState(body.completed);}catch(e){return json({error:e.message},400);}
    const db=env.DB;
    if(url.pathname.endsWith('/create')) {
     const result=await db.prepare('INSERT INTO progress (identifier_hash,completed,revision,updated_at) VALUES (?,?,1,?) ON CONFLICT(identifier_hash) DO NOTHING').bind(hash,JSON.stringify(completed),new Date().toISOString()).run();
     if(!result.meta.changes) return json({error:'identifier_taken'},409);
     return json({completed,revision:1},201);
+   }
+   if(url.pathname.endsWith('/delete')) {
+    if(!Number.isSafeInteger(body.revision)||body.revision<1) return json({error:'invalid_revision'},400);
+    const result=await db.prepare('DELETE FROM progress WHERE identifier_hash=? AND revision=?').bind(hash,body.revision).run();
+    if(result.meta.changes) return json({deleted:true,completed:[],revision:body.revision});
+    const existing=await db.prepare('SELECT revision FROM progress WHERE identifier_hash=?').bind(hash).first();
+    return existing?json({error:'revision_conflict'},409):json({error:'not_found'},404);
    }
    if(url.pathname.endsWith('/save')) {
     if(!Number.isSafeInteger(body.revision)||body.revision<1) return json({error:'invalid_revision'},400);

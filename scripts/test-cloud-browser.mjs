@@ -35,6 +35,7 @@ try{
  await pa.click('[data-route=warrior]');await count(pa,0);await pa.click('#complete-current');await status(pa,'已保存到云端');await pb.click('#load-progress');await status(pb,'已读取');await count(pb,2);await pb.click('[data-route=warrior]');await count(pb,1);await pa.click('[data-route=mage]');await pb.click('[data-route=mage]');await count(pa,2);await count(pb,2);
  await pa.fill('#identifier','not-found');await pa.click('#load-progress');await status(pa,'没有找到');await count(pa,2);
  await pa.fill('#identifier','复制-test');await pa.click('#create-progress');await status(pa,'创建成功');await count(pa,2);
+ assert.equal(await pa.locator('#delete-progress').isVisible(),true);await pa.locator('#delete-progress').click();await status(pa,'identifier 已删除');await count(pa,2);assert.equal(await pa.locator('#delete-progress').isVisible(),false);await pb.fill('#identifier','复制-test');await pb.click('#load-progress');await status(pb,'没有找到');await pa.fill('#identifier','复制-test');await pa.click('#create-progress');await status(pa,'创建成功');
  await pa.click('#new-local-progress');await count(pa,0);await pa.reload();await count(pa,0);
  await pb.setViewportSize({width:390,height:844});assert.equal(await pb.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),true);await pb.screenshot({path:'/tmp/mage-sync-mobile.png'});
  assert.deepEqual(errors,[]);console.log('PASS: new device, create, duplicate, cross-device load, autosave, conflict, offline reload/retry, undo, missing ID, copy, new journey, mobile, no JS errors.');

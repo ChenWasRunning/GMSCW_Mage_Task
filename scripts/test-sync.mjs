@@ -20,3 +20,15 @@ test('create, duplicate, normalization, load, revision conflict, undo and input 
  assert.equal((await call('load',{identifier:'test-冒险者'},'https://other.example')).status,403);
  const results=await Promise.all([call('create',{identifier:'race',completed:[]}),call('create',{identifier:'race',completed:['q001']})]);assert.deepEqual(results.map(r=>r.status).sort(),[201,409]);
 });
+
+test('delete identifier is revision-checked, removes all classes, and permits reuse',async()=>{
+ const id='delete-four-routes';let result=await call('create',{identifier:id,completed:['q001','w001','a001','t001']});assert.equal(result.status,201);
+ assert.equal((await call('delete',{identifier:id})).status,400);
+ assert.equal((await call('delete',{identifier:id,revision:2})).status,409);
+ assert.equal((await call('load',{identifier:id})).data.completed.length,4);
+ assert.equal((await call('delete',{identifier:id,revision:1})).data.deleted,true);
+ assert.equal((await call('load',{identifier:id})).status,404);
+ assert.equal((await call('delete',{identifier:id,revision:1})).status,404);
+ assert.equal((await call('save',{identifier:id,completed:[],revision:1})).status,409);
+ result=await call('create',{identifier:id,completed:[]});assert.equal(result.status,201);assert.deepEqual(result.data.completed,[]);
+});
