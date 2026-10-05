@@ -1,7 +1,7 @@
 import {readFile,writeFile} from 'node:fs/promises';
 const glossary=JSON.parse(await readFile('data/glossary.json','utf8'));
 const taskTitles=JSON.parse(await readFile('data/task-titles.json','utf8'));
-const tasks=JSON.parse(await readFile('dist/tasks.json','utf8'));
+const tasks=Object.values(JSON.parse(await readFile('dist/routes.json','utf8'))).flatMap(r=>r.tasks);
 for(const task of tasks){if(!taskTitles[task.id]?.en||taskTitles[task.id].zh!==task.title)throw new Error('Missing task title: '+task.id);}
 const atlas=JSON.parse(await readFile('data/world-maps.json','utf8'));
 const ids=new Set(),aliases=new Map();

@@ -19,7 +19,7 @@ root.setupMageSync=function({getCompleted,replaceCompleted}) {
   return data;
  }
  function identifier(){const value=$('identifier').value.normalize('NFC').trim();if(!value||value.length>200){status('请输入 1–200 个字符的 identifier。',true);return null;}return value;}
- function lock(value){busy=value;document.querySelectorAll('.task-check input,.phase-check,#complete-current').forEach(e=>e.disabled=value);controls();if(!value)replaceCompleted(getCompleted());}
+ function lock(value){busy=value;document.querySelectorAll('.task-check input,.phase-check,#complete-current,[data-route]').forEach(e=>e.disabled=value);controls();if(!value)replaceCompleted(getCompleted());}
  async function flush(){
   if(!active?.dirty||busy||saving||conflict)return;
   saving=true;controls();status('正在保存云端进度…');
@@ -39,7 +39,7 @@ root.setupMageSync=function({getCompleted,replaceCompleted}) {
  async function select(action){
   if(busy||saving)return;
   const id=identifier();if(!id)return;
-  if(action==='load'&&(getCompleted().length||active?.dirty)&&!confirm('读取后将用云端进度替换当前清单。尚未同步的本机修改会被替换，是否继续？'))return;
+  if(action==='load'&&(getCompleted().length||active?.dirty)&&!confirm('读取后将用云端进度替换四职业清单。尚未同步的本机修改会被替换，是否继续？'))return;
   lock(true);status(action==='create'?'正在创建进度…':'正在读取进度…');
   try {
    const result=await request(action,{identifier:id,completed:getCompleted()});
@@ -55,7 +55,7 @@ root.setupMageSync=function({getCompleted,replaceCompleted}) {
  $('retry-sync').addEventListener('click',flush);
  $('new-local-progress').addEventListener('click',()=>{
   if(busy||saving)return;
-  if((getCompleted().length||active)&&!confirm('开启新的本机旅程？已同步的云端进度保留，可用原 identifier 读取；未同步的修改会丢弃。'))return;
+  if((getCompleted().length||active)&&!confirm('清空四职业的本机勾选，开启新旅程？已同步的云端进度保留，可用原 identifier 读取；未同步的修改会丢弃。'))return;
   clearTimeout(timer);active=null;conflict=false;persist();replaceCompleted([]);$('identifier').value='';badge();status('全新的任务清单已准备好，从第一步开始吧。');controls();
  });
  addEventListener('online',flush);

@@ -32,6 +32,7 @@ try{
  await pb.click('#load-progress');await status(pb,'已读取');await count(pb,3);
  await pb.locator('.task-check input').first().uncheck();await status(pb,'已保存到云端');await count(pb,2);
  await pa.click('#load-progress');await status(pa,'已读取');await count(pa,2);
+ await pa.click('[data-route=warrior]');await count(pa,0);await pa.click('#complete-current');await status(pa,'已保存到云端');await pb.click('#load-progress');await status(pb,'已读取');await count(pb,2);await pb.click('[data-route=warrior]');await count(pb,1);await pa.click('[data-route=mage]');await pb.click('[data-route=mage]');await count(pa,2);await count(pb,2);
  await pa.fill('#identifier','not-found');await pa.click('#load-progress');await status(pa,'没有找到');await count(pa,2);
  await pa.fill('#identifier','复制-test');await pa.click('#create-progress');await status(pa,'创建成功');await count(pa,2);
  await pa.click('#new-local-progress');await count(pa,0);await pa.reload();await count(pa,0);

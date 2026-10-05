@@ -3251,6 +3251,575 @@
         "mode": "entrance"
       },
       "aliases": []
+    },
+    {
+      "id": "npc-extra-202",
+      "kind": "npc",
+      "zh": "长老斯坦",
+      "en": "Chief Stan",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/202/",
+      "aliases": [],
+      "nameCheckedOn": "2026-10-05",
+      "image": "assets/npcs/202.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/202.png",
+      "imageWidth": 51,
+      "imageHeight": 73
+    },
+    {
+      "id": "npc-extra-206",
+      "kind": "npc",
+      "zh": "布鲁斯",
+      "en": "Bruce",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/206/",
+      "aliases": [],
+      "nameCheckedOn": "2026-10-05",
+      "image": "assets/npcs/206.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/206.png",
+      "imageWidth": 49,
+      "imageHeight": 78
+    },
+    {
+      "id": "npc-extra-221",
+      "kind": "npc",
+      "zh": "赫丽娜",
+      "en": "Athena Pierce",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/221/",
+      "aliases": [],
+      "nameCheckedOn": "2026-10-05",
+      "image": "assets/npcs/221.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/221.png",
+      "imageWidth": 60,
+      "imageHeight": 71
+    },
+    {
+      "id": "npc-extra-227",
+      "kind": "npc",
+      "zh": "弓箭手转职教官",
+      "en": "Bowman Job Instructor",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/227/",
+      "aliases": [],
+      "nameCheckedOn": "2026-10-05",
+      "image": "assets/npcs/227.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/227.png",
+      "imageWidth": 55,
+      "imageHeight": 81
+    },
+    {
+      "id": "npc-extra-402",
+      "kind": "npc",
+      "zh": "阿勒斯",
+      "en": "Alex",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/402/",
+      "aliases": [],
+      "nameCheckedOn": "2026-10-05",
+      "image": "assets/npcs/402.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/402.png",
+      "imageWidth": 48,
+      "imageHeight": 75
+    },
+    {
+      "id": "npc-extra-407",
+      "kind": "npc",
+      "zh": "伊卡路斯",
+      "en": "Icarus",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/407/",
+      "aliases": [],
+      "nameCheckedOn": "2026-10-05",
+      "image": "assets/npcs/407.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/407.png",
+      "imageWidth": 45,
+      "imageHeight": 54
+    },
+    {
+      "id": "npc-extra-411",
+      "kind": "npc",
+      "zh": "达克鲁",
+      "en": "Dark Lord",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/411/",
+      "aliases": [],
+      "nameCheckedOn": "2026-10-05",
+      "image": "assets/npcs/411.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/411.png",
+      "imageWidth": 135,
+      "imageHeight": 174
+    },
+    {
+      "id": "npc-extra-424",
+      "kind": "npc",
+      "zh": "飞侠转职教官",
+      "en": "Thief Job Instructor",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/424/",
+      "aliases": [],
+      "nameCheckedOn": "2026-10-05",
+      "image": "assets/npcs/424.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/424.png",
+      "imageWidth": 58,
+      "imageHeight": 69
+    },
+    {
+      "id": "npc-extra-501",
+      "kind": "npc",
+      "zh": "酋长",
+      "en": "Blackbull",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/501/",
+      "aliases": [],
+      "nameCheckedOn": "2026-10-05",
+      "image": "assets/npcs/501.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/501.png",
+      "imageWidth": 76,
+      "imageHeight": 98
+    },
+    {
+      "id": "npc-extra-506",
+      "kind": "npc",
+      "zh": "伊安",
+      "en": "Ayan",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/506/",
+      "aliases": [
+        "易安"
+      ],
+      "nameCheckedOn": "2026-10-05",
+      "image": "assets/npcs/506.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/506.png",
+      "imageWidth": 53,
+      "imageHeight": 74
+    },
+    {
+      "id": "npc-extra-511",
+      "kind": "npc",
+      "zh": "武术教练",
+      "en": "Dances with Balrog",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/511/",
+      "aliases": [],
+      "nameCheckedOn": "2026-10-05",
+      "image": "assets/npcs/511.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/511.png",
+      "imageWidth": 81,
+      "imageHeight": 88
+    },
+    {
+      "id": "npc-extra-514",
+      "kind": "npc",
+      "zh": "战士转职教官",
+      "en": "Warrior Job Instructor",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/514/",
+      "aliases": [],
+      "nameCheckedOn": "2026-10-05",
+      "image": "assets/npcs/514.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/514.png",
+      "imageWidth": 57,
+      "imageHeight": 97
+    },
+    {
+      "id": "map-extra-10001012",
+      "kind": "map",
+      "zh": "射手训练场Ⅲ",
+      "en": "Henesys Hunting Ground III",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10001012/",
+      "aliases": [],
+      "nameCheckedOn": "2026-10-05",
+      "location": {
+        "node": "Henesys Hunting Ground I",
+        "mode": "entrance"
+      },
+      "note": "高亮为入口／所属区域，不是内部地图精确坐标。"
+    },
+    {
+      "id": "map-extra-10001020",
+      "kind": "map",
+      "zh": "射手村西部小山",
+      "en": "A Hill West of Henesys",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10001020/",
+      "aliases": [
+        "射手村西边小山"
+      ],
+      "nameCheckedOn": "2026-10-05",
+      "location": {
+        "node": "A Hill West of Henesys",
+        "mode": "exact"
+      }
+    },
+    {
+      "id": "map-extra-10001021",
+      "kind": "map",
+      "zh": "蘑菇山",
+      "en": "Mushroom Garden",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10001021/",
+      "aliases": [],
+      "nameCheckedOn": "2026-10-05",
+      "location": {
+        "node": "A Hill West of Henesys",
+        "mode": "entrance"
+      },
+      "note": "高亮为入口／所属区域，不是内部地图精确坐标。"
+    },
+    {
+      "id": "map-extra-10001051",
+      "kind": "map",
+      "zh": "弓箭手培训中心",
+      "en": "Bowman Instructional School",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10001051/",
+      "aliases": [],
+      "nameCheckedOn": "2026-10-05",
+      "location": {
+        "node": "Henesys",
+        "mode": "entrance"
+      },
+      "note": "高亮为入口／所属区域，不是内部地图精确坐标。"
+    },
+    {
+      "id": "map-extra-10001100",
+      "kind": "map",
+      "zh": "射手村迷宫入口",
+      "en": "Henesys Dungeon Entrance",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10001100/",
+      "aliases": [],
+      "nameCheckedOn": "2026-10-05",
+      "location": {
+        "node": "Henesys Dungeon Entrance",
+        "mode": "exact"
+      }
+    },
+    {
+      "id": "map-extra-10003003",
+      "kind": "map",
+      "zh": "废都酒吧",
+      "en": "Thieves' Hideout",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10003003/",
+      "aliases": [
+        "盗贼藏身处"
+      ],
+      "nameCheckedOn": "2026-10-05",
+      "location": {
+        "node": "Kerning City",
+        "mode": "entrance"
+      },
+      "note": "高亮为入口／所属区域，不是内部地图精确坐标。"
+    },
+    {
+      "id": "map-extra-10003030",
+      "kind": "map",
+      "zh": "逆恩森林Ⅱ",
+      "en": "L Forest II",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10003030/",
+      "aliases": [],
+      "nameCheckedOn": "2026-10-05",
+      "location": {
+        "node": "L Forest II",
+        "mode": "exact"
+      }
+    },
+    {
+      "id": "map-extra-10003040",
+      "kind": "map",
+      "zh": "逆恩森林Ⅲ",
+      "en": "L Forest III",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10003040/",
+      "aliases": [],
+      "nameCheckedOn": "2026-10-05",
+      "location": {
+        "node": "L Forest III",
+        "mode": "exact"
+      }
+    },
+    {
+      "id": "map-extra-10004003",
+      "kind": "map",
+      "zh": "战士圣殿",
+      "en": "Warriors' Sanctuary",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10004003/",
+      "aliases": [],
+      "nameCheckedOn": "2026-10-05",
+      "location": {
+        "node": "Perion",
+        "mode": "entrance"
+      },
+      "note": "高亮为入口／所属区域，不是内部地图精确坐标。"
+    },
+    {
+      "id": "map-extra-10004010",
+      "kind": "map",
+      "zh": "勇士村西入口",
+      "en": "West Street Corner of Perion",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10004010/",
+      "aliases": [],
+      "nameCheckedOn": "2026-10-05",
+      "location": {
+        "node": "West Street Corner of Perion",
+        "mode": "exact"
+      }
+    },
+    {
+      "id": "map-extra-10004020",
+      "kind": "map",
+      "zh": "西部岩山Ⅰ",
+      "en": "West Rocky Mountain I",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10004020/",
+      "aliases": [],
+      "nameCheckedOn": "2026-10-05",
+      "location": {
+        "node": "West Rocky Mountain I",
+        "mode": "exact"
+      }
+    },
+    {
+      "id": "map-extra-10004021",
+      "kind": "map",
+      "zh": "西部岩山Ⅱ",
+      "en": "West Rocky Mountain II",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10004021/",
+      "aliases": [],
+      "nameCheckedOn": "2026-10-05",
+      "location": {
+        "node": "West Rocky Mountain I",
+        "mode": "entrance"
+      },
+      "note": "高亮为入口／所属区域，不是内部地图精确坐标。"
+    },
+    {
+      "id": "map-extra-10004022",
+      "kind": "map",
+      "zh": "西部岩山Ⅲ",
+      "en": "West Rocky Mountain III",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10004022/",
+      "aliases": [],
+      "nameCheckedOn": "2026-10-05",
+      "location": {
+        "node": "West Rocky Mountain I",
+        "mode": "entrance"
+      },
+      "note": "高亮为入口／所属区域，不是内部地图精确坐标。"
+    },
+    {
+      "id": "map-extra-10004023",
+      "kind": "map",
+      "zh": "西部岩山Ⅳ",
+      "en": "West Rocky Mountain IV",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10004023/",
+      "aliases": [],
+      "nameCheckedOn": "2026-10-05",
+      "location": {
+        "node": "West Rocky Mountain I",
+        "mode": "entrance"
+      },
+      "note": "高亮为入口／所属区域，不是内部地图精确坐标。"
+    },
+    {
+      "id": "map-extra-10004030",
+      "kind": "map",
+      "zh": "勇士部落西部",
+      "en": "West Domain of Perion",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10004030/",
+      "aliases": [],
+      "nameCheckedOn": "2026-10-05",
+      "location": {
+        "node": "West Domain of Perion",
+        "mode": "exact"
+      }
+    },
+    {
+      "id": "map-extra-10004051",
+      "kind": "map",
+      "zh": "东部岩山Ⅱ",
+      "en": "East Rocky Mountain II",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10004051/",
+      "aliases": [],
+      "nameCheckedOn": "2026-10-05",
+      "location": {
+        "node": "East Rocky Mountain I",
+        "mode": "entrance"
+      },
+      "note": "高亮为入口／所属区域，不是内部地图精确坐标。"
+    },
+    {
+      "id": "map-extra-80001000",
+      "kind": "map",
+      "zh": "弓箭手2转考验场",
+      "en": "Ant Tunnel For Bowman",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/80001000/",
+      "aliases": [
+        "弓箭手二转考验场"
+      ],
+      "nameCheckedOn": "2026-10-05",
+      "location": {
+        "node": "The Road to the Dungeon",
+        "mode": "entrance"
+      },
+      "note": "高亮为入口／所属区域，不是内部地图精确坐标。"
+    },
+    {
+      "id": "map-extra-80001200",
+      "kind": "map",
+      "zh": "飞侠2转考验场",
+      "en": "Thief's Construction Site",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/80001200/",
+      "aliases": [
+        "飞侠施工现场"
+      ],
+      "nameCheckedOn": "2026-10-05",
+      "location": {
+        "node": "Construction Site North of Kerning City",
+        "mode": "entrance"
+      },
+      "note": "高亮为入口／所属区域，不是内部地图精确坐标。"
+    },
+    {
+      "id": "map-extra-80001300",
+      "kind": "map",
+      "zh": "战士2转考验场",
+      "en": "Warrior's Rocky Mountain",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/80001300/",
+      "aliases": [
+        "战士岩山"
+      ],
+      "nameCheckedOn": "2026-10-05",
+      "location": {
+        "node": "West Rocky Mountain I",
+        "mode": "entrance"
+      },
+      "note": "高亮为入口／所属区域，不是内部地图精确坐标。"
+    },
+    {
+      "id": "item-extra-2020000",
+      "kind": "item",
+      "zh": "沙拉",
+      "en": "Salad",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/items/2020000/",
+      "aliases": [],
+      "nameCheckedOn": "2026-10-05",
+      "image": "assets/items/2020000.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/items/2020000.png",
+      "imageWidth": 30,
+      "imageHeight": 24
+    },
+    {
+      "id": "item-extra-4000003",
+      "kind": "item",
+      "zh": "蘑菇芽孢",
+      "en": "Mushroom Spore",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/items/4000003/",
+      "aliases": [],
+      "nameCheckedOn": "2026-10-05",
+      "image": "assets/items/4000003.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/items/4000003.png",
+      "imageWidth": 29,
+      "imageHeight": 30
+    },
+    {
+      "id": "item-extra-4000005",
+      "kind": "item",
+      "zh": "树枝",
+      "en": "Tree Branch",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/items/4000005/",
+      "aliases": [],
+      "nameCheckedOn": "2026-10-05",
+      "image": "assets/items/4000005.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/items/4000005.png",
+      "imageWidth": 29,
+      "imageHeight": 30
+    },
+    {
+      "id": "item-extra-4000017",
+      "kind": "item",
+      "zh": "蝙蝠翅膀",
+      "en": "Stirge Wing",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/items/4000017/",
+      "aliases": [],
+      "nameCheckedOn": "2026-10-05",
+      "image": "assets/items/4000017.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/items/4000017.png",
+      "imageWidth": 31,
+      "imageHeight": 30
+    },
+    {
+      "id": "item-extra-4031013",
+      "kind": "item",
+      "zh": "武术教练的信件",
+      "en": "Dances with Balrog's Letter",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/items/4031013/",
+      "aliases": [],
+      "nameCheckedOn": "2026-10-05",
+      "image": "assets/items/4031013.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/items/4031013.png",
+      "imageWidth": 29,
+      "imageHeight": 31
+    },
+    {
+      "id": "item-extra-4031015",
+      "kind": "item",
+      "zh": "赫丽娜的信件",
+      "en": "Athena Pierce's Letter",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/items/4031015/",
+      "aliases": [],
+      "nameCheckedOn": "2026-10-05",
+      "image": "assets/items/4031015.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/items/4031015.png",
+      "imageWidth": 29,
+      "imageHeight": 31
+    },
+    {
+      "id": "item-extra-4031016",
+      "kind": "item",
+      "zh": "达克鲁的信件",
+      "en": "The Dark Lord's Letter",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/items/4031016/",
+      "aliases": [],
+      "nameCheckedOn": "2026-10-05",
+      "note": "资料站名称栏仅列英文，中文按攻略指代。",
+      "image": "assets/items/4031016.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/items/4031016.png",
+      "imageWidth": 29,
+      "imageHeight": 31
+    },
+    {
+      "id": "item-extra-2030004",
+      "kind": "item",
+      "zh": "射手村回城卷",
+      "en": "Return Scroll to Henesys",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/items/2030004/",
+      "aliases": [],
+      "nameCheckedOn": "2026-10-05",
+      "image": "assets/items/2030004.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/items/2030004.png",
+      "imageWidth": 32,
+      "imageHeight": 30
+    },
+    {
+      "id": "item-extra-2030005",
+      "kind": "item",
+      "zh": "废弃都市回城卷",
+      "en": "Return Scroll to Kerning City",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/items/2030005/",
+      "aliases": [],
+      "nameCheckedOn": "2026-10-05",
+      "image": "assets/items/2030005.png",
+      "imageSource": "https://kafuffu20.com/classic-world/data/icons/items/2030005.png",
+      "imageWidth": 32,
+      "imageHeight": 30
+    },
+    {
+      "id": "item-shoes-bowman",
+      "kind": "item",
+      "zh": "弓箭手职业鞋（款式待确认）",
+      "en": "Bowman Shoes (exact item unconfirmed)",
+      "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/",
+      "note": "原文只说明25级职业鞋，未说明款式。"
+    },
+    {
+      "id": "item-shoes-warrior",
+      "kind": "item",
+      "zh": "战士职业鞋（款式待确认）",
+      "en": "Warrior Shoes (exact item unconfirmed)",
+      "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/",
+      "note": "原文只说明25级职业鞋，未说明款式。"
+    },
+    {
+      "id": "item-shoes-thief",
+      "kind": "item",
+      "zh": "飞侠职业鞋（款式待确认）",
+      "en": "Thief Shoes (exact item unconfirmed)",
+      "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/",
+      "note": "原文只说明25级职业鞋，未说明款式。"
     }
   ],
   "display": {

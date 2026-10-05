@@ -1233,5 +1233,2157 @@
         "url": "https://kafuffu20.com/classic-world/zh-cn/quests/10508/"
       }
     ]
+  },
+  "a001": {
+    "id": "quest-a001",
+    "kind": "quest",
+    "zh": "借来莎莉的镜子",
+    "en": "Borrowing Sera's Mirror",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a002": {
+    "id": "quest-a002",
+    "kind": "quest",
+    "zh": "给希娜弄来镜子",
+    "en": "Bringing a Mirror to Heena",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a003": {
+    "id": "quest-a003",
+    "kind": "quest",
+    "zh": "罗杰和苹果",
+    "en": "Roger's Apple",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a004": {
+    "id": "quest-a004",
+    "kind": "quest",
+    "zh": "山想吃的是什么",
+    "en": "What Sen wants to eat",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a005": {
+    "id": "quest-a005",
+    "kind": "quest",
+    "zh": "回到妮娜的住所",
+    "en": "Returning to Nina",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a006": {
+    "id": "quest-a006",
+    "kind": "quest",
+    "zh": "透德的打猎方法",
+    "en": "Todd's How-to-Hunt",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a007": {
+    "id": "quest-a007",
+    "kind": "quest",
+    "zh": "萨姆的建议",
+    "en": "Sam's Suggestion",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a008": {
+    "id": "quest-a008",
+    "kind": "quest",
+    "zh": "传递信件／麦加的锻炼",
+    "en": "Letter for Lucas / Mai's Training",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a009": {
+    "id": "quest-a009",
+    "kind": "quest",
+    "zh": "比格斯的收集品",
+    "en": "Biggs's Collection of Items",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a010": {
+    "id": "quest-a010",
+    "kind": "quest",
+    "zh": "完成麦加的锻炼",
+    "en": "Complete Mai's Training",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a011": {
+    "id": "quest-a011",
+    "kind": "quest",
+    "zh": "麦加的最后锻炼",
+    "en": "Mai's Final Training",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a012": {
+    "id": "quest-a012",
+    "kind": "quest",
+    "zh": "瑞恩的枫叶问答",
+    "en": "Rain's Maple Quiz (1–7)",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a013": {
+    "id": "quest-a013",
+    "kind": "quest",
+    "zh": "皮奥的垃圾回收／长老的回信",
+    "en": "Pio's Collecting Recycled Goods / Lucas's Reply",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a014": {
+    "id": "quest-a014",
+    "kind": "quest",
+    "zh": "收集旧螺丝钉与旧木板",
+    "en": "Collect Rusty Screws and Old Wooden Boards",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a015": {
+    "id": "quest-a015",
+    "kind": "quest",
+    "zh": "离岛前补到 8 级",
+    "en": "Reach Level 8 Before Leaving Maple Island",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a016": {
+    "id": "quest-a016",
+    "kind": "quest",
+    "zh": "交最后锻炼与回信",
+    "en": "Turn In Mai's Final Training and Lucas's Reply",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a017": {
+    "id": "quest-a017",
+    "kind": "quest",
+    "zh": "交收集品，离开彩虹岛",
+    "en": "Turn In Biggs's Collection and Leave Maple Island",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a018": {
+    "id": "quest-a018",
+    "kind": "quest",
+    "zh": "抵达明珠港／检查等级",
+    "en": "Arrive at Lith Harbor and Check Your Level",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a019": {
+    "id": "quest-a019",
+    "kind": "quest",
+    "zh": "按西到东接三条任务",
+    "en": "Accept Three Quests from West to East",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a020": {
+    "id": "quest-a020",
+    "kind": "quest",
+    "zh": "第一轮海岸狩猎",
+    "en": "First Round of Coastal Hunting",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a021": {
+    "id": "quest-a021",
+    "kind": "quest",
+    "zh": "交第一轮，接第二轮",
+    "en": "Turn In Round One and Accept Round Two",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a022": {
+    "id": "quest-a022",
+    "kind": "quest",
+    "zh": "第二轮海岸狩猎与预存材料",
+    "en": "Second Round of Coastal Hunting and Stockpiling",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a023": {
+    "id": "quest-a023",
+    "kind": "quest",
+    "zh": "交第二轮，领取柠檬",
+    "en": "Turn In Round Two and Collect Lemons",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a024": {
+    "id": "quest-a024",
+    "kind": "quest",
+    "zh": "比尔的召唤／准备前往射手村",
+    "en": "Phil's Call / Prepare to Travel to Henesys",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a025": {
+    "id": "quest-a025",
+    "kind": "quest",
+    "zh": "成为弓箭手",
+    "en": "Become a Bowman",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a026": {
+    "id": "quest-a026",
+    "kind": "quest",
+    "zh": "研究蘑菇怪物的理由",
+    "en": "The Reason Behind the Mushroom Study",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a027": {
+    "id": "quest-a027",
+    "kind": "quest",
+    "zh": "蘑菇山收集与练级",
+    "en": "Collection and Training in Mushroom Garden",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a028": {
+    "id": "quest-a028",
+    "kind": "quest",
+    "zh": "交蘑菇研究",
+    "en": "Turn In the Mushroom Study",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a029": {
+    "id": "quest-a029",
+    "kind": "quest",
+    "zh": "帮忙写作业",
+    "en": "I Need Help on My Homework!",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a030": {
+    "id": "quest-a030",
+    "kind": "quest",
+    "zh": "黑木妖与绿水灵材料储备",
+    "en": "Dark Stump and Slime Material Collection",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a031": {
+    "id": "quest-a031",
+    "kind": "quest",
+    "zh": "交写作业",
+    "en": "Turn In I Need Help on My Homework!",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a032": {
+    "id": "quest-a032",
+    "kind": "quest",
+    "zh": "蘑菇的美味吃法",
+    "en": "How to Enjoy Mushrooms",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a033": {
+    "id": "quest-a033",
+    "kind": "quest",
+    "zh": "第一轮绿蘑菇收集",
+    "en": "First Green Mushroom Collection",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a034": {
+    "id": "quest-a034",
+    "kind": "quest",
+    "zh": "交第一轮，接更美味的吃法",
+    "en": "Turn In Round One and Accept How to Enjoy Mushrooms Even More",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a035": {
+    "id": "quest-a035",
+    "kind": "quest",
+    "zh": "第二轮绿蘑菇与后续储备",
+    "en": "Second Round of Green Mushrooms and Stockpiling",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a036": {
+    "id": "quest-a036",
+    "kind": "quest",
+    "zh": "交更美味的吃法",
+    "en": "Turn In How to Enjoy Mushrooms Even More",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a037": {
+    "id": "quest-a037",
+    "kind": "quest",
+    "zh": "练到18级并储备材料",
+    "en": "Train to Level 18 and Stock Up on Materials",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a038": {
+    "id": "quest-a038",
+    "kind": "quest",
+    "zh": "明明女士的第一个担心",
+    "en": "Mrs. Ming Ming's First Worry",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a039": {
+    "id": "quest-a039",
+    "kind": "quest",
+    "zh": "皮亚和蓝蘑菇",
+    "en": "Pia and the Blue Mushroom",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a040": {
+    "id": "quest-a040",
+    "kind": "quest",
+    "zh": "克里斯拉玛需要学徒",
+    "en": "Chrishrama in Need of an Apprentice",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a041": {
+    "id": "quest-a041",
+    "kind": "quest",
+    "zh": "黑森林学徒与章鱼材料",
+    "en": "Apprentice Training and Octopus Materials in Deep Forest",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a042": {
+    "id": "quest-a042",
+    "kind": "quest",
+    "zh": "交学徒／制作石榴石",
+    "en": "Complete the Apprenticeship and Craft a Garnet",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a043": {
+    "id": "quest-a043",
+    "kind": "quest",
+    "zh": "练到20级约90%",
+    "en": "Train to Level 20 with About 90% EXP",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a044": {
+    "id": "quest-a044",
+    "kind": "quest",
+    "zh": "第二个担心／胡小姐的拜托",
+    "en": "Mrs. Ming Ming's Second Worry / Estelle's Request",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a045": {
+    "id": "quest-a045",
+    "kind": "quest",
+    "zh": "胡小姐的特制酱油",
+    "en": "Estelle's Special Sauce",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a046": {
+    "id": "quest-a046",
+    "kind": "quest",
+    "zh": "交特制酱油",
+    "en": "Deliver Estelle's Special Sauce",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a047": {
+    "id": "quest-a047",
+    "kind": "quest",
+    "zh": "射手村的玛亚",
+    "en": "Maya of Henesys",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a048": {
+    "id": "quest-a048",
+    "kind": "quest",
+    "zh": "购买矿泉水／找特奥",
+    "en": "Buy Pure Water and Speak to Teo",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a049": {
+    "id": "quest-a049",
+    "kind": "quest",
+    "zh": "闪耀石头的材料",
+    "en": "Making a Sparkling Rock",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a050": {
+    "id": "quest-a050",
+    "kind": "quest",
+    "zh": "变异蘑菇的血一",
+    "en": "Arcon's Blood?",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a051": {
+    "id": "quest-a051",
+    "kind": "quest",
+    "zh": "内拉前置①：防具店老板的拜托",
+    "en": "Nella Prerequisite 1: Don Hwang's Request",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a052": {
+    "id": "quest-a052",
+    "kind": "quest",
+    "zh": "打花蘑菇与飘飘猪",
+    "en": "Hunt Orange Mushrooms and Ribbon Pigs",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a053": {
+    "id": "quest-a053",
+    "kind": "quest",
+    "zh": "交前置①，接秀咪的拜托",
+    "en": "Turn In Prerequisite 1 and Accept Shumi's Request",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a054": {
+    "id": "quest-a054",
+    "kind": "quest",
+    "zh": "内拉前置②：黑木妖",
+    "en": "Nella Prerequisite 2: Dark Stumps",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a055": {
+    "id": "quest-a055",
+    "kind": "quest",
+    "zh": "交前置②，接安德里亚的拜托",
+    "en": "Turn In Prerequisite 2 and Accept Andre's Request",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a056": {
+    "id": "quest-a056",
+    "kind": "quest",
+    "zh": "内拉前置③：三眼章鱼",
+    "en": "Nella Prerequisite 3: Octopuses",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a057": {
+    "id": "quest-a057",
+    "kind": "quest",
+    "zh": "交前置③，领取工地手套",
+    "en": "Turn In Prerequisite 3 and Collect Work Gloves",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a058": {
+    "id": "quest-a058",
+    "kind": "quest",
+    "zh": "21 → 22 练级",
+    "en": "Train from Level 21 to 22",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a059": {
+    "id": "quest-a059",
+    "kind": "quest",
+    "zh": "药店老板的拜托",
+    "en": "Dr. Faymus's Request",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a060": {
+    "id": "quest-a060",
+    "kind": "quest",
+    "zh": "沼泽练级与收集",
+    "en": "Train and Gather Materials in the Swamp",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a061": {
+    "id": "quest-a061",
+    "kind": "quest",
+    "zh": "交药店老板的拜托",
+    "en": "Turn In Dr. Faymus's Request",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a062": {
+    "id": "quest-a062",
+    "kind": "quest",
+    "zh": "克里斯的拜托／曼斯塔的拜托",
+    "en": "Chris's Request / Cutthroat Manny's Request",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a063": {
+    "id": "quest-a063",
+    "kind": "quest",
+    "zh": "陌生女人的拜托",
+    "en": "Stranger's Request",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a064": {
+    "id": "quest-a064",
+    "kind": "quest",
+    "zh": "蝙蝠与镜子碎片",
+    "en": "Hunt Stirges and Collect Broken Mirror Glass",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a065": {
+    "id": "quest-a065",
+    "kind": "quest",
+    "zh": "陌生女人的真相",
+    "en": "Stranger's Identity",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a066": {
+    "id": "quest-a066",
+    "kind": "quest",
+    "zh": "蚂蚁洞出发前补药",
+    "en": "Restock Potions Before Entering the Ant Tunnel",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a067": {
+    "id": "quest-a067",
+    "kind": "quest",
+    "zh": "僵尸蘑菇／道符与长段练级",
+    "en": "Hunt Zombie Mushrooms, Collect Charms and Train",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a068": {
+    "id": "quest-a068",
+    "kind": "quest",
+    "zh": "火独眼兽与蚂蚁广场练级",
+    "en": "Hunt Evil Eyes and Train at Ant Tunnel Park",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a069": {
+    "id": "quest-a069",
+    "kind": "quest",
+    "zh": "交曼斯塔的拜托",
+    "en": "Turn In Cutthroat Manny's Request",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a070": {
+    "id": "quest-a070",
+    "kind": "quest",
+    "zh": "交陌生女人的真相",
+    "en": "Turn In Stranger's Identity",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a071": {
+    "id": "quest-a071",
+    "kind": "quest",
+    "zh": "28 → 30 练级",
+    "en": "Train from Level 28 to 30",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a072": {
+    "id": "quest-a072",
+    "kind": "quest",
+    "zh": "交变异蘑菇的血一",
+    "en": "Turn In Arcon's Blood?",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a073": {
+    "id": "quest-a073",
+    "kind": "quest",
+    "zh": "交血与材料／制作闪耀石头",
+    "en": "Deliver Arcon's Blood and Materials / Make a Sparkling Rock",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a074": {
+    "id": "quest-a074",
+    "kind": "quest",
+    "zh": "送奇怪的药",
+    "en": "Delivering the Weird Medicine",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a075": {
+    "id": "quest-a075",
+    "kind": "quest",
+    "zh": "把药送给玛亚",
+    "en": "Deliver the Medicine to Maya",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a076": {
+    "id": "quest-a076",
+    "kind": "quest",
+    "zh": "玛亚的第一次收集",
+    "en": "Maya's First Collection",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a077": {
+    "id": "quest-a077",
+    "kind": "quest",
+    "zh": "弓箭手的下一段旅程／寻找教官",
+    "en": "The Bowman's Next Journey / Finding the Instructor",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a078": {
+    "id": "quest-a078",
+    "kind": "quest",
+    "zh": "交信／接资格测试",
+    "en": "Deliver the Letter and Accept the Test of Qualification",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a079": {
+    "id": "quest-a079",
+    "kind": "quest",
+    "zh": "弓箭手二转考验",
+    "en": "Bowman Second Job Advancement Test",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a080": {
+    "id": "quest-a080",
+    "kind": "quest",
+    "zh": "领取资格证明",
+    "en": "Collect the Proof of Qualification",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a081": {
+    "id": "quest-a081",
+    "kind": "quest",
+    "zh": "完成弓箭手二转",
+    "en": "Complete the Bowman Second Job Advancement",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a082": {
+    "id": "quest-a082",
+    "kind": "quest",
+    "zh": "二转后练到 32",
+    "en": "Reach Level 32 After the Second Job Advancement",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a083": {
+    "id": "quest-a083",
+    "kind": "quest",
+    "zh": "秘密之书",
+    "en": "A Clue to the Secret Book",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a084": {
+    "id": "quest-a084",
+    "kind": "quest",
+    "zh": "肚子饿的洛尼",
+    "en": "Hungry Ronnie",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a085": {
+    "id": "quest-a085",
+    "kind": "quest",
+    "zh": "猴子与香蕉",
+    "en": "Hunt Lupins and Collect Bananas",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a086": {
+    "id": "quest-a086",
+    "kind": "quest",
+    "zh": "还是很饿的洛尼",
+    "en": "Still Hungry Ronnie",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a087": {
+    "id": "quest-a087",
+    "kind": "quest",
+    "zh": "收集风独眼兽之尾",
+    "en": "Collect Curse Eye Tails",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a088": {
+    "id": "quest-a088",
+    "kind": "quest",
+    "zh": "找丽娜／特制烤鳗鱼的秘密",
+    "en": "Speak to Rina / Secret to Unagi Special",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a089": {
+    "id": "quest-a089",
+    "kind": "quest",
+    "zh": "鳗鱼特餐／口渴的洛尼",
+    "en": "Rina's Unagi Special / Thirsty Ronnie",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a090": {
+    "id": "quest-a090",
+    "kind": "quest",
+    "zh": "牛奶",
+    "en": "Cold Milk",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a091": {
+    "id": "quest-a091",
+    "kind": "quest",
+    "zh": "准备一颗钻石",
+    "en": "Obtain a Diamond",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a092": {
+    "id": "quest-a092",
+    "kind": "quest",
+    "zh": "心满意足的洛尼",
+    "en": "Satisfied Ronnie",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a093": {
+    "id": "quest-a093",
+    "kind": "quest",
+    "zh": "秘密之书回收",
+    "en": "Returned Secret Book",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "a094": {
+    "id": "quest-a094",
+    "kind": "quest",
+    "zh": "交秘密之书，领取桑拿服",
+    "en": "Turn In the Secret Book and Collect a Sauna Robe",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w001": {
+    "id": "quest-w001",
+    "kind": "quest",
+    "zh": "借来莎莉的镜子",
+    "en": "Borrowing Sera's Mirror",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w002": {
+    "id": "quest-w002",
+    "kind": "quest",
+    "zh": "给希娜弄来镜子",
+    "en": "Bringing a Mirror to Heena",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w003": {
+    "id": "quest-w003",
+    "kind": "quest",
+    "zh": "罗杰和苹果",
+    "en": "Roger's Apple",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w004": {
+    "id": "quest-w004",
+    "kind": "quest",
+    "zh": "山想吃的是什么",
+    "en": "What Sen wants to eat",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w005": {
+    "id": "quest-w005",
+    "kind": "quest",
+    "zh": "回到妮娜的住所",
+    "en": "Returning to Nina",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w006": {
+    "id": "quest-w006",
+    "kind": "quest",
+    "zh": "透德的打猎方法",
+    "en": "Todd's How-to-Hunt",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w007": {
+    "id": "quest-w007",
+    "kind": "quest",
+    "zh": "萨姆的建议",
+    "en": "Sam's Suggestion",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w008": {
+    "id": "quest-w008",
+    "kind": "quest",
+    "zh": "传递信件／麦加的锻炼",
+    "en": "Letter for Lucas / Mai's Training",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w009": {
+    "id": "quest-w009",
+    "kind": "quest",
+    "zh": "比格斯的收集品",
+    "en": "Biggs's Collection of Items",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w010": {
+    "id": "quest-w010",
+    "kind": "quest",
+    "zh": "完成麦加的锻炼",
+    "en": "Complete Mai's Training",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w011": {
+    "id": "quest-w011",
+    "kind": "quest",
+    "zh": "麦加的最后锻炼",
+    "en": "Mai's Final Training",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w012": {
+    "id": "quest-w012",
+    "kind": "quest",
+    "zh": "瑞恩的枫叶问答",
+    "en": "Rain's Maple Quiz (1–7)",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w013": {
+    "id": "quest-w013",
+    "kind": "quest",
+    "zh": "皮奥的垃圾回收／长老的回信",
+    "en": "Pio's Collecting Recycled Goods / Lucas's Reply",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w014": {
+    "id": "quest-w014",
+    "kind": "quest",
+    "zh": "收集旧螺丝钉与旧木板",
+    "en": "Collect Rusty Screws and Old Wooden Boards",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w015": {
+    "id": "quest-w015",
+    "kind": "quest",
+    "zh": "离岛前补到 8 级",
+    "en": "Reach Level 8 Before Leaving Maple Island",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w016": {
+    "id": "quest-w016",
+    "kind": "quest",
+    "zh": "交最后锻炼与回信",
+    "en": "Turn In Mai's Final Training and Lucas's Reply",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w017": {
+    "id": "quest-w017",
+    "kind": "quest",
+    "zh": "交收集品，离开彩虹岛",
+    "en": "Turn In Biggs's Collection and Leave Maple Island",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w018": {
+    "id": "quest-w018",
+    "kind": "quest",
+    "zh": "抵达明珠港／检查等级",
+    "en": "Arrive at Lith Harbor and Check Your Level",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w019": {
+    "id": "quest-w019",
+    "kind": "quest",
+    "zh": "按西到东接三条任务",
+    "en": "Accept Three Quests from West to East",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w020": {
+    "id": "quest-w020",
+    "kind": "quest",
+    "zh": "第一轮海岸狩猎",
+    "en": "First Round of Coastal Hunting",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w021": {
+    "id": "quest-w021",
+    "kind": "quest",
+    "zh": "交第一轮，接第二轮",
+    "en": "Turn In Round One and Accept Round Two",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w022": {
+    "id": "quest-w022",
+    "kind": "quest",
+    "zh": "第二轮海岸狩猎与预存材料",
+    "en": "Second Round of Coastal Hunting and Stockpiling",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w023": {
+    "id": "quest-w023",
+    "kind": "quest",
+    "zh": "交第二轮，领取柠檬",
+    "en": "Turn In Round Two and Collect Lemons",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w024": {
+    "id": "quest-w024",
+    "kind": "quest",
+    "zh": "比尔的召唤／准备前往勇士部落",
+    "en": "Phil's Call / Prepare to Travel to Perion",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w025": {
+    "id": "quest-w025",
+    "kind": "quest",
+    "zh": "购买矿泉水／成为战士",
+    "en": "Buy Mineral Water / Become a Warrior",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w026": {
+    "id": "quest-w026",
+    "kind": "quest",
+    "zh": "黑木妖练到11级",
+    "en": "Train to Level 11 on Dark Stumps",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w027": {
+    "id": "quest-w027",
+    "kind": "quest",
+    "zh": "木妖好可怕／酋长的家修理",
+    "en": "Stump Horror Story / Repairing Blackbull's House",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w028": {
+    "id": "quest-w028",
+    "kind": "quest",
+    "zh": "共享木妖计数并留树枝",
+    "en": "Shared Stump Kills and Tree Branch Collection",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w029": {
+    "id": "quest-w029",
+    "kind": "quest",
+    "zh": "交勇士部落两任务",
+    "en": "Turn In Both Perion Quests",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w030": {
+    "id": "quest-w030",
+    "kind": "quest",
+    "zh": "内拉前置与好无聊",
+    "en": "Nella's Prerequisites and Icarus's Boredom",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w031": {
+    "id": "quest-w031",
+    "kind": "quest",
+    "zh": "逆恩森林材料储备",
+    "en": "Stock Up on Materials in L Forest",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w032": {
+    "id": "quest-w032",
+    "kind": "quest",
+    "zh": "交内拉与伊卡路斯",
+    "en": "Turn In Nella's and Icarus's Quests",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w033": {
+    "id": "quest-w033",
+    "kind": "quest",
+    "zh": "黑木妖25只",
+    "en": "Defeat 25 Dark Stumps",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w034": {
+    "id": "quest-w034",
+    "kind": "quest",
+    "zh": "交休咪的拜托",
+    "en": "Turn In Shumi's Request",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w035": {
+    "id": "quest-w035",
+    "kind": "quest",
+    "zh": "三眼章鱼与触角储备",
+    "en": "Hunt Octopuses and Collect Tentacles",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w036": {
+    "id": "quest-w036",
+    "kind": "quest",
+    "zh": "交安德里亚的拜托",
+    "en": "Turn In Andrea's Request",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w037": {
+    "id": "quest-w037",
+    "kind": "quest",
+    "zh": "返回勇士部落附近补级",
+    "en": "Return to Perion for Training",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w038": {
+    "id": "quest-w038",
+    "kind": "quest",
+    "zh": "战士练到21级",
+    "en": "Warrior Training to Level 21",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w039": {
+    "id": "quest-w039",
+    "kind": "quest",
+    "zh": "射手村的玛亚",
+    "en": "Maya of Henesys",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w040": {
+    "id": "quest-w040",
+    "kind": "quest",
+    "zh": "找特奥",
+    "en": "Visit Teo",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w041": {
+    "id": "quest-w041",
+    "kind": "quest",
+    "zh": "闪耀石头的材料",
+    "en": "Making a Sparkling Rock",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w042": {
+    "id": "quest-w042",
+    "kind": "quest",
+    "zh": "变异蘑菇的血一",
+    "en": "Arcon's Blood?",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w043": {
+    "id": "quest-w043",
+    "kind": "quest",
+    "zh": "21 → 22 练级",
+    "en": "Train from Level 21 to 22",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w044": {
+    "id": "quest-w044",
+    "kind": "quest",
+    "zh": "药店老板的拜托",
+    "en": "Dr. Faymus's Request",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w045": {
+    "id": "quest-w045",
+    "kind": "quest",
+    "zh": "沼泽练级与收集",
+    "en": "Train and Gather Materials in the Swamp",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w046": {
+    "id": "quest-w046",
+    "kind": "quest",
+    "zh": "交药店老板的拜托",
+    "en": "Turn In Dr. Faymus's Request",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w047": {
+    "id": "quest-w047",
+    "kind": "quest",
+    "zh": "克里斯的拜托／曼斯塔的拜托",
+    "en": "Chris's Request / Cutthroat Manny's Request",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w048": {
+    "id": "quest-w048",
+    "kind": "quest",
+    "zh": "陌生女人的拜托",
+    "en": "Stranger's Request",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w049": {
+    "id": "quest-w049",
+    "kind": "quest",
+    "zh": "蝙蝠与镜子碎片",
+    "en": "Hunt Stirges and Collect Broken Mirror Glass",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w050": {
+    "id": "quest-w050",
+    "kind": "quest",
+    "zh": "陌生女人的真相",
+    "en": "Stranger's Identity",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w051": {
+    "id": "quest-w051",
+    "kind": "quest",
+    "zh": "蚂蚁洞出发前补药",
+    "en": "Restock Potions Before Entering the Ant Tunnel",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w052": {
+    "id": "quest-w052",
+    "kind": "quest",
+    "zh": "僵尸蘑菇／道符与长段练级",
+    "en": "Hunt Zombie Mushrooms, Collect Charms and Train",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w053": {
+    "id": "quest-w053",
+    "kind": "quest",
+    "zh": "火独眼兽与蚂蚁广场练级",
+    "en": "Hunt Evil Eyes and Train at Ant Tunnel Park",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w054": {
+    "id": "quest-w054",
+    "kind": "quest",
+    "zh": "交曼斯塔的拜托",
+    "en": "Turn In Cutthroat Manny's Request",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w055": {
+    "id": "quest-w055",
+    "kind": "quest",
+    "zh": "交陌生女人的真相",
+    "en": "Turn In Stranger's Identity",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w056": {
+    "id": "quest-w056",
+    "kind": "quest",
+    "zh": "28 → 30 练级",
+    "en": "Train from Level 28 to 30",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w057": {
+    "id": "quest-w057",
+    "kind": "quest",
+    "zh": "交变异蘑菇的血一",
+    "en": "Turn In Arcon's Blood?",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w058": {
+    "id": "quest-w058",
+    "kind": "quest",
+    "zh": "交血与材料／制作闪耀石头",
+    "en": "Deliver Arcon's Blood and Materials / Make a Sparkling Rock",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w059": {
+    "id": "quest-w059",
+    "kind": "quest",
+    "zh": "完成学徒的黑木妖计数",
+    "en": "Finish the Apprentice Quest's Dark Stump Kills",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w060": {
+    "id": "quest-w060",
+    "kind": "quest",
+    "zh": "送奇怪的药",
+    "en": "Delivering the Weird Medicine",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w061": {
+    "id": "quest-w061",
+    "kind": "quest",
+    "zh": "把药送给玛亚",
+    "en": "Deliver the Medicine to Maya",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w062": {
+    "id": "quest-w062",
+    "kind": "quest",
+    "zh": "明明女士的第一个担心",
+    "en": "Mrs. Ming Ming's First Worry",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w063": {
+    "id": "quest-w063",
+    "kind": "quest",
+    "zh": "补齐玛亚的蓝蘑菇盖",
+    "en": "Collect Maya's Remaining Blue Mushroom Caps",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w064": {
+    "id": "quest-w064",
+    "kind": "quest",
+    "zh": "玛亚的第一次收集",
+    "en": "Maya's First Collection",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w065": {
+    "id": "quest-w065",
+    "kind": "quest",
+    "zh": "战士的下一段旅程／寻找教官",
+    "en": "The Warrior's Next Journey / Finding the Instructor",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w066": {
+    "id": "quest-w066",
+    "kind": "quest",
+    "zh": "交信／接资格测试",
+    "en": "Deliver the Letter and Accept the Test of Qualification",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w067": {
+    "id": "quest-w067",
+    "kind": "quest",
+    "zh": "战士二转考验",
+    "en": "Warrior Second Job Advancement Test",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w068": {
+    "id": "quest-w068",
+    "kind": "quest",
+    "zh": "领取资格证明",
+    "en": "Collect the Proof of Qualification",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w069": {
+    "id": "quest-w069",
+    "kind": "quest",
+    "zh": "完成战士二转",
+    "en": "Complete the Warrior Second Job Advancement",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w070": {
+    "id": "quest-w070",
+    "kind": "quest",
+    "zh": "二转后练到 32",
+    "en": "Reach Level 32 After the Second Job Advancement",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w071": {
+    "id": "quest-w071",
+    "kind": "quest",
+    "zh": "交学徒／制作石榴石",
+    "en": "Complete the Apprenticeship and Craft a Garnet",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w072": {
+    "id": "quest-w072",
+    "kind": "quest",
+    "zh": "秘密之书",
+    "en": "A Clue to the Secret Book",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w073": {
+    "id": "quest-w073",
+    "kind": "quest",
+    "zh": "第二个担心／胡小姐的拜托",
+    "en": "Mrs. Ming Ming's Second Worry / Estelle's Request",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w074": {
+    "id": "quest-w074",
+    "kind": "quest",
+    "zh": "胡小姐的特制酱油",
+    "en": "Estelle's Special Sauce",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w075": {
+    "id": "quest-w075",
+    "kind": "quest",
+    "zh": "肚子饿的洛尼",
+    "en": "Hungry Ronnie",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w076": {
+    "id": "quest-w076",
+    "kind": "quest",
+    "zh": "猴子与香蕉",
+    "en": "Hunt Lupins and Collect Bananas",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w077": {
+    "id": "quest-w077",
+    "kind": "quest",
+    "zh": "还是很饿的洛尼",
+    "en": "Still Hungry Ronnie",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w078": {
+    "id": "quest-w078",
+    "kind": "quest",
+    "zh": "收集风独眼兽之尾",
+    "en": "Collect Curse Eye Tails",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w079": {
+    "id": "quest-w079",
+    "kind": "quest",
+    "zh": "找丽娜／特制烤鳗鱼的秘密",
+    "en": "Speak to Rina / Secret to Unagi Special",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w080": {
+    "id": "quest-w080",
+    "kind": "quest",
+    "zh": "交特制酱油",
+    "en": "Deliver Estelle's Special Sauce",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w081": {
+    "id": "quest-w081",
+    "kind": "quest",
+    "zh": "鳗鱼特餐／口渴的洛尼",
+    "en": "Rina's Unagi Special / Thirsty Ronnie",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w082": {
+    "id": "quest-w082",
+    "kind": "quest",
+    "zh": "牛奶",
+    "en": "Cold Milk",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w083": {
+    "id": "quest-w083",
+    "kind": "quest",
+    "zh": "准备一颗钻石",
+    "en": "Obtain a Diamond",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w084": {
+    "id": "quest-w084",
+    "kind": "quest",
+    "zh": "心满意足的洛尼",
+    "en": "Satisfied Ronnie",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w085": {
+    "id": "quest-w085",
+    "kind": "quest",
+    "zh": "秘密之书回收",
+    "en": "Returned Secret Book",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "w086": {
+    "id": "quest-w086",
+    "kind": "quest",
+    "zh": "交秘密之书，领取桑拿服",
+    "en": "Turn In the Secret Book and Collect a Sauna Robe",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t001": {
+    "id": "quest-t001",
+    "kind": "quest",
+    "zh": "借来莎莉的镜子",
+    "en": "Borrowing Sera's Mirror",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t002": {
+    "id": "quest-t002",
+    "kind": "quest",
+    "zh": "给希娜弄来镜子",
+    "en": "Bringing a Mirror to Heena",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t003": {
+    "id": "quest-t003",
+    "kind": "quest",
+    "zh": "罗杰和苹果",
+    "en": "Roger's Apple",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t004": {
+    "id": "quest-t004",
+    "kind": "quest",
+    "zh": "山想吃的是什么",
+    "en": "What Sen wants to eat",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t005": {
+    "id": "quest-t005",
+    "kind": "quest",
+    "zh": "回到妮娜的住所",
+    "en": "Returning to Nina",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t006": {
+    "id": "quest-t006",
+    "kind": "quest",
+    "zh": "透德的打猎方法",
+    "en": "Todd's How-to-Hunt",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t007": {
+    "id": "quest-t007",
+    "kind": "quest",
+    "zh": "萨姆的建议",
+    "en": "Sam's Suggestion",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t008": {
+    "id": "quest-t008",
+    "kind": "quest",
+    "zh": "传递信件／麦加的锻炼",
+    "en": "Letter for Lucas / Mai's Training",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t009": {
+    "id": "quest-t009",
+    "kind": "quest",
+    "zh": "比格斯的收集品",
+    "en": "Biggs's Collection of Items",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t010": {
+    "id": "quest-t010",
+    "kind": "quest",
+    "zh": "完成麦加的锻炼",
+    "en": "Complete Mai's Training",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t011": {
+    "id": "quest-t011",
+    "kind": "quest",
+    "zh": "麦加的最后锻炼",
+    "en": "Mai's Final Training",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t012": {
+    "id": "quest-t012",
+    "kind": "quest",
+    "zh": "瑞恩的枫叶问答",
+    "en": "Rain's Maple Quiz (1–7)",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t013": {
+    "id": "quest-t013",
+    "kind": "quest",
+    "zh": "皮奥的垃圾回收／长老的回信",
+    "en": "Pio's Collecting Recycled Goods / Lucas's Reply",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t014": {
+    "id": "quest-t014",
+    "kind": "quest",
+    "zh": "收集旧螺丝钉与旧木板",
+    "en": "Collect Rusty Screws and Old Wooden Boards",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t015": {
+    "id": "quest-t015",
+    "kind": "quest",
+    "zh": "离岛前补到 8 级",
+    "en": "Reach Level 8 Before Leaving Maple Island",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t016": {
+    "id": "quest-t016",
+    "kind": "quest",
+    "zh": "交最后锻炼与回信",
+    "en": "Turn In Mai's Final Training and Lucas's Reply",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t017": {
+    "id": "quest-t017",
+    "kind": "quest",
+    "zh": "交收集品，离开彩虹岛",
+    "en": "Turn In Biggs's Collection and Leave Maple Island",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t018": {
+    "id": "quest-t018",
+    "kind": "quest",
+    "zh": "抵达明珠港／检查等级",
+    "en": "Arrive at Lith Harbor and Check Your Level",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t019": {
+    "id": "quest-t019",
+    "kind": "quest",
+    "zh": "按西到东接三条任务",
+    "en": "Accept Three Quests from West to East",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t020": {
+    "id": "quest-t020",
+    "kind": "quest",
+    "zh": "第一轮海岸狩猎",
+    "en": "First Round of Coastal Hunting",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t021": {
+    "id": "quest-t021",
+    "kind": "quest",
+    "zh": "交第一轮，接第二轮",
+    "en": "Turn In Round One and Accept Round Two",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t022": {
+    "id": "quest-t022",
+    "kind": "quest",
+    "zh": "第二轮海岸狩猎与预存材料",
+    "en": "Second Round of Coastal Hunting and Stockpiling",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t023": {
+    "id": "quest-t023",
+    "kind": "quest",
+    "zh": "交第二轮，领取柠檬",
+    "en": "Turn In Round Two and Collect Lemons",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t024": {
+    "id": "quest-t024",
+    "kind": "quest",
+    "zh": "比尔的召唤／准备前往废弃都市",
+    "en": "Phil's Call / Prepare to Travel to Kerning City",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t025": {
+    "id": "quest-t025",
+    "kind": "quest",
+    "zh": "购买矿泉水／成为飞侠",
+    "en": "Buy Mineral Water / Become a Thief",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t026": {
+    "id": "quest-t026",
+    "kind": "quest",
+    "zh": "内拉：防具店老板的拜托",
+    "en": "Nella: The Armor Shop Owner's Request",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t027": {
+    "id": "quest-t027",
+    "kind": "quest",
+    "zh": "逆恩森林收集与补级",
+    "en": "Collection and Training in L Forest",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t028": {
+    "id": "quest-t028",
+    "kind": "quest",
+    "zh": "绿水灵材料与树枝",
+    "en": "Slime Materials and Tree Branches",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t029": {
+    "id": "quest-t029",
+    "kind": "quest",
+    "zh": "交内拉／好无聊一、二",
+    "en": "Nella's Request / Icarus's Boredom I and II",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t030": {
+    "id": "quest-t030",
+    "kind": "quest",
+    "zh": "顺路接勇士部落两任务",
+    "en": "Pick Up Both Perion Quests",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t031": {
+    "id": "quest-t031",
+    "kind": "quest",
+    "zh": "三任务共享击杀与松叶储备",
+    "en": "Shared Kills and Leaf Collection for Three Quests",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t032": {
+    "id": "quest-t032",
+    "kind": "quest",
+    "zh": "交勇士部落与内拉任务",
+    "en": "Turn In the Perion Quests and Nella's Request",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t033": {
+    "id": "quest-t033",
+    "kind": "quest",
+    "zh": "安德里亚的拜托与章鱼练级",
+    "en": "Andrea's Request and Octopus Training",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t034": {
+    "id": "quest-t034",
+    "kind": "quest",
+    "zh": "交安德里亚的拜托",
+    "en": "Turn In Andrea's Request",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t035": {
+    "id": "quest-t035",
+    "kind": "quest",
+    "zh": "飞侠练到19级",
+    "en": "Thief Training to Level 19",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t036": {
+    "id": "quest-t036",
+    "kind": "quest",
+    "zh": "阿勒斯的拜托／购买沙拉",
+    "en": "Alex's Request / Buy a Salad",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t037": {
+    "id": "quest-t037",
+    "kind": "quest",
+    "zh": "明明女士的第一个担心",
+    "en": "Mrs. Ming Ming's First Worry",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t038": {
+    "id": "quest-t038",
+    "kind": "quest",
+    "zh": "蓝蘑菇与守卫兵前置",
+    "en": "Blue Mushrooms and the Guard's Prerequisites",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t039": {
+    "id": "quest-t039",
+    "kind": "quest",
+    "zh": "绿蘑菇收集",
+    "en": "Green Mushroom Collection",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t040": {
+    "id": "quest-t040",
+    "kind": "quest",
+    "zh": "说服长老斯坦／母亲的金表",
+    "en": "Convince Chief Stan / Mother's Gold Watch",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t041": {
+    "id": "quest-t041",
+    "kind": "quest",
+    "zh": "青蛇与后续材料储备",
+    "en": "Jr. Neckis and Materials for Later Quests",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t042": {
+    "id": "quest-t042",
+    "kind": "quest",
+    "zh": "蝙蝠翅膀与补级",
+    "en": "Stirge Wings and Training",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t043": {
+    "id": "quest-t043",
+    "kind": "quest",
+    "zh": "交迷宫入口的守卫兵",
+    "en": "Turn In the Dungeon Entrance Guard's Quest",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t044": {
+    "id": "quest-t044",
+    "kind": "quest",
+    "zh": "射手村的玛亚",
+    "en": "Maya of Henesys",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t045": {
+    "id": "quest-t045",
+    "kind": "quest",
+    "zh": "找特奥",
+    "en": "Visit Teo",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t046": {
+    "id": "quest-t046",
+    "kind": "quest",
+    "zh": "闪耀石头的材料",
+    "en": "Making a Sparkling Rock",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t047": {
+    "id": "quest-t047",
+    "kind": "quest",
+    "zh": "变异蘑菇的血一",
+    "en": "Arcon's Blood?",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t048": {
+    "id": "quest-t048",
+    "kind": "quest",
+    "zh": "21 → 22 练级",
+    "en": "Train from Level 21 to 22",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t049": {
+    "id": "quest-t049",
+    "kind": "quest",
+    "zh": "药店老板的拜托",
+    "en": "Dr. Faymus's Request",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t050": {
+    "id": "quest-t050",
+    "kind": "quest",
+    "zh": "沼泽练级与收集",
+    "en": "Train and Gather Materials in the Swamp",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t051": {
+    "id": "quest-t051",
+    "kind": "quest",
+    "zh": "交药店老板的拜托",
+    "en": "Turn In Dr. Faymus's Request",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t052": {
+    "id": "quest-t052",
+    "kind": "quest",
+    "zh": "克里斯的拜托／曼斯塔的拜托",
+    "en": "Chris's Request / Cutthroat Manny's Request",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t053": {
+    "id": "quest-t053",
+    "kind": "quest",
+    "zh": "陌生女人的拜托",
+    "en": "Stranger's Request",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t054": {
+    "id": "quest-t054",
+    "kind": "quest",
+    "zh": "蝙蝠与镜子碎片",
+    "en": "Hunt Stirges and Collect Broken Mirror Glass",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t055": {
+    "id": "quest-t055",
+    "kind": "quest",
+    "zh": "陌生女人的真相",
+    "en": "Stranger's Identity",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t056": {
+    "id": "quest-t056",
+    "kind": "quest",
+    "zh": "蚂蚁洞出发前补药",
+    "en": "Restock Potions Before Entering the Ant Tunnel",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t057": {
+    "id": "quest-t057",
+    "kind": "quest",
+    "zh": "僵尸蘑菇／道符与长段练级",
+    "en": "Hunt Zombie Mushrooms, Collect Charms and Train",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t058": {
+    "id": "quest-t058",
+    "kind": "quest",
+    "zh": "火独眼兽与蚂蚁广场练级",
+    "en": "Hunt Evil Eyes and Train at Ant Tunnel Park",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t059": {
+    "id": "quest-t059",
+    "kind": "quest",
+    "zh": "交曼斯塔的拜托",
+    "en": "Turn In Cutthroat Manny's Request",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t060": {
+    "id": "quest-t060",
+    "kind": "quest",
+    "zh": "交陌生女人的真相",
+    "en": "Turn In Stranger's Identity",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t061": {
+    "id": "quest-t061",
+    "kind": "quest",
+    "zh": "28 → 30 练级",
+    "en": "Train from Level 28 to 30",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t062": {
+    "id": "quest-t062",
+    "kind": "quest",
+    "zh": "交变异蘑菇的血一",
+    "en": "Turn In Arcon's Blood?",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t063": {
+    "id": "quest-t063",
+    "kind": "quest",
+    "zh": "交血与材料／制作闪耀石头",
+    "en": "Deliver Arcon's Blood and Materials / Make a Sparkling Rock",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t064": {
+    "id": "quest-t064",
+    "kind": "quest",
+    "zh": "完成学徒的黑木妖计数",
+    "en": "Finish the Apprentice Quest's Dark Stump Kills",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t065": {
+    "id": "quest-t065",
+    "kind": "quest",
+    "zh": "送奇怪的药",
+    "en": "Delivering the Weird Medicine",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t066": {
+    "id": "quest-t066",
+    "kind": "quest",
+    "zh": "把药送给玛亚",
+    "en": "Deliver the Medicine to Maya",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t067": {
+    "id": "quest-t067",
+    "kind": "quest",
+    "zh": "玛亚的第一次收集",
+    "en": "Maya's First Collection",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t068": {
+    "id": "quest-t068",
+    "kind": "quest",
+    "zh": "飞侠的下一段旅程／寻找教官",
+    "en": "The Thief's Next Journey / Finding the Instructor",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t069": {
+    "id": "quest-t069",
+    "kind": "quest",
+    "zh": "交信／接资格测试",
+    "en": "Deliver the Letter and Accept the Test of Qualification",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t070": {
+    "id": "quest-t070",
+    "kind": "quest",
+    "zh": "飞侠二转考验",
+    "en": "Thief Second Job Advancement Test",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t071": {
+    "id": "quest-t071",
+    "kind": "quest",
+    "zh": "领取资格证明",
+    "en": "Collect the Proof of Qualification",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t072": {
+    "id": "quest-t072",
+    "kind": "quest",
+    "zh": "完成飞侠二转",
+    "en": "Complete the Thief Second Job Advancement",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t073": {
+    "id": "quest-t073",
+    "kind": "quest",
+    "zh": "二转后练到 32",
+    "en": "Reach Level 32 After the Second Job Advancement",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t074": {
+    "id": "quest-t074",
+    "kind": "quest",
+    "zh": "交学徒／制作石榴石",
+    "en": "Complete the Apprenticeship and Craft a Garnet",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t075": {
+    "id": "quest-t075",
+    "kind": "quest",
+    "zh": "秘密之书",
+    "en": "A Clue to the Secret Book",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t076": {
+    "id": "quest-t076",
+    "kind": "quest",
+    "zh": "第二个担心／胡小姐的拜托",
+    "en": "Mrs. Ming Ming's Second Worry / Estelle's Request",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t077": {
+    "id": "quest-t077",
+    "kind": "quest",
+    "zh": "胡小姐的特制酱油",
+    "en": "Estelle's Special Sauce",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t078": {
+    "id": "quest-t078",
+    "kind": "quest",
+    "zh": "肚子饿的洛尼",
+    "en": "Hungry Ronnie",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t079": {
+    "id": "quest-t079",
+    "kind": "quest",
+    "zh": "猴子与香蕉",
+    "en": "Hunt Lupins and Collect Bananas",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t080": {
+    "id": "quest-t080",
+    "kind": "quest",
+    "zh": "还是很饿的洛尼",
+    "en": "Still Hungry Ronnie",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t081": {
+    "id": "quest-t081",
+    "kind": "quest",
+    "zh": "收集风独眼兽之尾",
+    "en": "Collect Curse Eye Tails",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t082": {
+    "id": "quest-t082",
+    "kind": "quest",
+    "zh": "找丽娜／特制烤鳗鱼的秘密",
+    "en": "Speak to Rina / Secret to Unagi Special",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t083": {
+    "id": "quest-t083",
+    "kind": "quest",
+    "zh": "交特制酱油",
+    "en": "Deliver Estelle's Special Sauce",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t084": {
+    "id": "quest-t084",
+    "kind": "quest",
+    "zh": "鳗鱼特餐／口渴的洛尼",
+    "en": "Rina's Unagi Special / Thirsty Ronnie",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t085": {
+    "id": "quest-t085",
+    "kind": "quest",
+    "zh": "牛奶",
+    "en": "Cold Milk",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t086": {
+    "id": "quest-t086",
+    "kind": "quest",
+    "zh": "准备一颗钻石",
+    "en": "Obtain a Diamond",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t087": {
+    "id": "quest-t087",
+    "kind": "quest",
+    "zh": "心满意足的洛尼",
+    "en": "Satisfied Ronnie",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t088": {
+    "id": "quest-t088",
+    "kind": "quest",
+    "zh": "秘密之书回收",
+    "en": "Returned Secret Book",
+    "note": "游戏任务英文名，按 Classic World 任务资料核对。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
+  },
+  "t089": {
+    "id": "quest-t089",
+    "kind": "quest",
+    "zh": "交秘密之书，领取桑拿服",
+    "en": "Turn In the Secret Book and Collect a Sauna Robe",
+    "note": "攻略步骤标题的说明性英文；不代表单个游戏任务的正式名称。",
+    "source": "https://www.bilibili.com/video/BV1gQad6ZEJV/"
   }
 }

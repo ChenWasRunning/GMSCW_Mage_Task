@@ -300,5 +300,59 @@
     "source": "https://maplestory.io/api/GMS/83/item/1050018/icon",
     "category": "装备",
     "note": "蓝色男款图示；女性奖励红色款。"
+  },
+  "沙拉": {
+    "path": "assets/items/2020000.png",
+    "english": "Salad",
+    "source": "https://kafuffu20.com/classic-world/data/icons/items/2020000.png",
+    "category": "消耗"
+  },
+  "蘑菇芽孢": {
+    "path": "assets/items/4000003.png",
+    "english": "Mushroom Spore",
+    "source": "https://kafuffu20.com/classic-world/data/icons/items/4000003.png",
+    "category": "其他"
+  },
+  "树枝": {
+    "path": "assets/items/4000005.png",
+    "english": "Tree Branch",
+    "source": "https://kafuffu20.com/classic-world/data/icons/items/4000005.png",
+    "category": "其他"
+  },
+  "蝙蝠翅膀": {
+    "path": "assets/items/4000017.png",
+    "english": "Stirge Wing",
+    "source": "https://kafuffu20.com/classic-world/data/icons/items/4000017.png",
+    "category": "其他"
+  },
+  "武术教练的信件": {
+    "path": "assets/items/4031013.png",
+    "english": "Dances with Balrog's Letter",
+    "source": "https://kafuffu20.com/classic-world/data/icons/items/4031013.png",
+    "category": "其他"
+  },
+  "赫丽娜的信件": {
+    "path": "assets/items/4031015.png",
+    "english": "Athena Pierce's Letter",
+    "source": "https://kafuffu20.com/classic-world/data/icons/items/4031015.png",
+    "category": "其他"
+  },
+  "达克鲁的信件": {
+    "path": "assets/items/4031016.png",
+    "english": "The Dark Lord's Letter",
+    "source": "https://kafuffu20.com/classic-world/data/icons/items/4031016.png",
+    "category": "其他"
+  },
+  "射手村回城卷": {
+    "path": "assets/items/2030004.png",
+    "english": "Return Scroll to Henesys",
+    "source": "https://kafuffu20.com/classic-world/data/icons/items/2030004.png",
+    "category": "消耗"
+  },
+  "废弃都市回城卷": {
+    "path": "assets/items/2030005.png",
+    "english": "Return Scroll to Kerning City",
+    "source": "https://kafuffu20.com/classic-world/data/icons/items/2030005.png",
+    "category": "消耗"
   }
 }
