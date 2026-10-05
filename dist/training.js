@@ -26,7 +26,36 @@ const bands=[
  ['魔法森林南部','约 25 级 · 省药回补','绿水灵＋绿蘑菇树洞可作为低成本备选，效率较慢。'],
  ['魔法密林','刺蘑菇树洞 · 补资金','作者会从高药费地图回到魔法密林的刺蘑菇树洞积累金币；文本未明确树洞编号。']]}
 ];
+const extra=root.MAGE_TRAINING_EXTRA;
+const urls={A:'https://www.youtube.com/watch?v=gUTSUmXTTkM',B:'https://www.youtube.com/watch?v=-WmSz0pQkUo'};
+const sourceNames={A:'攻略 A · 省药／分流',B:'攻略 B · 效率／1–70'};
+let manual='auto',job='all',currentTask=null;
+try{const saved=JSON.parse(localStorage.getItem('mage-training-view')||'{}');if(saved.level==='auto'||Number.isInteger(Number(saved.level))&&Number(saved.level)>=1&&Number(saved.level)<=70)manual=String(saved.level);if(['all','ice','fire','cleric'].includes(saved.job))job=saved.job;}catch{}
+function remember(){try{localStorage.setItem('mage-training-view',JSON.stringify({level:manual,job}));}catch{}}
 function select(task){const level=Number(String(task?.level||'').match(/\d+/)?.[0]);return bands.find(b=>level>=b.min&&level<=b.max)||null;}
-function render(task){const box=document.getElementById('training-recommendations');box.replaceChildren();const add=(tag,cls,text)=>{const e=document.createElement(tag);e.className=cls;e.textContent=text;return e;};box.append(add('h3','','推荐练级地图'));if(!task){box.append(add('p','training-note','路线已完成。此视频的练级建议覆盖至 30 级。'));return;}const band=select(task);box.append(add('p','training-level','当前任务等级：'+task.level));if(!band){box.append(add('p','training-note','视频只覆盖至 30 级，暂不据此推断 31 级以上的练级地图。'));return;}box.append(add('p','training-band',band.label));const list=add('ul','training-list','');for(const [name,tag,description]of band.maps){const row=add('li','','');row.append(add('strong','training-map',name),add('span','training-tag',tag),add('p','',description));list.append(row);}box.append(list,add('p','training-note',band.note),add('p','training-note','按当前任务标注等级匹配（等级区间取起始等级），不读取角色实际等级。优先选择能一至两下击败、与自身相差约 10 级以内的怪物；药费过高时换图。'));const credit=add('p','training-source','根据所提供的视频文本整理 · ');const a=add('a','','查看原视频');a.href='https://www.youtube.com/watch?v=gUTSUmXTTkM';a.target='_blank';a.rel='noopener noreferrer';credit.append(a);box.append(credit);}
-root.MageTraining={select,render};
+function recommendations(level,branch='all'){
+ const band=select({level});const old=band?band.maps.map(([name,tag,text])=>({name,tag,text,source:'A',jobs:['all']})):[];
+ // The second transcript identifies the construction-site entrance explicitly.
+ const clean=old.filter(t=>t.name!=='废都北方工地').map(t=>t.tag.startsWith('绿水灵树洞')?{...t,name:'南部森林训练场Ⅰ',text:t.text+' 攻略 B 已明确此树洞名称。'}:t);
+ return [...extra.filter(t=>level>=t.min&&level<=t.max&&(branch==='all'||t.jobs.includes('all')||t.jobs.includes(branch))),...clean];
+}
+const add=(tag,cls,text)=>{const e=document.createElement(tag);e.className=cls;if(text!==undefined)e.textContent=text;return e;};
+function link(source){const a=add('a','',sourceNames[source]);a.href=urls[source];a.target='_blank';a.rel='noopener noreferrer';return a;}
+function render(task){
+ currentTask=task;const box=document.getElementById('training-recommendations');box.replaceChildren();box.append(add('h3','','推荐练级地图 · Lv. 1–70'));
+ const controls=add('div','training-controls');const levelLabel=add('label','','查看等级 '),levelSelect=add('select','');levelSelect.id='training-level-select';const auto=add('option','','跟随当前任务');auto.value='auto';levelSelect.append(auto);for(let n=1;n<=70;n++){const o=add('option','','Lv. '+n);o.value=String(n);levelSelect.append(o);}levelSelect.value=manual;levelLabel.append(levelSelect);
+ const jobLabel=add('label','','法师分支 '),jobSelect=add('select','');jobSelect.id='training-job-select';for(const [value,name]of [['all','全部法师'],['ice','冰雷'],['fire','火毒'],['cleric','牧师']]){const o=add('option','',name);o.value=value;jobSelect.append(o);}jobSelect.value=job;jobLabel.append(jobSelect);controls.append(levelLabel,jobLabel);box.append(controls);
+ const refresh=()=>{remember();MageGlossary.close();render(currentTask);MageGlossary.decorate(box);};levelSelect.addEventListener('change',()=>{manual=levelSelect.value;refresh();document.getElementById('training-level-select').focus();});jobSelect.addEventListener('change',()=>{job=jobSelect.value;refresh();document.getElementById('training-job-select').focus();});
+ const level=manual==='auto'?(Number(String(task?.level||'32').match(/\d+/)?.[0])||32):Number(manual);
+ box.append(add('p','training-level',manual==='auto'?(task?'当前任务等级：'+task.level:'任务路线已完成 · 从 Lv. 32 继续刷怪'):'手动查看：Lv. '+level),add('p','training-note','等级选择只切换练级建议，不改变任务进度或材料背包。32–70 级为独立刷怪路线，可随时选级查看，不必先完成原任务。'));
+ if(level>=32)box.append(add('p','training-band','Lv. '+level+' · 纯刷怪路线'));
+ const list=add('ul','training-list');for(const item of recommendations(level,job)){const row=add('li','');row.append(add('strong','training-map',item.name),add('span','training-tag',item.tag),add('p','',item.text));const credit=add('p','training-source');credit.append(link(item.source));row.append(credit);list.append(row);}box.append(list);
+ if(level>=60)box.append(add('p','training-note','60–70 级：攻略 B 明确建议，纯经验通常更适合继续刷 50 级段地图；火龙和寺院深处主要是打宝备选，不能当成更快升级的保证。'));
+ else if(level>=21&&level<=30)box.append(add('p','training-note','两份攻略都降低了废弃都市组队任务本身的经验优先级，但认可奖励关卡练级。这只是 21–30 级的可选补充。'));
+ box.append(add('p','training-note','建议来自两份视频文本，不是实时刷怪／掉落数据。部分等级区间为整理建议；以实际击杀速度和药耗调整。高等级新区域只标注所属区域，中文译名待核实处已说明。'));
+ const compare=add('details','training-comparison');compare.append(add('summary','','两份攻略差别大吗？'));compare.append(add('p','','整体方向一致，主要是取舍不同：A 偏避开拥挤、少耗药；B 偏刷怪效率、分层站位和掉落，并延伸至 70 级。'));
+ const comparison=add('ul','');for(const text of ['低等级：A 推荐射手训练场Ⅱ、西部树林等替代点；B 优先介绍训练场Ⅰ、绿水灵树洞、猪的海岸、坠落注意。','蓝水灵：A 的战士体验偏耗药；B 强调怪物密度与组队空间，适合与否取决于职业和站位。','黑森林沼泽：A 约 20 级起，B 为 22–27 级；不是精确的准入等级。','蚂蚁洞：两份都认可以蚂蚁洞四替代拥挤的一号地图。','入口修正：B 明确坠落注意从废都南方工地顶部进入，修正 A 转录中“北方工地”的模糊说法。','60 级后：B 区分经验与打宝；纯升级继续刷较弱怪物常更合适。'])comparison.append(add('li','',text));compare.append(comparison);const credits=add('p','training-source');credits.append(link('A'),document.createTextNode(' · '),link('B'));compare.append(credits);box.append(compare);
+ const route=add('details','training-roadmap');route.append(add('summary','','32–70 级纯刷怪路线总览'));for(const [n,title,text]of [[32,'32–39','火焰之地二；火毒／牧师可选小幽灵，冰雷可选火独眼兽洞穴。'],[40,'40–44','冰雷：危险的峡谷；火毒／牧师：死亡山谷；通用：龙族打猎场。'],[45,'45–49','延续上一段；牧师可试幽灵，48 级左右可考虑流光尽头。'],[50,'50–54','石人寺院入口、流光尽头；牧师可继续幽灵。'],[55,'55–59','石人寺院入口、流光尽头；牧师可试另一处圣域。'],[60,'60–64','以低等级地图的击杀效率为主；火龙仅为打宝备选。'],[65,'65–70','延续效率路线；寺院深处偏打宝且耗药，不强制换图。']]){const row=add('p','');const button=add('button','training-jump','Lv. '+title);button.type='button';button.addEventListener('click',()=>{manual=String(n);refresh();document.getElementById('training-level-select').focus();});row.append(button,document.createTextNode(' '+text));route.append(row);}box.append(route);
+}
+root.MageTraining={select,recommendations,render};
 })(window);

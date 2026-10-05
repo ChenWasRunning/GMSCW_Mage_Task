@@ -2494,6 +2494,162 @@
         "node": "Henesys Hunting Ground I",
         "mode": "entrance"
       }
+    },
+    {
+      "id": "map-training-10001010",
+      "kind": "map",
+      "zh": "射手训练场Ⅰ",
+      "en": "Henesys Hunting Ground I",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10001010/",
+      "location": {
+        "node": "Henesys Hunting Ground I",
+        "mode": "exact"
+      },
+      "note": ""
+    },
+    {
+      "id": "map-training-10002031",
+      "kind": "map",
+      "zh": "南部森林训练场Ⅰ",
+      "en": "Dungeon, Southern Forest I",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10002031/",
+      "location": {
+        "node": "The Forest South of Ellinia",
+        "mode": "entrance"
+      },
+      "note": "大地图标记为入口／所属区域，不是此内部地图的精确坐标。"
+    },
+    {
+      "id": "map-training-10000021",
+      "kind": "map",
+      "zh": "猪的海岸",
+      "en": "The Pig Beach",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10000021/",
+      "location": {
+        "node": "3-Way Road-Split",
+        "mode": "entrance"
+      },
+      "note": "大地图标记为入口／所属区域，不是此内部地图的精确坐标。"
+    },
+    {
+      "id": "map-training-10005071",
+      "kind": "map",
+      "zh": "火独眼兽洞穴Ⅰ",
+      "en": "The Cave of Evil Eye I",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10005071/",
+      "location": {
+        "node": "Sleepywood",
+        "mode": "entrance"
+      },
+      "note": "大地图标记为入口／所属区域，不是此内部地图的精确坐标。"
+    },
+    {
+      "id": "map-training-10004101",
+      "kind": "map",
+      "zh": "危险的峡谷",
+      "en": "Dangerous Valley",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10004101/",
+      "location": {
+        "node": "Perion Street Corner",
+        "mode": "entrance"
+      },
+      "note": "大地图标记为入口／所属区域，不是此内部地图的精确坐标。"
+    },
+    {
+      "id": "map-training-10005075",
+      "kind": "map",
+      "zh": "龙族打猎场",
+      "en": "Drake Hunting Ground",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10005075/",
+      "location": {
+        "node": "Sleepywood",
+        "mode": "entrance"
+      },
+      "note": "大地图标记为入口／所属区域，不是此内部地图的精确坐标。"
+    },
+    {
+      "id": "map-training-10001102",
+      "kind": "map",
+      "zh": "石人寺院入口",
+      "en": "The Entrance of Golem's Temple",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10001102/",
+      "location": {
+        "node": "The Road to the Dungeon",
+        "mode": "entrance"
+      },
+      "note": "大地图标记为入口／所属区域，不是此内部地图的精确坐标。"
+    },
+    {
+      "id": "map-training-10004102",
+      "kind": "map",
+      "zh": "危险的峡谷Ⅱ",
+      "en": "Dangerous Valley II",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10004102/",
+      "location": {
+        "node": "Perion Street Corner",
+        "mode": "entrance"
+      },
+      "note": "大地图标记为入口／所属区域，不是此内部地图的精确坐标。"
+    },
+    {
+      "id": "map-guide-region-0",
+      "kind": "map",
+      "zh": "死亡山谷",
+      "en": "The Valley of Death",
+      "source": "https://www.youtube.com/watch?v=-WmSz0pQkUo",
+      "note": "中文名为说明性翻译；地图英文名来自视频。 大地图仅标记所属区域。",
+      "location": {
+        "node": "Forgotten Hollow",
+        "mode": "entrance"
+      }
+    },
+    {
+      "id": "map-guide-region-1",
+      "kind": "map",
+      "zh": "流光尽头",
+      "en": "End of Fleeting Light",
+      "source": "https://www.youtube.com/watch?v=-WmSz0pQkUo",
+      "note": "中文名为说明性翻译；地图英文名来自视频。 大地图仅标记所属区域。",
+      "location": {
+        "node": "Forgotten Hollow",
+        "mode": "entrance"
+      }
+    },
+    {
+      "id": "map-guide-region-2",
+      "kind": "map",
+      "zh": "另一处圣域",
+      "en": "Another Sanctuary",
+      "source": "https://www.youtube.com/watch?v=-WmSz0pQkUo",
+      "note": "中文名为说明性翻译；地图英文名来自视频。 大地图仅标记所属区域。",
+      "location": {
+        "node": "Forgotten Hollow",
+        "mode": "entrance"
+      }
+    },
+    {
+      "id": "map-guide-region-3",
+      "kind": "map",
+      "zh": "地铁深处幽灵区",
+      "en": "Wraith training area",
+      "source": "https://www.youtube.com/watch?v=-WmSz0pQkUo",
+      "note": "区域说明，并非已核实的独立地图名；视频未给出编号。 大地图仅标记所属区域。",
+      "location": {
+        "node": "Kerning City",
+        "mode": "entrance"
+      }
+    },
+    {
+      "id": "map-guide-region-4",
+      "kind": "map",
+      "zh": "寺院深处",
+      "en": "Sanctuary — Tauromacis / Taurospear",
+      "source": "https://www.youtube.com/watch?v=-WmSz0pQkUo",
+      "note": "区域说明；视频未指定唯一练级地图。 大地图仅标记所属区域。",
+      "location": {
+        "node": "Sleepywood",
+        "mode": "entrance"
+      }
     }
   ],
   "display": {

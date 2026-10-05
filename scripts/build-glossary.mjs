@@ -15,3 +15,6 @@ for(const term of glossary.terms){
 }
 await writeFile('dist/glossary-data.js','window.MAGE_GLOSSARY='+JSON.stringify({...glossary,atlas,taskTitles})+';\n');
 console.log(`Built ${ids.size} terms, ${aliases.size} names and ${Object.keys(atlas.nodes).length} map landmarks.`);
+
+const training=JSON.parse(await readFile('data/training-extra.json','utf8'));
+await writeFile('dist/training-extra.js','window.MAGE_TRAINING_EXTRA='+JSON.stringify(training)+';\n');
