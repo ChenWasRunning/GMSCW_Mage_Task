@@ -1,5 +1,5 @@
 {
-  "checkedOn": "2026-10-03",
+  "checkedOn": "2026-10-05",
   "terms": [
     {
       "zh": "希娜",
@@ -10,21 +10,26 @@
       "image": "assets/npcs/1.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/1.png",
       "imageWidth": 56,
-      "imageHeight": 55
+      "imageHeight": 55,
+      "verifiedName": "希娜",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
-      "zh": "莎莉",
+      "zh": "莎丽",
       "en": "Sera",
       "kind": "npc",
       "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/2/",
       "aliases": [
-        "莎丽"
+        "莎莉"
       ],
       "id": "npc-2",
       "image": "assets/npcs/2.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/2.png",
       "imageWidth": 51,
-      "imageHeight": 67
+      "imageHeight": 67,
+      "verifiedName": "莎丽",
+      "nameCheckedOn": "2026-10-05"
     },
     {
       "zh": "罗杰",
@@ -35,7 +40,10 @@
       "image": "assets/npcs/3.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/3.png",
       "imageWidth": 56,
-      "imageHeight": 70
+      "imageHeight": 70,
+      "verifiedName": "罗杰",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "zh": "妮娜",
@@ -46,35 +54,42 @@
       "image": "assets/npcs/4.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/4.png",
       "imageWidth": 65,
-      "imageHeight": 74
+      "imageHeight": 74,
+      "verifiedName": "妮娜",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
-      "zh": "山",
+      "zh": "珊",
       "en": "Sen",
       "kind": "npc",
       "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/5/",
       "aliases": [
-        "珊"
+        "山"
       ],
       "id": "npc-5",
       "image": "assets/npcs/5.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/5.png",
       "imageWidth": 40,
-      "imageHeight": 58
+      "imageHeight": 58,
+      "verifiedName": "珊",
+      "nameCheckedOn": "2026-10-05"
     },
     {
-      "zh": "比特",
+      "zh": "彼特",
       "en": "Peter",
       "kind": "npc",
       "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/6/",
       "aliases": [
-        "彼特"
+        "比特"
       ],
       "id": "npc-6",
       "image": "assets/npcs/6.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/6.png",
       "imageWidth": 52,
-      "imageHeight": 70
+      "imageHeight": 70,
+      "verifiedName": "彼特",
+      "nameCheckedOn": "2026-10-05"
     },
     {
       "zh": "透德",
@@ -85,10 +100,13 @@
       "image": "assets/npcs/7.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/7.png",
       "imageWidth": 52,
-      "imageHeight": 70
+      "imageHeight": 70,
+      "verifiedName": "透德",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
-      "zh": "萨姆",
+      "zh": "叁",
       "en": "Sam",
       "kind": "npc",
       "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/9/",
@@ -96,21 +114,28 @@
       "image": "assets/npcs/9.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/9.png",
       "imageWidth": 52,
-      "imageHeight": 70
+      "imageHeight": 70,
+      "verifiedName": "叁",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": [
+        "萨姆"
+      ]
     },
     {
-      "zh": "玛利亚",
+      "zh": "玛丽亚",
       "en": "Maria",
       "kind": "npc",
       "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/10/",
       "aliases": [
-        "玛丽亚"
+        "玛利亚"
       ],
       "id": "npc-9",
       "image": "assets/npcs/10.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/10.png",
       "imageWidth": 51,
-      "imageHeight": 67
+      "imageHeight": 67,
+      "verifiedName": "玛丽亚",
+      "nameCheckedOn": "2026-10-05"
     },
     {
       "zh": "麦加",
@@ -121,7 +146,10 @@
       "image": "assets/npcs/11.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/11.png",
       "imageWidth": 54,
-      "imageHeight": 80
+      "imageHeight": 80,
+      "verifiedName": "麦加",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "zh": "比格斯",
@@ -132,7 +160,10 @@
       "image": "assets/npcs/12.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/12.png",
       "imageWidth": 46,
-      "imageHeight": 67
+      "imageHeight": 67,
+      "verifiedName": "比格斯",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "zh": "桑克斯",
@@ -143,10 +174,13 @@
       "image": "assets/npcs/15.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/15.png",
       "imageWidth": 67,
-      "imageHeight": 77
+      "imageHeight": 77,
+      "verifiedName": "桑克斯",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
-      "zh": "卢卡斯",
+      "zh": "路卡斯",
       "en": "Lucas",
       "kind": "npc",
       "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/17/",
@@ -154,7 +188,12 @@
       "image": "assets/npcs/17.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/17.png",
       "imageWidth": 51,
-      "imageHeight": 73
+      "imageHeight": 73,
+      "verifiedName": "路卡斯",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": [
+        "卢卡斯"
+      ]
     },
     {
       "zh": "皮奥",
@@ -165,7 +204,10 @@
       "image": "assets/npcs/18.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/18.png",
       "imageWidth": 52,
-      "imageHeight": 68
+      "imageHeight": 68,
+      "verifiedName": "皮奥",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "zh": "瑞恩",
@@ -176,7 +218,10 @@
       "image": "assets/npcs/19.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/19.png",
       "imageWidth": 56,
-      "imageHeight": 55
+      "imageHeight": 55,
+      "verifiedName": "瑞恩",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "zh": "比尔",
@@ -187,7 +232,10 @@
       "image": "assets/npcs/101.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/101.png",
       "imageWidth": 56,
-      "imageHeight": 70
+      "imageHeight": 70,
+      "verifiedName": "比尔",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "zh": "特奥",
@@ -198,7 +246,10 @@
       "image": "assets/npcs/102.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/102.png",
       "imageWidth": 50,
-      "imageHeight": 78
+      "imageHeight": 78,
+      "verifiedName": "特奥",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "zh": "简",
@@ -209,7 +260,10 @@
       "image": "assets/npcs/103.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/103.png",
       "imageWidth": 65,
-      "imageHeight": 74
+      "imageHeight": 74,
+      "verifiedName": "简",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "zh": "坤",
@@ -220,7 +274,10 @@
       "image": "assets/npcs/107.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/107.png",
       "imageWidth": 66,
-      "imageHeight": 85
+      "imageHeight": 85,
+      "verifiedName": "坤",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "zh": "丽娜",
@@ -231,7 +288,10 @@
       "image": "assets/npcs/201.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/201.png",
       "imageWidth": 51,
-      "imageHeight": 67
+      "imageHeight": 67,
+      "verifiedName": "丽娜",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "zh": "明明女士",
@@ -242,7 +302,10 @@
       "image": "assets/npcs/203.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/203.png",
       "imageWidth": 47,
-      "imageHeight": 69
+      "imageHeight": 69,
+      "verifiedName": "明明女士",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "zh": "玛亚",
@@ -253,7 +316,10 @@
       "image": "assets/npcs/207.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/207.png",
       "imageWidth": 46,
-      "imageHeight": 77
+      "imageHeight": 77,
+      "verifiedName": "玛亚",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "zh": "皮亚",
@@ -264,7 +330,10 @@
       "image": "assets/npcs/218.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/218.png",
       "imageWidth": 53,
-      "imageHeight": 58
+      "imageHeight": 58,
+      "verifiedName": "皮亚",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "zh": "鲁克",
@@ -275,7 +344,10 @@
       "image": "assets/npcs/226.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/226.png",
       "imageWidth": 63,
-      "imageHeight": 88
+      "imageHeight": 88,
+      "verifiedName": "鲁克",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "zh": "胡小姐",
@@ -286,10 +358,13 @@
       "image": "assets/npcs/300.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/300.png",
       "imageWidth": 38,
-      "imageHeight": 52
+      "imageHeight": 52,
+      "verifiedName": "胡小姐",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
-      "zh": "妖精罗雯",
+      "zh": "妖精 罗雯",
       "en": "Rowen the Fairy",
       "kind": "npc",
       "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/305/",
@@ -297,21 +372,28 @@
       "image": "assets/npcs/305.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/305.png",
       "imageWidth": 58,
-      "imageHeight": 62
+      "imageHeight": 62,
+      "verifiedName": "妖精 罗雯",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": [
+        "妖精罗雯"
+      ]
     },
     {
-      "zh": "塞恩",
+      "zh": "赛恩",
       "en": "Shane",
       "kind": "npc",
       "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/306/",
       "aliases": [
-        "赛恩"
+        "塞恩"
       ],
       "id": "npc-27",
       "image": "assets/npcs/306.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/306.png",
       "imageWidth": 56,
-      "imageHeight": 70
+      "imageHeight": 70,
+      "verifiedName": "赛恩",
+      "nameCheckedOn": "2026-10-05"
     },
     {
       "zh": "妖精维英",
@@ -322,7 +404,10 @@
       "image": "assets/npcs/309.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/309.png",
       "imageWidth": 57,
-      "imageHeight": 74
+      "imageHeight": 74,
+      "verifiedName": "妖精维英",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "zh": "汉斯",
@@ -333,21 +418,26 @@
       "image": "assets/npcs/313.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/313.png",
       "imageWidth": 77,
-      "imageHeight": 150
+      "imageHeight": 150,
+      "verifiedName": "汉斯",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
-      "zh": "转职教官",
+      "zh": "魔法师转职教官",
       "en": "Magician Job Instructor",
       "kind": "npc",
       "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/319/",
       "aliases": [
-        "魔法师转职教官"
+        "转职教官"
       ],
       "id": "npc-30",
       "image": "assets/npcs/319.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/319.png",
       "imageWidth": 67,
-      "imageHeight": 87
+      "imageHeight": 87,
+      "verifiedName": "魔法师转职教官",
+      "nameCheckedOn": "2026-10-05"
     },
     {
       "zh": "洛尼",
@@ -358,21 +448,26 @@
       "image": "assets/npcs/320.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/320.png",
       "imageWidth": 40,
-      "imageHeight": 58
+      "imageHeight": 58,
+      "verifiedName": "洛尼",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
-      "zh": "秀咪",
+      "zh": "休咪",
       "en": "Shumi",
       "kind": "npc",
       "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/403/",
       "aliases": [
-        "休咪"
+        "秀咪"
       ],
       "id": "npc-32",
       "image": "assets/npcs/403.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/403.png",
       "imageWidth": 63,
-      "imageHeight": 57
+      "imageHeight": 57,
+      "verifiedName": "休咪",
+      "nameCheckedOn": "2026-10-05"
     },
     {
       "zh": "内拉",
@@ -383,7 +478,10 @@
       "image": "assets/npcs/406.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/406.png",
       "imageWidth": 44,
-      "imageHeight": 66
+      "imageHeight": 66,
+      "verifiedName": "内拉",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "zh": "曼斯塔",
@@ -394,7 +492,10 @@
       "image": "assets/npcs/408.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/408.png",
       "imageWidth": 59,
-      "imageHeight": 91
+      "imageHeight": 91,
+      "verifiedName": "曼斯塔",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "zh": "不认识的女人",
@@ -408,7 +509,9 @@
       "image": "assets/npcs/412.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/412.png",
       "imageWidth": 62,
-      "imageHeight": 81
+      "imageHeight": 81,
+      "verifiedName": "不认识的女人",
+      "nameCheckedOn": "2026-10-05"
     },
     {
       "zh": "安德里亚",
@@ -419,10 +522,13 @@
       "image": "assets/npcs/414.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/414.png",
       "imageWidth": 65,
-      "imageHeight": 76
+      "imageHeight": 76,
+      "verifiedName": "安德里亚",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
-      "zh": "克里斯",
+      "zh": "克利思",
       "en": "Chris",
       "kind": "npc",
       "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/415/",
@@ -430,7 +536,12 @@
       "image": "assets/npcs/415.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/415.png",
       "imageWidth": 52,
-      "imageHeight": 68
+      "imageHeight": 68,
+      "verifiedName": "克利思",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": [
+        "克里斯"
+      ]
     },
     {
       "zh": "麦吉",
@@ -441,66 +552,78 @@
       "image": "assets/npcs/502.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/502.png",
       "imageWidth": 78,
-      "imageHeight": 79
+      "imageHeight": 79,
+      "verifiedName": "麦吉",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
-      "zh": "索菲亚",
+      "zh": "索非亚",
       "en": "Sophia",
       "kind": "npc",
       "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/510/",
       "aliases": [
-        "索非亚"
+        "索菲亚"
       ],
       "id": "npc-39",
       "image": "assets/npcs/510.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/510.png",
       "imageWidth": 45,
-      "imageHeight": 75
+      "imageHeight": 75,
+      "verifiedName": "索非亚",
+      "nameCheckedOn": "2026-10-05"
     },
     {
-      "zh": "克里斯拉玛",
+      "zh": "克利斯拉玛",
       "en": "Chrishrama",
       "kind": "npc",
       "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/602/",
       "aliases": [
-        "克利斯拉玛"
+        "克里斯拉玛"
       ],
       "id": "npc-40",
       "image": "assets/npcs/602.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/602.png",
       "imageWidth": 71,
-      "imageHeight": 71
+      "imageHeight": 71,
+      "verifiedName": "克利斯拉玛",
+      "nameCheckedOn": "2026-10-05"
     },
     {
-      "zh": "泰索夫",
+      "zh": "泰素夫",
       "en": "Mr. Wetbottom",
       "kind": "npc",
       "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/608/",
       "aliases": [
-        "泰素夫"
+        "泰索夫"
       ],
       "id": "npc-41",
       "image": "assets/npcs/608.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/608.png",
       "imageWidth": 54,
-      "imageHeight": 72
+      "imageHeight": 72,
+      "verifiedName": "泰素夫",
+      "nameCheckedOn": "2026-10-05"
     },
     {
-      "zh": "高级出租车",
+      "zh": "明珠港星级出租车",
       "en": "VIP Cab",
       "kind": "npc",
       "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/104/",
       "aliases": [
+        "高级出租车",
         "星级出租车"
       ],
       "id": "npc-42",
       "image": "assets/npcs/104.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/104.png",
       "imageWidth": 167,
-      "imageHeight": 93
+      "imageHeight": 93,
+      "verifiedName": "明珠港星级出租车",
+      "nameCheckedOn": "2026-10-05"
     },
     {
-      "zh": "出租车",
+      "zh": "金银岛中巴",
       "en": "Regular Cab",
       "kind": "npc",
       "source": "https://kafuffu20.com/classic-world/zh-cn/npcs/200/",
@@ -508,7 +631,12 @@
       "image": "assets/npcs/200.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/npcs/200.png",
       "imageWidth": 122,
-      "imageHeight": 90
+      "imageHeight": 90,
+      "verifiedName": "金银岛中巴",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": [
+        "出租车"
+      ]
     },
     {
       "zh": "特殊小石球",
@@ -522,7 +650,9 @@
       "image": "assets/monsters/1.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/1.png",
       "imageWidth": 40,
-      "imageHeight": 68
+      "imageHeight": 68,
+      "verifiedName": "特殊小石球",
+      "nameCheckedOn": "2026-10-05"
     },
     {
       "zh": "蜗牛",
@@ -533,7 +663,10 @@
       "image": "assets/monsters/2.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/2.png",
       "imageWidth": 37,
-      "imageHeight": 26
+      "imageHeight": 26,
+      "verifiedName": "蜗牛",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "zh": "蓝蜗牛",
@@ -544,7 +677,10 @@
       "image": "assets/monsters/3.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/3.png",
       "imageWidth": 35,
-      "imageHeight": 34
+      "imageHeight": 34,
+      "verifiedName": "蓝蜗牛",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "zh": "蘑菇仔",
@@ -555,7 +691,10 @@
       "image": "assets/monsters/4.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/4.png",
       "imageWidth": 36,
-      "imageHeight": 36
+      "imageHeight": 36,
+      "verifiedName": "蘑菇仔",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "zh": "红蜗牛",
@@ -566,7 +705,10 @@
       "image": "assets/monsters/5.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/5.png",
       "imageWidth": 35,
-      "imageHeight": 34
+      "imageHeight": 34,
+      "verifiedName": "红蜗牛",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "zh": "木妖",
@@ -577,7 +719,10 @@
       "image": "assets/monsters/6.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/6.png",
       "imageWidth": 62,
-      "imageHeight": 51
+      "imageHeight": 51,
+      "verifiedName": "木妖",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "zh": "绿水灵",
@@ -588,7 +733,10 @@
       "image": "assets/monsters/7.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/7.png",
       "imageWidth": 64,
-      "imageHeight": 49
+      "imageHeight": 49,
+      "verifiedName": "绿水灵",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "zh": "猪猪",
@@ -599,7 +747,10 @@
       "image": "assets/monsters/8.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/8.png",
       "imageWidth": 68,
-      "imageHeight": 40
+      "imageHeight": 40,
+      "verifiedName": "猪猪",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "zh": "花蘑菇",
@@ -610,21 +761,26 @@
       "image": "assets/monsters/9.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/9.png",
       "imageWidth": 63,
-      "imageHeight": 58
+      "imageHeight": 58,
+      "verifiedName": "花蘑菇",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
-      "zh": "飘飘猪",
+      "zh": "漂漂猪",
       "en": "Ribbon Pig",
       "kind": "monster",
       "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/10/",
       "aliases": [
-        "漂漂猪"
+        "飘飘猪"
       ],
       "id": "monster-10",
       "image": "assets/monsters/10.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/10.png",
       "imageWidth": 68,
-      "imageHeight": 49
+      "imageHeight": 49,
+      "verifiedName": "漂漂猪",
+      "nameCheckedOn": "2026-10-05"
     },
     {
       "zh": "黑木妖",
@@ -635,7 +791,10 @@
       "image": "assets/monsters/11.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/11.png",
       "imageWidth": 62,
-      "imageHeight": 51
+      "imageHeight": 51,
+      "verifiedName": "黑木妖",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "zh": "三眼章鱼",
@@ -649,7 +808,9 @@
       "image": "assets/monsters/12.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/12.png",
       "imageWidth": 62,
-      "imageHeight": 69
+      "imageHeight": 69,
+      "verifiedName": "三眼章鱼",
+      "nameCheckedOn": "2026-10-05"
     },
     {
       "zh": "绿蘑菇",
@@ -660,7 +821,10 @@
       "image": "assets/monsters/13.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/13.png",
       "imageWidth": 56,
-      "imageHeight": 52
+      "imageHeight": 52,
+      "verifiedName": "绿蘑菇",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "zh": "蓝水灵",
@@ -671,7 +835,10 @@
       "image": "assets/monsters/14.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/14.png",
       "imageWidth": 69,
-      "imageHeight": 49
+      "imageHeight": 49,
+      "verifiedName": "蓝水灵",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "zh": "斧木妖",
@@ -686,7 +853,9 @@
       "image": "assets/monsters/15.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/15.png",
       "imageWidth": 62,
-      "imageHeight": 74
+      "imageHeight": 74,
+      "verifiedName": "斧木妖",
+      "nameCheckedOn": "2026-10-05"
     },
     {
       "zh": "蓝蘑菇",
@@ -697,7 +866,10 @@
       "image": "assets/monsters/16.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/16.png",
       "imageWidth": 63,
-      "imageHeight": 58
+      "imageHeight": 58,
+      "verifiedName": "蓝蘑菇",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "zh": "蝙蝠",
@@ -708,21 +880,26 @@
       "image": "assets/monsters/17.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/17.png",
       "imageWidth": 46,
-      "imageHeight": 30
+      "imageHeight": 30,
+      "verifiedName": "蝙蝠",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
-      "zh": "小青蛇",
+      "zh": "青蛇",
       "en": "Jr. Necki",
       "kind": "monster",
       "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/18/",
       "aliases": [
-        "青蛇"
+        "小青蛇"
       ],
       "id": "monster-18",
       "image": "assets/monsters/18.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/18.png",
       "imageWidth": 28,
-      "imageHeight": 28
+      "imageHeight": 28,
+      "verifiedName": "青蛇",
+      "nameCheckedOn": "2026-10-05"
     },
     {
       "zh": "刺蘑菇",
@@ -733,7 +910,10 @@
       "image": "assets/monsters/19.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/19.png",
       "imageWidth": 56,
-      "imageHeight": 52
+      "imageHeight": 52,
+      "verifiedName": "刺蘑菇",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "zh": "黑斧木妖",
@@ -744,10 +924,13 @@
       "image": "assets/monsters/20.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/20.png",
       "imageWidth": 62,
-      "imageHeight": 74
+      "imageHeight": 74,
+      "verifiedName": "黑斧木妖",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
-      "zh": "僵尸蘑菇",
+      "zh": "无魂蘑菇",
       "en": "Zombie Mushroom",
       "kind": "monster",
       "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/21/",
@@ -755,7 +938,12 @@
       "image": "assets/monsters/21.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/21.png",
       "imageWidth": 63,
-      "imageHeight": 58
+      "imageHeight": 58,
+      "verifiedName": "无魂蘑菇",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": [
+        "僵尸蘑菇"
+      ]
     },
     {
       "zh": "野猪",
@@ -766,7 +954,10 @@
       "image": "assets/monsters/22.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/22.png",
       "imageWidth": 71,
-      "imageHeight": 47
+      "imageHeight": 47,
+      "verifiedName": "野猪",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "zh": "火独眼兽",
@@ -777,7 +968,10 @@
       "image": "assets/monsters/23.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/23.png",
       "imageWidth": 97,
-      "imageHeight": 50
+      "imageHeight": 50,
+      "verifiedName": "火独眼兽",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "zh": "铁甲猪",
@@ -788,7 +982,10 @@
       "image": "assets/monsters/24.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/24.png",
       "imageWidth": 68,
-      "imageHeight": 46
+      "imageHeight": 46,
+      "verifiedName": "铁甲猪",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "zh": "鳄鱼",
@@ -799,7 +996,10 @@
       "image": "assets/monsters/25.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/25.png",
       "imageWidth": 49,
-      "imageHeight": 60
+      "imageHeight": 60,
+      "verifiedName": "鳄鱼",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "zh": "火野猪",
@@ -810,7 +1010,10 @@
       "image": "assets/monsters/26.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/26.png",
       "imageWidth": 49,
-      "imageHeight": 60
+      "imageHeight": 60,
+      "verifiedName": "火野猪",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "zh": "风独眼兽",
@@ -821,7 +1024,10 @@
       "image": "assets/monsters/27.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/27.png",
       "imageWidth": 49,
-      "imageHeight": 60
+      "imageHeight": 60,
+      "verifiedName": "风独眼兽",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "zh": "小幽灵",
@@ -832,18 +1038,24 @@
       "image": "assets/monsters/28.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/28.png",
       "imageWidth": 49,
-      "imageHeight": 60
+      "imageHeight": 60,
+      "verifiedName": "小幽灵",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "zh": "幼魔精灵",
-      "en": "Jr. Boogie",
+      "en": "Jr. Boogie 1",
       "kind": "monster",
       "source": "https://kafuffu20.com/classic-world/zh-cn/monsters/33/",
       "id": "monster-29",
       "image": "assets/monsters/29.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/29.png",
       "imageWidth": 86,
-      "imageHeight": 29
+      "imageHeight": 29,
+      "verifiedName": "幼魔精灵",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "zh": "猴子",
@@ -854,7 +1066,10 @@
       "image": "assets/monsters/30.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/30.png",
       "imageWidth": 74,
-      "imageHeight": 62
+      "imageHeight": 62,
+      "verifiedName": "猴子",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "zh": "黑鳄鱼",
@@ -865,7 +1080,10 @@
       "image": "assets/monsters/31.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/monsters/31.png",
       "imageWidth": 97,
-      "imageHeight": 50
+      "imageHeight": 50,
+      "verifiedName": "黑鳄鱼",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "zh": "莎莉的镜子",
@@ -890,7 +1108,8 @@
       "image": "assets/4031000.png",
       "imageSource": "https://maplestory.io/api/GMS/83/item/4031000/icon",
       "imageWidth": 29,
-      "imageHeight": 31
+      "imageHeight": 31,
+      "aliases": []
     },
     {
       "zh": "卢卡斯的信",
@@ -901,7 +1120,8 @@
       "image": "assets/4031001.png",
       "imageSource": "https://maplestory.io/api/GMS/83/item/4031001/icon",
       "imageWidth": 29,
-      "imageHeight": 31
+      "imageHeight": 31,
+      "aliases": []
     },
     {
       "zh": "蓝色蜗牛壳",
@@ -926,7 +1146,8 @@
       "image": "assets/4000001.png",
       "imageSource": "https://maplestory.io/api/GMS/83/item/4000001/icon",
       "imageWidth": 30,
-      "imageHeight": 28
+      "imageHeight": 28,
+      "aliases": []
     },
     {
       "zh": "绿水灵珠",
@@ -951,7 +1172,8 @@
       "image": "assets/4000017.png",
       "imageSource": "https://maplestory.io/api/GMS/83/item/4000017/icon",
       "imageWidth": 28,
-      "imageHeight": 26
+      "imageHeight": 26,
+      "aliases": []
     },
     {
       "zh": "粗羽毛",
@@ -962,7 +1184,8 @@
       "image": "assets/4003004.png",
       "imageSource": "https://maplestory.io/api/GMS/83/item/4003004/icon",
       "imageWidth": 31,
-      "imageHeight": 29
+      "imageHeight": 29,
+      "aliases": []
     },
     {
       "zh": "动物皮",
@@ -973,7 +1196,8 @@
       "image": "assets/4000021.png",
       "imageSource": "https://maplestory.io/api/GMS/83/item/4000021/icon",
       "imageWidth": 31,
-      "imageHeight": 31
+      "imageHeight": 31,
+      "aliases": []
     },
     {
       "zh": "柠檬",
@@ -984,7 +1208,8 @@
       "image": "assets/2010004.png",
       "imageSource": "https://maplestory.io/api/GMS/83/item/2010004/icon",
       "imageWidth": 26,
-      "imageHeight": 26
+      "imageHeight": 26,
+      "aliases": []
     },
     {
       "zh": "松叶",
@@ -995,7 +1220,8 @@
       "image": "assets/4000005.png",
       "imageSource": "https://maplestory.io/api/GMS/83/item/4000005/icon",
       "imageWidth": 27,
-      "imageHeight": 28
+      "imageHeight": 28,
+      "aliases": []
     },
     {
       "zh": "绿叶球",
@@ -1006,7 +1232,8 @@
       "image": "assets/4000004.png",
       "imageSource": "https://maplestory.io/api/GMS/83/item/4000004/icon",
       "imageWidth": 26,
-      "imageHeight": 25
+      "imageHeight": 25,
+      "aliases": []
     },
     {
       "zh": "石榴石母矿",
@@ -1031,7 +1258,8 @@
       "image": "assets/2030002.png",
       "imageSource": "https://maplestory.io/api/GMS/83/item/2030002/icon",
       "imageWidth": 32,
-      "imageHeight": 30
+      "imageHeight": 30,
+      "aliases": []
     },
     {
       "zh": "石榴石",
@@ -1042,7 +1270,8 @@
       "image": "assets/4021000.png",
       "imageSource": "https://maplestory.io/api/GMS/83/item/4021000/icon",
       "imageWidth": 26,
-      "imageHeight": 26
+      "imageHeight": 26,
+      "aliases": []
     },
     {
       "zh": "三眼章鱼触角",
@@ -1068,7 +1297,8 @@
       "image": "assets/4000012.png",
       "imageSource": "https://maplestory.io/api/GMS/83/item/4000012/icon",
       "imageWidth": 30,
-      "imageHeight": 29
+      "imageHeight": 29,
+      "aliases": []
     },
     {
       "zh": "蝴蝶结",
@@ -1079,7 +1309,8 @@
       "image": "assets/4000002.png",
       "imageSource": "https://maplestory.io/api/GMS/83/item/4000002/icon",
       "imageWidth": 30,
-      "imageHeight": 31
+      "imageHeight": 31,
+      "aliases": []
     },
     {
       "zh": "特制酱油",
@@ -1104,7 +1335,8 @@
       "image": "assets/4000009.png",
       "imageSource": "https://maplestory.io/api/GMS/83/item/4000009/icon",
       "imageWidth": 30,
-      "imageHeight": 28
+      "imageHeight": 28,
+      "aliases": []
     },
     {
       "zh": "热血头带",
@@ -1115,7 +1347,8 @@
       "image": "assets/ribboned-pig-headband.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/equips/1002100.png",
       "imageWidth": 31,
-      "imageHeight": 27
+      "imageHeight": 27,
+      "aliases": []
     },
     {
       "zh": "矿泉水",
@@ -1126,7 +1359,8 @@
       "image": "assets/2022000.png",
       "imageSource": "https://maplestory.io/api/GMS/83/item/2022000/icon",
       "imageWidth": 26,
-      "imageHeight": 32
+      "imageHeight": 32,
+      "aliases": []
     },
     {
       "zh": "工地手套",
@@ -1137,7 +1371,8 @@
       "image": "assets/1082002.png",
       "imageSource": "https://maplestory.io/api/GMS/83/item/1082002/icon",
       "imageWidth": 28,
-      "imageHeight": 28
+      "imageHeight": 28,
+      "aliases": []
     },
     {
       "zh": "蛇皮",
@@ -1148,7 +1383,8 @@
       "image": "assets/4000034.png",
       "imageSource": "https://maplestory.io/api/GMS/83/item/4000034/icon",
       "imageWidth": 32,
-      "imageHeight": 31
+      "imageHeight": 31,
+      "aliases": []
     },
     {
       "zh": "刺蘑菇盖",
@@ -1159,7 +1395,8 @@
       "image": "assets/4000015.png",
       "imageSource": "https://maplestory.io/api/GMS/83/item/4000015/icon",
       "imageWidth": 30,
-      "imageHeight": 30
+      "imageHeight": 30,
+      "aliases": []
     },
     {
       "zh": "镜子碎片",
@@ -1170,7 +1407,8 @@
       "image": "assets/4031155.png",
       "imageSource": "https://maplestory.io/api/GMS/83/item/4031155/icon",
       "imageWidth": 26,
-      "imageHeight": 28
+      "imageHeight": 28,
+      "aliases": []
     },
     {
       "zh": "道符",
@@ -1181,7 +1419,8 @@
       "image": "assets/4000008.png",
       "imageSource": "https://maplestory.io/api/GMS/83/item/4000008/icon",
       "imageWidth": 27,
-      "imageHeight": 29
+      "imageHeight": 29,
+      "aliases": []
     },
     {
       "zh": "火独眼兽之尾",
@@ -1206,7 +1445,8 @@
       "image": "assets/1102053.png",
       "imageSource": "https://maplestory.io/api/GMS/83/item/1102053/icon",
       "imageWidth": 29,
-      "imageHeight": 30
+      "imageHeight": 30,
+      "aliases": []
     },
     {
       "zh": "变异蘑菇的血",
@@ -1217,7 +1457,8 @@
       "image": "assets/4031005.png",
       "imageSource": "https://maplestory.io/api/GMS/83/item/4031005/icon",
       "imageWidth": 32,
-      "imageHeight": 32
+      "imageHeight": 32,
+      "aliases": []
     },
     {
       "zh": "闪耀的石头",
@@ -1242,7 +1483,8 @@
       "image": "assets/4031006.png",
       "imageSource": "https://maplestory.io/api/GMS/83/item/4031006/icon",
       "imageWidth": 32,
-      "imageHeight": 32
+      "imageHeight": 32,
+      "aliases": []
     },
     {
       "zh": "褐色斗笠",
@@ -1253,7 +1495,8 @@
       "image": "assets/1002026.png",
       "imageSource": "https://maplestory.io/api/GMS/83/item/1002026/icon",
       "imageWidth": 32,
-      "imageHeight": 26
+      "imageHeight": 26,
+      "aliases": []
     },
     {
       "zh": "汉斯的信件",
@@ -1264,7 +1507,8 @@
       "image": "assets/4031009.png",
       "imageSource": "https://maplestory.io/api/GMS/83/item/4031009/icon",
       "imageWidth": 29,
-      "imageHeight": 31
+      "imageHeight": 31,
+      "aliases": []
     },
     {
       "zh": "黑珠",
@@ -1275,7 +1519,8 @@
       "image": "assets/4031013.png",
       "imageSource": "https://maplestory.io/api/GMS/83/item/4031013/icon",
       "imageWidth": 26,
-      "imageHeight": 26
+      "imageHeight": 26,
+      "aliases": []
     },
     {
       "zh": "英雄证书",
@@ -1286,7 +1531,8 @@
       "image": "assets/4031012.png",
       "imageSource": "https://maplestory.io/api/GMS/83/item/4031012/icon",
       "imageWidth": 26,
-      "imageHeight": 32
+      "imageHeight": 32,
+      "aliases": []
     },
     {
       "zh": "香蕉",
@@ -1297,7 +1543,8 @@
       "image": "assets/4000029.png",
       "imageSource": "https://maplestory.io/api/GMS/83/item/4000029/icon",
       "imageWidth": 31,
-      "imageHeight": 31
+      "imageHeight": 31,
+      "aliases": []
     },
     {
       "zh": "风独眼兽之尾",
@@ -1308,7 +1555,8 @@
       "image": "assets/4000013.png",
       "imageSource": "https://maplestory.io/api/GMS/83/item/4000013/icon",
       "imageWidth": 30,
-      "imageHeight": 31
+      "imageHeight": 31,
+      "aliases": []
     },
     {
       "zh": "特制烤鳗鱼",
@@ -1319,7 +1567,8 @@
       "image": "assets/4031014.png",
       "imageSource": "https://maplestory.io/api/GMS/83/item/4031014/icon",
       "imageWidth": 31,
-      "imageHeight": 22
+      "imageHeight": 22,
+      "aliases": []
     },
     {
       "zh": "钻石",
@@ -1330,7 +1579,8 @@
       "image": "assets/4021007.png",
       "imageSource": "https://maplestory.io/api/GMS/83/item/4021007/icon",
       "imageWidth": 26,
-      "imageHeight": 26
+      "imageHeight": 26,
+      "aliases": []
     },
     {
       "zh": "新鲜的牛奶",
@@ -1370,7 +1620,8 @@
       "image": "assets/1050018.png",
       "imageSource": "https://maplestory.io/api/GMS/83/item/1050018/icon",
       "imageWidth": 30,
-      "imageHeight": 29
+      "imageHeight": 29,
+      "aliases": []
     },
     {
       "zh": "旧螺丝钉",
@@ -1381,7 +1632,8 @@
       "image": "assets/items/4031003.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/items/4031003.png",
       "imageWidth": 27,
-      "imageHeight": 27
+      "imageHeight": 27,
+      "aliases": []
     },
     {
       "zh": "旧木板",
@@ -1392,7 +1644,8 @@
       "image": "assets/items/4031004.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/items/4031004.png",
       "imageWidth": 32,
-      "imageHeight": 26
+      "imageHeight": 26,
+      "aliases": []
     },
     {
       "zh": "苹果",
@@ -1403,7 +1656,8 @@
       "image": "assets/items/2010000.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/items/2010000.png",
       "imageWidth": 26,
-      "imageHeight": 30
+      "imageHeight": 30,
+      "aliases": []
     },
     {
       "zh": "小石球的石片",
@@ -1414,7 +1668,8 @@
       "image": "assets/items/4000067.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/items/4000067.png",
       "imageWidth": 27,
-      "imageHeight": 24
+      "imageHeight": 24,
+      "aliases": []
     },
     {
       "zh": "红药",
@@ -1425,7 +1680,8 @@
       "image": "assets/items/2000000.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/items/2000000.png",
       "imageWidth": 27,
-      "imageHeight": 30
+      "imageHeight": 30,
+      "aliases": []
     },
     {
       "zh": "蓝药",
@@ -1436,7 +1692,8 @@
       "image": "assets/items/2000003.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/items/2000003.png",
       "imageWidth": 27,
-      "imageHeight": 30
+      "imageHeight": 30,
+      "aliases": []
     },
     {
       "zh": "法师职业鞋（款式待确认）",
@@ -1451,7 +1708,7 @@
       "id": "item-50"
     },
     {
-      "zh": "蘑菇镇西入口",
+      "zh": "Mushroom Town - West Entrance",
       "en": "Mushroom Town - West Entrance",
       "kind": "map",
       "source": "https://kafuffu20.com/classic-world/zh-cn/maps/1/",
@@ -1460,10 +1717,16 @@
         "node": "Mushroom Town - West Entrance",
         "mode": "exact"
       },
-      "id": "map-1"
+      "id": "map-1",
+      "verifiedName": "Mushroom Town - West Entrance",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": [
+        "蘑菇镇西入口"
+      ],
+      "note": "资料站当前名称栏仅提供英文，本页按其原名显示。"
     },
     {
-      "zh": "小蘑菇（第一张）",
+      "zh": "蘑菇村（第一张）",
       "en": "Mushroom Town",
       "kind": "map",
       "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10/",
@@ -1473,15 +1736,20 @@
         "mode": "entrance"
       },
       "note": "小蘑菇两张教学地图共用大地图节点；不是独立地图内坐标。",
-      "id": "map-2"
+      "id": "map-2",
+      "verifiedName": "蘑菇村",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": [
+        "小蘑菇（第一张）"
+      ]
     },
     {
-      "zh": "小蘑菇（第二张）",
+      "zh": "蘑菇村（第二张）",
       "en": "Mushroom Town",
       "kind": "map",
       "source": "https://kafuffu20.com/classic-world/zh-cn/maps/20/",
       "aliases": [
-        "小蘑菇"
+        "小蘑菇（第二张）"
       ],
       "mapId": 20,
       "location": {
@@ -1489,7 +1757,9 @@
         "mode": "entrance"
       },
       "note": "小蘑菇两张教学地图共用大地图节点；不是独立地图内坐标。",
-      "id": "map-3"
+      "id": "map-3",
+      "verifiedName": "蘑菇村",
+      "nameCheckedOn": "2026-10-05"
     },
     {
       "zh": "蘑菇村村民家",
@@ -1501,10 +1771,13 @@
         "node": "Mushroom Town (Nina)",
         "mode": "entrance"
       },
-      "id": "map-4"
+      "id": "map-4",
+      "verifiedName": "蘑菇村村民家",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
-      "zh": "蘑菇镇东入口",
+      "zh": "East Entrance to Mushroom Town",
       "en": "East Entrance to Mushroom Town",
       "kind": "map",
       "source": "https://kafuffu20.com/classic-world/zh-cn/maps/30/",
@@ -1513,10 +1786,16 @@
         "node": "East Entrance to Mushroom Town",
         "mode": "exact"
       },
-      "id": "map-5"
+      "id": "map-5",
+      "verifiedName": "East Entrance to Mushroom Town",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": [
+        "蘑菇镇东入口"
+      ],
+      "note": "资料站当前名称栏仅提供英文，本页按其原名显示。"
     },
     {
-      "zh": "蜗牛狩猎场一",
+      "zh": "Snail Hunting Ground I",
       "en": "Snail Hunting Ground I",
       "kind": "map",
       "source": "https://kafuffu20.com/classic-world/zh-cn/maps/40/",
@@ -1525,10 +1804,16 @@
         "node": "Snail Hunting Ground I",
         "mode": "exact"
       },
-      "id": "map-6"
+      "id": "map-6",
+      "verifiedName": "Snail Hunting Ground I",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": [
+        "蜗牛狩猎场一"
+      ],
+      "note": "资料站当前名称栏仅提供英文，本页按其原名显示。"
     },
     {
-      "zh": "蜗牛狩猎场二",
+      "zh": "蜗牛打猎场Ⅱ",
       "en": "Snail Hunting Ground II",
       "kind": "map",
       "source": "https://kafuffu20.com/classic-world/zh-cn/maps/41/",
@@ -1537,10 +1822,15 @@
         "node": "Snail Hunting Ground II",
         "mode": "exact"
       },
-      "id": "map-7"
+      "id": "map-7",
+      "verifiedName": "蜗牛打猎场Ⅱ",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": [
+        "蜗牛狩猎场二"
+      ]
     },
     {
-      "zh": "蜗牛狩猎场三",
+      "zh": "蜗牛打猎场Ⅲ",
       "en": "Snail Hunting Ground III",
       "kind": "map",
       "source": "https://kafuffu20.com/classic-world/zh-cn/maps/42/",
@@ -1549,10 +1839,15 @@
         "node": "Snail Hunting Ground III",
         "mode": "exact"
       },
-      "id": "map-8"
+      "id": "map-8",
+      "verifiedName": "蜗牛打猎场Ⅲ",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": [
+        "蜗牛狩猎场三"
+      ]
     },
     {
-      "zh": "岔路",
+      "zh": "A Split Road",
       "en": "A Split Road",
       "kind": "map",
       "source": "https://kafuffu20.com/classic-world/zh-cn/maps/50/",
@@ -1561,7 +1856,13 @@
         "node": "A Split Road",
         "mode": "exact"
       },
-      "id": "map-9"
+      "id": "map-9",
+      "verifiedName": "A Split Road",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": [
+        "岔路"
+      ],
+      "note": "资料站当前名称栏仅提供英文，本页按其原名显示。"
     },
     {
       "zh": "南港",
@@ -1573,14 +1874,18 @@
         "node": "Southperry",
         "mode": "exact"
       },
-      "id": "map-10"
+      "id": "map-10",
+      "verifiedName": "南港",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
-      "zh": "彩虹村西边草原",
+      "zh": "The Field West of Amherst",
       "en": "The Field West of Amherst",
       "kind": "map",
       "source": "https://kafuffu20.com/classic-world/zh-cn/maps/1000/",
       "aliases": [
+        "彩虹村西边草原",
         "西边草原"
       ],
       "mapId": 1000,
@@ -1588,10 +1893,13 @@
         "node": "The Field West of Amherst",
         "mode": "exact"
       },
-      "id": "map-11"
+      "id": "map-11",
+      "verifiedName": "The Field West of Amherst",
+      "nameCheckedOn": "2026-10-05",
+      "note": "资料站当前名称栏仅提供英文，本页按其原名显示。"
     },
     {
-      "zh": "彩虹村",
+      "zh": "彩虹村西郊平原",
       "en": "Amherst",
       "kind": "map",
       "source": "https://kafuffu20.com/classic-world/zh-cn/maps/1010/",
@@ -1600,10 +1908,15 @@
         "node": "Amherst",
         "mode": "exact"
       },
-      "id": "map-12"
+      "id": "map-12",
+      "verifiedName": "彩虹村西郊平原",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": [
+        "彩虹村"
+      ]
     },
     {
-      "zh": "彩虹村武器店",
+      "zh": "小树林",
       "en": "Amherst Weapon Store",
       "kind": "map",
       "source": "https://kafuffu20.com/classic-world/zh-cn/maps/1011/",
@@ -1612,10 +1925,15 @@
         "node": "Amherst",
         "mode": "entrance"
       },
-      "id": "map-13"
+      "id": "map-13",
+      "verifiedName": "小树林",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": [
+        "彩虹村武器店"
+      ]
     },
     {
-      "zh": "彩虹村村民家",
+      "zh": "大蘑菇",
       "en": "Amherst Townstreet",
       "kind": "map",
       "source": "https://kafuffu20.com/classic-world/zh-cn/maps/1012/",
@@ -1624,10 +1942,15 @@
         "node": "Amherst",
         "mode": "entrance"
       },
-      "id": "map-14"
+      "id": "map-14",
+      "verifiedName": "大蘑菇",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": [
+        "彩虹村村民家"
+      ]
     },
     {
-      "zh": "彩虹村杂货店",
+      "zh": "小蘑菇",
       "en": "Amherst Department Store",
       "kind": "map",
       "source": "https://kafuffu20.com/classic-world/zh-cn/maps/1013/",
@@ -1636,7 +1959,12 @@
         "node": "Amherst",
         "mode": "entrance"
       },
-      "id": "map-15"
+      "id": "map-15",
+      "verifiedName": "小蘑菇",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": [
+        "彩虹村杂货店"
+      ]
     },
     {
       "zh": "明珠港",
@@ -1648,7 +1976,10 @@
         "node": "Lith Harbor",
         "mode": "exact"
       },
-      "id": "map-16"
+      "id": "map-16",
+      "verifiedName": "明珠港",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "zh": "明珠港郊外",
@@ -1663,10 +1994,12 @@
         "node": "Right Around Lith Harbor",
         "mode": "exact"
       },
-      "id": "map-17"
+      "id": "map-17",
+      "verifiedName": "明珠港郊外",
+      "nameCheckedOn": "2026-10-05"
     },
     {
-      "zh": "海岸草丛一",
+      "zh": "海岸草丛Ⅰ",
       "en": "Thicket Around the Beach I",
       "kind": "map",
       "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10000011/",
@@ -1675,10 +2008,15 @@
         "node": "Thicket Around the Beach I",
         "mode": "exact"
       },
-      "id": "map-18"
+      "id": "map-18",
+      "verifiedName": "海岸草丛Ⅰ",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": [
+        "海岸草丛一"
+      ]
     },
     {
-      "zh": "海岸草丛二",
+      "zh": "海岸草丛Ⅱ",
       "en": "Thicket Around the Beach II",
       "kind": "map",
       "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10000012/",
@@ -1687,7 +2025,12 @@
         "node": "Thicket Around the Beach II",
         "mode": "exact"
       },
-      "id": "map-19"
+      "id": "map-19",
+      "verifiedName": "海岸草丛Ⅱ",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": [
+        "海岸草丛二"
+      ]
     },
     {
       "zh": "射手村",
@@ -1699,10 +2042,13 @@
         "node": "Henesys",
         "mode": "exact"
       },
-      "id": "map-20"
+      "id": "map-20",
+      "verifiedName": "射手村",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
-      "zh": "射手村街道",
+      "zh": "射手村民宅",
       "en": "Henesys Townstreet",
       "kind": "map",
       "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10001001/",
@@ -1711,10 +2057,15 @@
         "node": "Henesys",
         "mode": "entrance"
       },
-      "id": "map-21"
+      "id": "map-21",
+      "verifiedName": "射手村民宅",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": [
+        "射手村街道"
+      ]
     },
     {
-      "zh": "铁甲猪公园二",
+      "zh": "铁甲猪公园Ⅱ",
       "en": "Pig Park II",
       "kind": "map",
       "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10001004/",
@@ -1723,7 +2074,12 @@
         "node": "Henesys",
         "mode": "entrance"
       },
-      "id": "map-22"
+      "id": "map-22",
+      "verifiedName": "铁甲猪公园Ⅱ",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": [
+        "铁甲猪公园二"
+      ]
     },
     {
       "zh": "射手村公园",
@@ -1735,7 +2091,10 @@
         "node": "Henesys",
         "mode": "entrance"
       },
-      "id": "map-23"
+      "id": "map-23",
+      "verifiedName": "射手村公园",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "zh": "射手村东部小山",
@@ -1750,7 +2109,9 @@
         "node": "The Hill East of Henesys",
         "mode": "exact"
       },
-      "id": "map-24"
+      "id": "map-24",
+      "verifiedName": "射手村东部小山",
+      "nameCheckedOn": "2026-10-05"
     },
     {
       "zh": "射手村东部草丛",
@@ -1765,7 +2126,9 @@
         "node": "The Rain-Forest East of Henesys",
         "mode": "exact"
       },
-      "id": "map-25"
+      "id": "map-25",
+      "verifiedName": "射手村东部草丛",
+      "nameCheckedOn": "2026-10-05"
     },
     {
       "zh": "射手村东部树林",
@@ -1780,7 +2143,9 @@
         "node": "The Forest East of Henesys",
         "mode": "exact"
       },
-      "id": "map-26"
+      "id": "map-26",
+      "verifiedName": "射手村东部树林",
+      "nameCheckedOn": "2026-10-05"
     },
     {
       "zh": "青蘑菇树林",
@@ -1792,7 +2157,10 @@
         "node": "The Forest East of Henesys",
         "mode": "entrance"
       },
-      "id": "map-27"
+      "id": "map-27",
+      "verifiedName": "青蘑菇树林",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "zh": "迷宫通道",
@@ -1804,7 +2172,10 @@
         "node": "The Road to the Dungeon",
         "mode": "exact"
       },
-      "id": "map-28"
+      "id": "map-28",
+      "verifiedName": "迷宫通道",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "zh": "魔法密林",
@@ -1819,10 +2190,12 @@
         "node": "Ellinia",
         "mode": "exact"
       },
-      "id": "map-29"
+      "id": "map-29",
+      "verifiedName": "魔法密林",
+      "nameCheckedOn": "2026-10-05"
     },
     {
-      "zh": "魔法图书馆",
+      "zh": "魔法密林图书馆",
       "en": "Magic Library",
       "kind": "map",
       "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10002003/",
@@ -1831,7 +2204,12 @@
         "node": "Ellinia",
         "mode": "entrance"
       },
-      "id": "map-30"
+      "id": "map-30",
+      "verifiedName": "魔法密林图书馆",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": [
+        "魔法图书馆"
+      ]
     },
     {
       "zh": "魔法密林南郊",
@@ -1846,7 +2224,9 @@
         "node": "The Field South of Ellinia",
         "mode": "exact"
       },
-      "id": "map-31"
+      "id": "map-31",
+      "verifiedName": "魔法密林南郊",
+      "nameCheckedOn": "2026-10-05"
     },
     {
       "zh": "智慧森林",
@@ -1858,7 +2238,10 @@
         "node": "The Forest of Wisdom",
         "mode": "exact"
       },
-      "id": "map-32"
+      "id": "map-32",
+      "verifiedName": "智慧森林",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "zh": "魔法森林南部",
@@ -1870,7 +2253,10 @@
         "node": "The Forest South of Ellinia",
         "mode": "exact"
       },
-      "id": "map-33"
+      "id": "map-33",
+      "verifiedName": "魔法森林南部",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "zh": "魔法密林北郊",
@@ -1885,10 +2271,12 @@
         "node": "The Field Up North of Ellinia",
         "mode": "exact"
       },
-      "id": "map-34"
+      "id": "map-34",
+      "verifiedName": "魔法密林北郊",
+      "nameCheckedOn": "2026-10-05"
     },
     {
-      "zh": "大木林一",
+      "zh": "大木林Ⅰ",
       "en": "The Tree That Grew I",
       "kind": "map",
       "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10002060/",
@@ -1897,7 +2285,12 @@
         "node": "The Tree That Grew I",
         "mode": "exact"
       },
-      "id": "map-35"
+      "id": "map-35",
+      "verifiedName": "大木林Ⅰ",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": [
+        "大木林一"
+      ]
     },
     {
       "zh": "魔法密林北部",
@@ -1912,7 +2305,9 @@
         "node": "The Forest North of Ellinia",
         "mode": "exact"
       },
-      "id": "map-36"
+      "id": "map-36",
+      "verifiedName": "魔法密林北部",
+      "nameCheckedOn": "2026-10-05"
     },
     {
       "zh": "北部森林通道",
@@ -1924,10 +2319,13 @@
         "node": "The Forest North of Ellinia",
         "mode": "entrance"
       },
-      "id": "map-37"
+      "id": "map-37",
+      "verifiedName": "北部森林通道",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
-      "zh": "北部森林训练场九",
+      "zh": "北部森林训练场Ⅸ",
       "en": "Tree Dungeon, Forest Up North IX",
       "kind": "map",
       "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10002083/",
@@ -1936,7 +2334,12 @@
         "node": "The Forest North of Ellinia",
         "mode": "entrance"
       },
-      "id": "map-38"
+      "id": "map-38",
+      "verifiedName": "北部森林训练场Ⅸ",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": [
+        "北部森林训练场九"
+      ]
     },
     {
       "zh": "废弃都市",
@@ -1948,10 +2351,13 @@
         "node": "Kerning City",
         "mode": "exact"
       },
-      "id": "map-39"
+      "id": "map-39",
+      "verifiedName": "废弃都市",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
-      "zh": "尼奥拉医院",
+      "zh": "Niora Hospital",
       "en": "Niora Hospital",
       "kind": "map",
       "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10003004/",
@@ -1960,7 +2366,13 @@
         "node": "Kerning City",
         "mode": "entrance"
       },
-      "id": "map-40"
+      "id": "map-40",
+      "verifiedName": "Niora Hospital",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": [
+        "尼奥拉医院"
+      ],
+      "note": "资料站当前名称栏仅提供英文，本页按其原名显示。"
     },
     {
       "zh": "废都南方工地",
@@ -1972,10 +2384,13 @@
         "node": "Kerning City Construction Site",
         "mode": "exact"
       },
-      "id": "map-41"
+      "id": "map-41",
+      "verifiedName": "废都南方工地",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
-      "zh": "坠落注意",
+      "zh": "坠落主义",
       "en": "Caution Falling Down",
       "kind": "map",
       "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10003011/",
@@ -1984,14 +2399,20 @@
         "node": "Kerning City Construction Site",
         "mode": "entrance"
       },
-      "id": "map-42"
+      "id": "map-42",
+      "verifiedName": "坠落主义",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": [
+        "坠落注意"
+      ]
     },
     {
-      "zh": "泥岩森林一",
+      "zh": "逆恩森林Ⅰ",
       "en": "L Forest I",
       "kind": "map",
       "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10003020/",
       "aliases": [
+        "泥岩森林一",
         "逆恩森林一"
       ],
       "mapId": 10003020,
@@ -2000,7 +2421,9 @@
         "mode": "exact"
       },
       "note": "攻略中的“泥岩／逆恩森林一”对应 L Forest I。",
-      "id": "map-43"
+      "id": "map-43",
+      "verifiedName": "逆恩森林Ⅰ",
+      "nameCheckedOn": "2026-10-05"
     },
     {
       "zh": "地铁售票处",
@@ -2012,14 +2435,18 @@
         "node": "Kerning City",
         "mode": "entrance"
       },
-      "id": "map-44"
+      "id": "map-44",
+      "verifiedName": "地铁售票处",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
-      "zh": "地铁一号线第一地区",
+      "zh": "地铁一号线<第1地区>",
       "en": "Line 1 <Area 1>",
       "kind": "map",
       "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10003061/",
       "aliases": [
+        "地铁一号线第一地区",
         "一号线第一地区"
       ],
       "mapId": 10003061,
@@ -2027,14 +2454,17 @@
         "node": "Kerning City",
         "mode": "entrance"
       },
-      "id": "map-45"
+      "id": "map-45",
+      "verifiedName": "地铁一号线<第1地区>",
+      "nameCheckedOn": "2026-10-05"
     },
     {
-      "zh": "地铁环城区",
+      "zh": "换乘区",
       "en": "Transfer Area",
       "kind": "map",
       "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10003062/",
       "aliases": [
+        "地铁环城区",
         "环城区"
       ],
       "mapId": 10003062,
@@ -2043,10 +2473,12 @@
         "mode": "entrance"
       },
       "note": "攻略称“环城区”，按售票处 → 一号线第一地区的路线对应 Transfer Area（换乘区）。",
-      "id": "map-46"
+      "id": "map-46",
+      "verifiedName": "换乘区",
+      "nameCheckedOn": "2026-10-05"
     },
     {
-      "zh": "地铁二号线第一地区",
+      "zh": "地铁二号线<第1地区>",
       "en": "Line 2 <Area 1>",
       "kind": "map",
       "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10003066/",
@@ -2055,7 +2487,12 @@
         "node": "Kerning City",
         "mode": "entrance"
       },
-      "id": "map-47"
+      "id": "map-47",
+      "verifiedName": "地铁二号线<第1地区>",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": [
+        "地铁二号线第一地区"
+      ]
     },
     {
       "zh": "废都北入口",
@@ -2067,7 +2504,10 @@
         "node": "Sunset Sky",
         "mode": "exact"
       },
-      "id": "map-48"
+      "id": "map-48",
+      "verifiedName": "废都北入口",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "zh": "废都北方工地",
@@ -2079,10 +2519,13 @@
         "node": "Construction Site North of Kerning City",
         "mode": "exact"
       },
-      "id": "map-49"
+      "id": "map-49",
+      "verifiedName": "废都北方工地",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
-      "zh": "沼泽地一",
+      "zh": "沼泽地1",
       "en": "The Swamp of Despair I",
       "kind": "map",
       "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10003090/",
@@ -2091,10 +2534,15 @@
         "node": "The Swamp of Despair I",
         "mode": "exact"
       },
-      "id": "map-50"
+      "id": "map-50",
+      "verifiedName": "沼泽地1",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": [
+        "沼泽地一"
+      ]
     },
     {
-      "zh": "沼泽地二",
+      "zh": "沼泽地2",
       "en": "The Swamp of Despair II",
       "kind": "map",
       "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10003091/",
@@ -2103,10 +2551,15 @@
         "node": "The Swamp of Despair II",
         "mode": "exact"
       },
-      "id": "map-51"
+      "id": "map-51",
+      "verifiedName": "沼泽地2",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": [
+        "沼泽地二"
+      ]
     },
     {
-      "zh": "鳄鱼潭二",
+      "zh": "鳄鱼潭2",
       "en": "Dangerous Croko II",
       "kind": "map",
       "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10003094/",
@@ -2115,10 +2568,15 @@
         "node": "Dangerous Croko II",
         "mode": "exact"
       },
-      "id": "map-52"
+      "id": "map-52",
+      "verifiedName": "鳄鱼潭2",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": [
+        "鳄鱼潭二"
+      ]
     },
     {
-      "zh": "猴子沼泽地一",
+      "zh": "猴子沼泽地1",
       "en": "Monkey Swamp I",
       "kind": "map",
       "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10003095/",
@@ -2127,7 +2585,12 @@
         "node": "Dangerous Croko II",
         "mode": "entrance"
       },
-      "id": "map-53"
+      "id": "map-53",
+      "verifiedName": "猴子沼泽地1",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": [
+        "猴子沼泽地一"
+      ]
     },
     {
       "zh": "勇士部落",
@@ -2139,7 +2602,10 @@
         "node": "Perion",
         "mode": "exact"
       },
-      "id": "map-54"
+      "id": "map-54",
+      "verifiedName": "勇士部落",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "zh": "勇士部落杂货店",
@@ -2151,7 +2617,10 @@
         "node": "Perion",
         "mode": "entrance"
       },
-      "id": "map-55"
+      "id": "map-55",
+      "verifiedName": "勇士部落杂货店",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "zh": "勇士部落东入口",
@@ -2163,7 +2632,10 @@
         "node": "Perion Street Corner",
         "mode": "exact"
       },
-      "id": "map-56"
+      "id": "map-56",
+      "verifiedName": "勇士部落东入口",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "zh": "野猪的领土",
@@ -2178,10 +2650,12 @@
         "node": "Perion Street Corner",
         "mode": "entrance"
       },
-      "id": "map-57"
+      "id": "map-57",
+      "verifiedName": "野猪的领土",
+      "nameCheckedOn": "2026-10-05"
     },
     {
-      "zh": "幽深峡谷一",
+      "zh": "幽深的峡谷Ⅰ",
       "en": "Deep Valley I",
       "kind": "map",
       "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10004100/",
@@ -2190,10 +2664,15 @@
         "node": "Deep Valley I",
         "mode": "exact"
       },
-      "id": "map-58"
+      "id": "map-58",
+      "verifiedName": "幽深的峡谷Ⅰ",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": [
+        "幽深峡谷一"
+      ]
     },
     {
-      "zh": "幽深峡谷二",
+      "zh": "幽深的峡谷Ⅱ",
       "en": "Deep Valley II",
       "kind": "map",
       "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10004110/",
@@ -2202,10 +2681,15 @@
         "node": "Deep Valley II",
         "mode": "exact"
       },
-      "id": "map-59"
+      "id": "map-59",
+      "verifiedName": "幽深的峡谷Ⅱ",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": [
+        "幽深峡谷二"
+      ]
     },
     {
-      "zh": "火焰之地一",
+      "zh": "火焰之地Ⅰ",
       "en": "The Burnt Land I",
       "kind": "map",
       "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10004111/",
@@ -2214,10 +2698,15 @@
         "node": "Deep Valley II",
         "mode": "entrance"
       },
-      "id": "map-60"
+      "id": "map-60",
+      "verifiedName": "火焰之地Ⅰ",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": [
+        "火焰之地一"
+      ]
     },
     {
-      "zh": "火焰之地二",
+      "zh": "火焰之地Ⅱ",
       "en": "The Burnt Land II",
       "kind": "map",
       "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10004112/",
@@ -2226,7 +2715,12 @@
         "node": "Deep Valley II",
         "mode": "entrance"
       },
-      "id": "map-61"
+      "id": "map-61",
+      "verifiedName": "火焰之地Ⅱ",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": [
+        "火焰之地二"
+      ]
     },
     {
       "zh": "林中之城",
@@ -2238,7 +2732,10 @@
         "node": "Sleepywood",
         "mode": "exact"
       },
-      "id": "map-62"
+      "id": "map-62",
+      "verifiedName": "林中之城",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "zh": "林中之城旅馆",
@@ -2253,7 +2750,9 @@
         "node": "Sleepywood",
         "mode": "area"
       },
-      "id": "map-63"
+      "id": "map-63",
+      "verifiedName": "林中之城旅馆",
+      "nameCheckedOn": "2026-10-05"
     },
     {
       "zh": "高级桑拿房",
@@ -2265,7 +2764,10 @@
         "node": "Sleepywood",
         "mode": "area"
       },
-      "id": "map-64"
+      "id": "map-64",
+      "verifiedName": "高级桑拿房",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "zh": "黑森林通道",
@@ -2277,7 +2779,10 @@
         "node": "Damp Tree-Forest",
         "mode": "entrance"
       },
-      "id": "map-65"
+      "id": "map-65",
+      "verifiedName": "黑森林通道",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "zh": "黑森林",
@@ -2289,7 +2794,10 @@
         "node": "Damp Tree-Forest",
         "mode": "entrance"
       },
-      "id": "map-66"
+      "id": "map-66",
+      "verifiedName": "黑森林",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "zh": "黑森林西入口",
@@ -2301,7 +2809,10 @@
         "node": "Damp Tree-Forest",
         "mode": "exact"
       },
-      "id": "map-67"
+      "id": "map-67",
+      "verifiedName": "黑森林西入口",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "zh": "黑森林沼泽",
@@ -2313,10 +2824,13 @@
         "node": "Damp Tree-Forest",
         "mode": "entrance"
       },
-      "id": "map-68"
+      "id": "map-68",
+      "verifiedName": "黑森林沼泽",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
-      "zh": "蚂蚁洞一",
+      "zh": "蚂蚁洞Ⅰ",
       "en": "Ant Tunnel I",
       "kind": "map",
       "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10005060/",
@@ -2325,10 +2839,15 @@
         "node": "Sleepywood",
         "mode": "area"
       },
-      "id": "map-69"
+      "id": "map-69",
+      "verifiedName": "蚂蚁洞Ⅰ",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": [
+        "蚂蚁洞一"
+      ]
     },
     {
-      "zh": "蚂蚁洞二",
+      "zh": "蚂蚁洞Ⅱ",
       "en": "Ant Tunnel II",
       "kind": "map",
       "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10005061/",
@@ -2337,10 +2856,15 @@
         "node": "Sleepywood",
         "mode": "area"
       },
-      "id": "map-70"
+      "id": "map-70",
+      "verifiedName": "蚂蚁洞Ⅱ",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": [
+        "蚂蚁洞二"
+      ]
     },
     {
-      "zh": "蚂蚁洞三",
+      "zh": "蚂蚁洞Ⅲ",
       "en": "Ant Tunnel III",
       "kind": "map",
       "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10005062/",
@@ -2349,10 +2873,15 @@
         "node": "Sleepywood",
         "mode": "area"
       },
-      "id": "map-71"
+      "id": "map-71",
+      "verifiedName": "蚂蚁洞Ⅲ",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": [
+        "蚂蚁洞三"
+      ]
     },
     {
-      "zh": "蚂蚁洞四",
+      "zh": "蚂蚁洞Ⅳ",
       "en": "Ant Tunnel IV",
       "kind": "map",
       "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10005063/",
@@ -2361,7 +2890,12 @@
         "node": "Sleepywood",
         "mode": "area"
       },
-      "id": "map-72"
+      "id": "map-72",
+      "verifiedName": "蚂蚁洞Ⅳ",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": [
+        "蚂蚁洞四"
+      ]
     },
     {
       "zh": "黑暗通道",
@@ -2373,7 +2907,10 @@
         "node": "Sleepywood",
         "mode": "area"
       },
-      "id": "map-73"
+      "id": "map-73",
+      "verifiedName": "黑暗通道",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "zh": "蝙蝠洞",
@@ -2385,10 +2922,13 @@
         "node": "Sleepywood",
         "mode": "area"
       },
-      "id": "map-74"
+      "id": "map-74",
+      "verifiedName": "蝙蝠洞",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
-      "zh": "幽深蚂蚁洞一",
+      "zh": "幽深蚂蚁洞1",
       "en": "Deep Ant Tunnel I",
       "kind": "map",
       "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10005066/",
@@ -2397,10 +2937,15 @@
         "node": "Sleepywood",
         "mode": "area"
       },
-      "id": "map-75"
+      "id": "map-75",
+      "verifiedName": "幽深蚂蚁洞1",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": [
+        "幽深蚂蚁洞一"
+      ]
     },
     {
-      "zh": "幽深蚂蚁洞二",
+      "zh": "幽深蚂蚁洞2",
       "en": "Deep Ant Tunnel II",
       "kind": "map",
       "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10005067/",
@@ -2409,7 +2954,12 @@
         "node": "Sleepywood",
         "mode": "area"
       },
-      "id": "map-76"
+      "id": "map-76",
+      "verifiedName": "幽深蚂蚁洞2",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": [
+        "幽深蚂蚁洞二"
+      ]
     },
     {
       "zh": "蚂蚁广场",
@@ -2421,10 +2971,13 @@
         "node": "Sleepywood",
         "mode": "area"
       },
-      "id": "map-77"
+      "id": "map-77",
+      "verifiedName": "蚂蚁广场",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
-      "zh": "魔法师树洞迷宫",
+      "zh": "魔法师2转考验场",
       "en": "Magician's Tree Dungeon",
       "kind": "map",
       "source": "https://kafuffu20.com/classic-world/zh-cn/maps/80001100/",
@@ -2433,16 +2986,26 @@
         "node": "The Forest North of Ellinia",
         "mode": "entrance"
       },
-      "id": "map-78"
+      "id": "map-78",
+      "verifiedName": "魔法师2转考验场",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": [
+        "魔法师树洞迷宫"
+      ]
     },
     {
-      "zh": "自由市场",
+      "zh": "自由市场入口",
       "en": "Free Market Entrance",
       "kind": "map",
       "source": "https://kafuffu20.com/classic-world/zh-cn/maps/80002000/",
       "mapId": 80002000,
       "note": "自由市场可从不同城镇进入，没有唯一的大地图坐标。",
-      "id": "map-79"
+      "id": "map-79",
+      "verifiedName": "自由市场入口",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": [
+        "自由市场"
+      ]
     },
     {
       "zh": "彩虹岛",
@@ -2450,7 +3013,8 @@
       "kind": "map",
       "source": "https://mapleclassic.wiki/wiki/Maple_Island",
       "region": "maple",
-      "id": "map-80"
+      "id": "map-80",
+      "aliases": []
     },
     {
       "zh": "金银岛",
@@ -2458,7 +3022,8 @@
       "kind": "map",
       "source": "https://mapleclassic.wiki/wiki/Victoria_Island",
       "region": "victoria",
-      "id": "map-81"
+      "id": "map-81",
+      "aliases": []
     },
     {
       "id": "item-cursed-doll",
@@ -2469,7 +3034,8 @@
       "image": "assets/items/4000033.png",
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/items/4000033.png",
       "imageWidth": 31,
-      "imageHeight": 32
+      "imageHeight": 32,
+      "aliases": []
     },
     {
       "id": "map-training-10001030",
@@ -2481,7 +3047,10 @@
       "location": {
         "node": "Forest West of Henesys",
         "mode": "exact"
-      }
+      },
+      "verifiedName": "射手村西部树林",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "id": "map-training-10001011",
@@ -2493,7 +3062,10 @@
       "location": {
         "node": "Henesys Hunting Ground I",
         "mode": "entrance"
-      }
+      },
+      "verifiedName": "射手训练场Ⅱ",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "id": "map-training-10001010",
@@ -2505,7 +3077,10 @@
         "node": "Henesys Hunting Ground I",
         "mode": "exact"
       },
-      "note": ""
+      "note": "",
+      "verifiedName": "射手训练场Ⅰ",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "id": "map-training-10002031",
@@ -2517,7 +3092,10 @@
         "node": "The Forest South of Ellinia",
         "mode": "entrance"
       },
-      "note": "大地图标记为入口／所属区域，不是此内部地图的精确坐标。"
+      "note": "大地图标记为入口／所属区域，不是此内部地图的精确坐标。",
+      "verifiedName": "南部森林训练场Ⅰ",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "id": "map-training-10000021",
@@ -2529,7 +3107,10 @@
         "node": "3-Way Road-Split",
         "mode": "entrance"
       },
-      "note": "大地图标记为入口／所属区域，不是此内部地图的精确坐标。"
+      "note": "大地图标记为入口／所属区域，不是此内部地图的精确坐标。",
+      "verifiedName": "猪的海岸",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "id": "map-training-10005071",
@@ -2541,7 +3122,10 @@
         "node": "Sleepywood",
         "mode": "entrance"
       },
-      "note": "大地图标记为入口／所属区域，不是此内部地图的精确坐标。"
+      "note": "大地图标记为入口／所属区域，不是此内部地图的精确坐标。",
+      "verifiedName": "火独眼兽洞穴Ⅰ",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "id": "map-training-10004101",
@@ -2553,7 +3137,10 @@
         "node": "Perion Street Corner",
         "mode": "entrance"
       },
-      "note": "大地图标记为入口／所属区域，不是此内部地图的精确坐标。"
+      "note": "大地图标记为入口／所属区域，不是此内部地图的精确坐标。",
+      "verifiedName": "危险的峡谷",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "id": "map-training-10005075",
@@ -2565,7 +3152,10 @@
         "node": "Sleepywood",
         "mode": "entrance"
       },
-      "note": "大地图标记为入口／所属区域，不是此内部地图的精确坐标。"
+      "note": "大地图标记为入口／所属区域，不是此内部地图的精确坐标。",
+      "verifiedName": "龙族打猎场",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "id": "map-training-10001102",
@@ -2577,7 +3167,10 @@
         "node": "The Road to the Dungeon",
         "mode": "entrance"
       },
-      "note": "大地图标记为入口／所属区域，不是此内部地图的精确坐标。"
+      "note": "大地图标记为入口／所属区域，不是此内部地图的精确坐标。",
+      "verifiedName": "石人寺院入口",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "id": "map-training-10004102",
@@ -2589,7 +3182,10 @@
         "node": "Perion Street Corner",
         "mode": "entrance"
       },
-      "note": "大地图标记为入口／所属区域，不是此内部地图的精确坐标。"
+      "note": "大地图标记为入口／所属区域，不是此内部地图的精确坐标。",
+      "verifiedName": "危险的峡谷Ⅱ",
+      "nameCheckedOn": "2026-10-05",
+      "aliases": []
     },
     {
       "id": "map-guide-region-0",
@@ -2601,7 +3197,8 @@
       "location": {
         "node": "Forgotten Hollow",
         "mode": "entrance"
-      }
+      },
+      "aliases": []
     },
     {
       "id": "map-guide-region-1",
@@ -2613,7 +3210,8 @@
       "location": {
         "node": "Forgotten Hollow",
         "mode": "entrance"
-      }
+      },
+      "aliases": []
     },
     {
       "id": "map-guide-region-2",
@@ -2625,7 +3223,8 @@
       "location": {
         "node": "Forgotten Hollow",
         "mode": "entrance"
-      }
+      },
+      "aliases": []
     },
     {
       "id": "map-guide-region-3",
@@ -2637,7 +3236,8 @@
       "location": {
         "node": "Kerning City",
         "mode": "entrance"
-      }
+      },
+      "aliases": []
     },
     {
       "id": "map-guide-region-4",
@@ -2649,7 +3249,8 @@
       "location": {
         "node": "Sleepywood",
         "mode": "entrance"
-      }
+      },
+      "aliases": []
     }
   ],
   "display": {

@@ -11,6 +11,8 @@ function validMatch(name,text,index){
  return true;
 }
 function matches(text){pattern.lastIndex=0;return [...text.matchAll(pattern)].filter(m=>validMatch(m[0],text,m.index));}
+const canonicalName=(term,original)=>['map','npc','monster'].includes(term.kind)?term.zh:original;
+function canonicalText(text){let result='',index=0;for(const match of matches(text)){result+=text.slice(index,match.index)+canonicalName(names.get(match[0]),match[0]);index=match.index+match[0].length;}return result+text.slice(index);}
 function decorate(container){
  if(!container)return;
  const walker=document.createTreeWalker(container,NodeFilter.SHOW_TEXT);const nodes=[];
@@ -19,11 +21,11 @@ function decorate(container){
   if(!node.parentElement.closest('.game-term,.map-trigger,button,a,input,textarea,script,style,[data-no-glossary],#name-popover'))nodes.push(node);
  }
  for(const node of nodes){const found=matches(node.nodeValue);if(!found.length)continue;const fragment=document.createDocumentFragment();let index=0;
-  for(const match of found){fragment.append(document.createTextNode(node.nodeValue.slice(index,match.index)));const term=names.get(match[0]);const span=make('span','game-term',match[0]);span.dataset.term=term.id;span.dataset.kind=term.kind;span.tabIndex=0;span.setAttribute('role','button');span.setAttribute('aria-label',`${match[0]}：${term.en}`);span.setAttribute('aria-haspopup','dialog');span.setAttribute('aria-controls','name-popover');span.setAttribute('aria-expanded','false');fragment.append(span);index=match.index+match[0].length;}
+  for(const match of found){fragment.append(document.createTextNode(node.nodeValue.slice(index,match.index)));const term=names.get(match[0]);const span=make('span','game-term',canonicalName(term,match[0]));span.dataset.term=term.id;span.dataset.kind=term.kind;span.tabIndex=0;span.setAttribute('role','button');span.setAttribute('aria-label',`${term.zh}：${term.en}`);span.setAttribute('aria-haspopup','dialog');span.setAttribute('aria-controls','name-popover');span.setAttribute('aria-expanded','false');fragment.append(span);index=match.index+match[0].length;}
   fragment.append(document.createTextNode(node.nodeValue.slice(index)));node.replaceWith(fragment);
  }
 }
-function taskTitle(task){const term=data.taskTitles[task.id];const span=make('span','game-term',task.title);span.dataset.term=term.id;span.dataset.kind='quest';span.tabIndex=0;span.setAttribute('role','button');span.setAttribute('aria-label',`${task.title}：${term.en}`);span.setAttribute('aria-haspopup','dialog');span.setAttribute('aria-controls','name-popover');span.setAttribute('aria-expanded','false');return span;}
+function taskTitle(task){const term=data.taskTitles[task.id];const span=make('span','game-term',canonicalText(task.title));span.dataset.term=term.id;span.dataset.kind='quest';span.tabIndex=0;span.setAttribute('role','button');span.setAttribute('aria-label',`${canonicalText(task.title)}：${term.en}`);span.setAttribute('aria-haspopup','dialog');span.setAttribute('aria-controls','name-popover');span.setAttribute('aria-expanded','false');return span;}
 function mapTerms(text){return [...new Map(matches(text).map(m=>names.get(m[0])).filter(t=>t.kind==='map').map(t=>[t.id,t])).values()];}
 function routeButton(container,tasks,label='地图'){
  const maps=[...new Map(tasks.flatMap(t=>mapTerms(t.place)).map(t=>[t.id,t])).values()];
@@ -79,7 +81,7 @@ function open(trigger){
  if(active!==trigger)active?.setAttribute('aria-expanded','false');active=trigger;popup.replaceChildren();
  const closeButton=make('button','popover-close','×');closeButton.type='button';closeButton.setAttribute('aria-label','关闭名称提示');closeButton.addEventListener('click',()=>{const previous=active;close();previous?.focus({preventScroll:true});close();});popup.append(closeButton);
  let list;
- if(trigger.dataset.term){const term=terms.get(trigger.dataset.term);if(!term)return;popup.append(make('span','term-kind',{map:'地图',npc:'NPC',monster:'怪物',item:'道具',quest:'任务'}[term.kind]),make('h3','term-chinese',term.zh),make('p','term-english',term.en));if(term.image){const figure=make('figure','term-portrait '+term.kind+'-portrait');const image=make('img');image.src=term.image;image.alt=term.zh+'（'+term.en+'）游戏形象';if(term.imageWidth)image.width=term.imageWidth;if(term.imageHeight)image.height=term.imageHeight;image.addEventListener('load',position);image.addEventListener('error',()=>{figure.replaceChildren(make('p','term-note','图片暂时无法加载'));position();});figure.append(image);popup.append(figure);}if(term.note)popup.append(make('p','term-note',term.note));const source=make('p','term-source');addLink(source,term.source,'查看名称来源');popup.append(source);if(term.references?.length>1){const refs=make('div','quest-references');for(const ref of term.references){const row=make('p');addLink(row,ref.url,ref.name);refs.append(row);}popup.append(refs);}list=term.kind==='map'?[term]:[];
+ if(trigger.dataset.term){const term=terms.get(trigger.dataset.term);if(!term)return;popup.append(make('span','term-kind',{map:'地图',npc:'NPC',monster:'怪物',item:'道具',quest:'任务'}[term.kind]),make('h3','term-chinese',term.kind==='quest'?canonicalText(term.zh):term.zh),make('p','term-english',term.en));if(term.image){const figure=make('figure','term-portrait '+term.kind+'-portrait');const image=make('img');image.src=term.image;image.alt=term.zh+'（'+term.en+'）游戏形象';if(term.imageWidth)image.width=term.imageWidth;if(term.imageHeight)image.height=term.imageHeight;image.addEventListener('load',position);image.addEventListener('error',()=>{figure.replaceChildren(make('p','term-note','图片暂时无法加载'));position();});figure.append(image);popup.append(figure);}if(term.note)popup.append(make('p','term-note',term.note));const source=make('p','term-source');addLink(source,term.source,'查看名称来源');popup.append(source);if(term.references?.length>1){const refs=make('div','quest-references');for(const ref of term.references){const row=make('p');addLink(row,ref.url,ref.name);refs.append(row);}popup.append(refs);}list=term.kind==='map'?[term]:[];
  }else{list=trigger.dataset.maps.split(',').map(id=>terms.get(id)).filter(Boolean);popup.append(make('span','term-kind','执行地点'),make('h3','term-chinese',trigger.textContent==='阶段地图'?'这一阶段去哪里':'这一步去哪里'),make('p','term-note','也可逐个点击中文地名，查看对应英文与单点位置。'));}
  const regions=[...new Set(list.map(t=>t.region||data.atlas.nodes[t.location?.node]?.region).filter(Boolean))];
  for(const region of regions)popup.append(mapView(list,region));
@@ -91,5 +93,5 @@ const target=e=>e.target.closest?.('.game-term,.map-trigger');
 document.addEventListener('click',e=>{const t=target(e);if(t){e.preventDefault();activate(t);}else if(!popup.contains(e.target))close();});
 document.addEventListener('keydown',e=>{if(e.key==='Escape'){const previous=active;close();if(popup.contains(document.activeElement)){previous?.focus({preventScroll:true});close();}}else if((e.key==='Enter'||e.key===' ')&&target(e)&&e.target.tagName!=='BUTTON'){e.preventDefault();activate(target(e));}});
 addEventListener('resize',position);document.addEventListener('scroll',e=>{if(!popup.contains(e.target)){if(active&&!active.isConnected)close();else position();}},true);
-root.MageGlossary={decorate,taskTitle,routeButton,mapTerms,terms,data,close};
+root.MageGlossary={canonicalText,decorate,taskTitle,routeButton,mapTerms,terms,data,close};
 })(window);
