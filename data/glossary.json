@@ -2470,6 +2470,30 @@
       "imageSource": "https://kafuffu20.com/classic-world/data/icons/items/4000033.png",
       "imageWidth": 31,
       "imageHeight": 32
+    },
+    {
+      "id": "map-training-10001030",
+      "kind": "map",
+      "zh": "射手村西部树林",
+      "en": "Forest West of Henesys",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10001030/",
+      "mapId": 10001030,
+      "location": {
+        "node": "Forest West of Henesys",
+        "mode": "exact"
+      }
+    },
+    {
+      "id": "map-training-10001011",
+      "kind": "map",
+      "zh": "射手训练场Ⅱ",
+      "en": "Henesys Hunting Ground II",
+      "source": "https://kafuffu20.com/classic-world/zh-cn/maps/10001011/",
+      "mapId": 10001011,
+      "location": {
+        "node": "Henesys Hunting Ground I",
+        "mode": "entrance"
+      }
     }
   ],
   "display": {
